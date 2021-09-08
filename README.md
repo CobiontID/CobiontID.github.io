@@ -16,8 +16,9 @@
   transform-origin: top left;
   }
 </style>
-## Composition analysis
-### Scaffold tetranucleotide visualisation for _Hylocomiadelphus triquetrus_ (big shaggy moss)
+## Example: _Hylocomiadelphus triquetrus_ (big shaggy moss)
+### Composition analysis
+#### Scaffold tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
 <iframe
   src="./examples/cbHylTriq8_scaffolds_multi_select.html"
   style="width:130%; height:800px;"  class="is-fullwidth"
