@@ -2,5 +2,5 @@
 
 <iframe
   src="./examples/cbHylTriq8_scaffolds_multi_select.html"
-  style="width:100%; height:800px;"
+  style="width:100%; height:800px;"  class="is-fullwidth"
 ></iframe>
