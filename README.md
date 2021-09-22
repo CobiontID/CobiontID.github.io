@@ -19,7 +19,7 @@
 ## Example: _Hylocomiadelphus triquetrus_ (big shaggy moss)
 ### Composition analysis
 #### Scaffold tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
-The frame below displays the canonical tetranucleotide counts for each scaffold reduced to two dimensions to allow visualisation. Each scaffold is colour-coded by an additional feature (binned into quantiles), to allow potential contamination to be spotted more easily. Contigs that are of interest can be selected with the lasso tool and downloaded.
+The interactive plot below shows the canonical tetranucleotide counts for each scaffold reduced to two dimensions to allow visualisation. Each scaffold is colour-coded by an additional sequence feature, to allow potential contamination to be spotted more easily. Contigs that are of interest can be selected with the lasso tool and downloaded.
 
 <iframe
   src="./examples/cbHylTriq8_scaffolds_multi_select.html"
@@ -27,7 +27,9 @@ The frame below displays the canonical tetranucleotide counts for each scaffold 
   id="IDNAME"
 ></iframe>
 
-##### Features
+This sample contains multiple clusters of contaminant scaffolds of microbial origin, in addition to the target genome (a non-vascular plant).
+
+##### Features (colours represent quantile bins)
 - "Hexamer": Estimated coding density
 - "FastK": The median number of times each 60-mer in the sequence occures across the whole assembly (illustrates repetitiveness)
 - "Unique_15mers": Number of unique 15-mers per base pair (illustrates sequence diversity)
