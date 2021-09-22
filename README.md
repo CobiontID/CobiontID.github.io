@@ -12,6 +12,7 @@
   -o-transform-origin: top left;
   -ms-transform-origin: top left;
   transform-origin: top left;
+  display: block;
   }
 </style>
 ## Example: _Hylocomiadelphus triquetrus_ (big shaggy moss)
