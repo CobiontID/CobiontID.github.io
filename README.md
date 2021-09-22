@@ -13,6 +13,7 @@
   -ms-transform-origin: top left;
   transform-origin: top left;
   display: block;
+  vertical-align: middle;
   }
 </style>
 ## Example: _Hylocomiadelphus triquetrus_ (big shaggy moss)
@@ -22,7 +23,7 @@ The interactive plot below shows the canonical tetranucleotide counts for each s
 
 <iframe
   src="./examples/cbHylTriq8_scaffolds_multi_select.html"
-  style="width:130%; height:700px;"  class="is-fullwidth"
+  style="width:130%; height:650px;"  class="is-fullwidth"
   id="IDNAME"
 ></iframe>This sample contains multiple clusters of contaminant scaffolds of microbial origin, in addition to the target genome (a non-vascular plant).
 
