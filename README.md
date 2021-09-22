@@ -1,7 +1,5 @@
 # CobiontID
 
-
-
 <style>
   #IDNAME {
   -moz-transform: scale(0.75, 0.75); 
@@ -23,7 +21,7 @@ The interactive plot below shows the canonical tetranucleotide counts for each s
 
 <iframe
   src="./examples/cbHylTriq8_scaffolds_multi_select.html"
-  style="width:130%; height:800px;"  class="is-fullwidth"
+  style="width:130%; height:700px;"  class="is-fullwidth"
   id="IDNAME"
 ></iframe>
 
