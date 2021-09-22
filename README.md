@@ -23,9 +23,7 @@ The interactive plot below shows the canonical tetranucleotide counts for each s
   src="./examples/cbHylTriq8_scaffolds_multi_select.html"
   style="width:130%; height:700px;"  class="is-fullwidth"
   id="IDNAME"
-></iframe>
-
-This sample contains multiple clusters of contaminant scaffolds of microbial origin, in addition to the target genome (a non-vascular plant).
+></iframe>This sample contains multiple clusters of contaminant scaffolds of microbial origin, in addition to the target genome (a non-vascular plant).
 
 ##### Features (colours represent quantile bins)
 - "Hexamer": Estimated coding density
