@@ -14,6 +14,8 @@
   transform-origin: top left;
   display: block;
   vertical-align: bottom;
+  padding: 0 !important;
+  margin: 0 !important;
   }
 </style>
 
