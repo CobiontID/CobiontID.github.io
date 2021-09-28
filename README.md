@@ -19,6 +19,10 @@
   }
 </style>
 
+Disentangling sequences from different sources can be both interesting and challenging. It can reveal interactions between organisms and their genomes through time (considering extant associations and molecular fossils), but determining where a sequence came from is not always straightforward - especially when exploring less well sampled parts of the tree of life, where few close relatives have been sequenced.
+
+Below, you will find some examples illustrating how we are tackling this issue in the Tree of Life programme. Our approach, which is tailored for HiFi data, combines grouping sequences from the same source using unsupervised methods with finding reliable taxonomic hints.
+
 ## Example: _Hylocomiadelphus triquetrus_ (big shaggy moss)
 ### Composition analysis
 #### Scaffold tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
