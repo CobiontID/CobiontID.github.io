@@ -47,5 +47,5 @@ This sample contains multiple clusters of contaminant scaffolds of microbial ori
 
 #### Read tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
 
-![image](https://user-images.githubusercontent.com/10507101/135167436-cf040e7f-4645-418c-b193-37a3399ecf9d.png)
-![image](https://user-images.githubusercontent.com/10507101/135167487-f23c94e8-8909-4ccd-9261-6e5099ad26cb.png)
+![image](https://user-images.githubusercontent.com/10507101/135167436-cf040e7f-4645-418c-b193-37a3399ecf9d.png | width=300)
+![image](https://user-images.githubusercontent.com/10507101/135167487-f23c94e8-8909-4ccd-9261-6e5099ad26cb.png | width=300)
