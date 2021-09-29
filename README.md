@@ -27,7 +27,7 @@ Below, you will find some examples illustrating how we are tackling this issue i
 
 ## Example: _Hylocomiadelphus triquetrus_ (big shaggy moss)
 ### Marker scan
-HMM profiles of marker genes, such as rRNAs, which are well-sampled and conserved, are useful for taxonomic assignment of genomes that are otherwise diverged from their closest sequenced relative. We can therefore use them to get an overview of which species are present in a given sample, and to construct streamlined databases for read classification. A combination of assembly, read mapping and compositional clustering then allows the sequences to be assigned to groups.
+HMM profiles of marker genes, such as rRNAs, which are well-sampled and conserved, are useful for taxonomic assignment of genomes that are otherwise diverged from their closest sequenced relative. We can therefore use them to get an overview of which species are present in a given sample, and to construct streamlined databases for read classification. In this case, there is evidence of multiple bacteria. A combination of assembly, read mapping and compositional clustering then allows the sequences to be assigned to groups.
 
 ### Composition analysis
 #### Scaffold tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
@@ -41,7 +41,7 @@ The interactive plot below shows the canonical tetranucleotide counts for each s
 </iframe>
 </div>
 
-This sample contains multiple clusters of contaminant scaffolds of microbial origin, in addition to the target genome (a non-vascular plant). Each scaffold is colour-coded by an additional sequence feature, to allow potential contamination to be spotted more easily. Contigs that are of interest can be selected with the lasso tool and downloaded.
+As expected, this sample contains multiple clusters of contaminant scaffolds of microbial origin, in addition to the target genome (a non-vascular plant). Each scaffold is colour-coded by an additional sequence feature, to allow potential contamination to be spotted more easily. Contigs that are of interest can be selected with the lasso tool and downloaded.
 
 ##### Features (colours represent quantile bins)
 - "Hexamer": Estimated coding density
