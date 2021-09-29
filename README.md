@@ -27,7 +27,7 @@ Below, you will find some examples illustrating how we are tackling this issue i
 
 ## Example: _Hylocomiadelphus triquetrus_ (big shaggy moss)
 ### Marker scan
-HMM profiles of marker genes, such as rRNAs, which are well-sampled and conserved, are useful for taxonomic assignment of genomes that are otherwise diverged from their closest sequenced relative. We can therefore use them to get an overview of which species are present in a given sample, and to construct streamlined databases for read classification. In this case, there is evidence of multiple bacteria. A combination of assembly, read mapping and compositional clustering then allows the sequences to be assigned to groups.
+HMM profiles of marker genes, such as rRNAs, which are well-sampled and conserved, are useful for taxonomic assignment of genomes that are otherwise diverged from their closest sequenced relative. We can therefore use them to get an overview of which species are present in a given sample, and to construct streamlined databases for read classification. In this case, there is evidence of multiple bacteria. A combination of assembly, read mapping and compositional clustering then allows the sequences to be assigned to groups that can be tagged with this taxonomic information.
 
 ### Composition analysis
 #### Scaffold tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
