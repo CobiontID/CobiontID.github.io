@@ -44,7 +44,7 @@ The interactive plot below shows the canonical tetranucleotide counts for each s
 As expected, this sample contains multiple clusters of contaminant scaffolds of microbial origin, in addition to the target genome (a non-vascular plant). Each scaffold is colour-coded by an additional sequence feature, to allow potential contamination to be spotted more easily. Contigs that are of interest can be selected with the lasso tool and downloaded.
 
 ##### Features (colours represent quantile bins)
-- "Hexamer": Estimated coding density
+- "Hexamer": Estimated coding density (expected to be higher in microbes than in animals).
 - "FastK": The median number of times each 60-mer in the sequence occures across the whole assembly (illustrates repetitiveness)
 - "Unique_15mers": Number of unique 15-mers per base pair (illustrates sequence diversity)
 - "Is_Connected": Presence of at least one Hi-C connection to another scaffold (absence of connections can indicate contamination)
