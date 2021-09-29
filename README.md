@@ -66,6 +66,8 @@ Purple: Low count. Yellow: High count.
 
 <img src="https://user-images.githubusercontent.com/10507101/135167487-f23c94e8-8909-4ccd-9261-6e5099ad26cb.png" width=500>
 
-##### Reads shown in blue are flagged for removal by the marker scan pipeline
+##### Reads labelled by marker scan pipeline results
+Blue points represent reads flagged for removal. As we can see, the identified markers account for most, but not all of the groups of reads. As an additional step, we can therefore select sequences from the plot using an interactive widget, and query a database.
+
 <img src="https://user-images.githubusercontent.com/10507101/135230209-66049a04-f1b4-4e78-a600-bd4cf0e6bf6a.png" width=500>
 
