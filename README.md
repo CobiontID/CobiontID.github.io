@@ -29,6 +29,9 @@ Below, you will find some examples illustrating how we are tackling this issue i
 ### Marker scan
 HMM profiles of marker genes, such as rRNAs, which are well-sampled and conserved, are useful for taxonomic assignment of genomes that are otherwise diverged from their closest sequenced relative. We can therefore use them to get an overview of which species are present in a given sample, and to construct streamlined databases for read classification. In this case, there is evidence of multiple bacteria. A combination of assembly, read mapping and compositional clustering then allows the sequences to be assigned to groups that can be tagged with this taxonomic information.
 
+![image](https://user-images.githubusercontent.com/10507101/136378496-49eea402-3f95-427d-ac84-1ef33cc71ced.png)
+
+
 ### Composition analysis
 #### Scaffold tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
 The interactive plot below shows the canonical tetranucleotide counts for each scaffold reduced to two dimensions to allow visualisation.
