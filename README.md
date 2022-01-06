@@ -52,6 +52,7 @@ As expected, this sample contains multiple clusters of contaminant scaffolds of 
 - "Unique_15mers": Number of unique 15-mers per base pair (illustrates sequence diversity)
 - "Is_Connected": Presence of at least one Hi-C connection to another scaffold (absence of connections can indicate contamination)
 - "Connections_Base": Number of Hi-C connections per base pair
+- "Coverage": For Hifiasm contigs, coverage estimates can also be displayed (not shown for scaffold example above).
 
 #### Read tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
 
