@@ -56,7 +56,7 @@ As expected, this sample contains multiple clusters of contaminant scaffolds of 
 
 #### Read tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
 
-Because HiFi reads are both long and highly accurate, we can begin to assess incoming samples for contamination prior to assembly, and subsequently tie the results in with later steps. As with contigs and scaffolds, the tetranucleotides for each read can be reduced to 2D and annotated.
+Because HiFi reads are both long and highly accurate, we can begin to assess incoming samples for contamination prior to assembly, and subsequently tie the results in with later steps. As with contigs and scaffolds, the tetranucleotides for each read can be reduced to 2D and annotated. Since a given read set typically contains millions of sequences, we implemented a variational autoencoder to project the data into two dimensions.
 
 The plots below illustrate that the shaggy moss sample contains multiple groups of reads with high coding density and low coverage. Inspecting these clusters reveals that they contain bacterial sequences.
 
