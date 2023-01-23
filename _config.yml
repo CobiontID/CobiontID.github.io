@@ -1,4 +1,4 @@
 title: CobiontID
 remote-theme: just-the-docs/just-the-docs
 
-layout: default
+search_enabled: false
