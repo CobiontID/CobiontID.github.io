@@ -1,4 +1,2 @@
 title: "CobiontID"
-remote-theme: just-the-docs/just-the-docs
-
-search_enabled: false
+remote-theme: chrisrhymes/bulma-clean-theme
