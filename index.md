@@ -1,6 +1,8 @@
 ---
 title: Home
 layout: home
+nav_order: 1
+permalink: /
 ---
 
 Disentangling sequences from different sources can be both interesting and challenging. It can reveal interactions between organisms and their genomes through time (considering extant associations and molecular fossils), but determining where a sequence came from is not always straightforward - especially when exploring less well sampled parts of the tree of life, where few close relatives have been sequenced.
