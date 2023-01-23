@@ -4,6 +4,7 @@ source "https://rubygems.org"
 gemspec
 
 gem "jekyll-remote-theme"
+gem "bulma-clean-theme"
 
 group :jekyll_plugins do
     gem "jekyll-feed", "~> 0.6"
