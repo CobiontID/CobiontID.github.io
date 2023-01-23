@@ -11,6 +11,9 @@ plugins:
 - kramdown-parser-gfm
 - jekyll-redirect-from
 
+sass:
+  style: compressed
+  source_dir: _sass
 
 defaults:
   -
