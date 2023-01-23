@@ -37,7 +37,7 @@ The interactive plot below shows the canonical tetranucleotide counts for each s
 
 <div>
 <iframe
-  src="./examples/cbHylTriq8_scaffolds_multi_select.html"
+  src="../examples/cbHylTriq8_scaffolds_multi_select.html"
   style="width:130%; height:650px;"  class="is-fullwidth"
   id="IDNAME">
 </iframe>
