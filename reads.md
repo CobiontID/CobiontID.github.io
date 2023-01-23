@@ -1,7 +1,7 @@
 ---
 title: Read visualisation
-layout: default
-nav_order: 2
+layout: page
+show_sidebar: true
 ---
 
 
