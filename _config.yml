@@ -4,6 +4,7 @@ baseurl: "/"
 
 plugins:
 - github-pages
+- jekyll-remote-theme
 
 sass:
   style: compressed
