@@ -1,5 +1,5 @@
 ---
-title: Home
+title: CobiontID overview
 layout: home
 nav_order: 1
 permalink: /
