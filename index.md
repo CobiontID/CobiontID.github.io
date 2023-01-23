@@ -15,4 +15,4 @@ the [README] file illustrates some examples.
 
 ----
 
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
+[README]: https://github.com/CobiontID/CobiontID.github.io/blob/main/README.md
