@@ -1,2 +1,11 @@
 title: "CobiontID"
 remote-theme: chrisrhymes/bulma-clean-theme
+
+
+defaults:
+  -
+    scope:
+      path: ""
+      type: "pages"
+    values:
+      show_sidebar: true
