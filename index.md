@@ -2,6 +2,7 @@
 title: CobiontID overview
 layout: page
 show_sidebar: true
+menubar: docs_menu
 
 ---
 
