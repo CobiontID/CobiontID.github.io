@@ -1,6 +1,6 @@
 ---
 title: CobiontID overview
-layout: default
+layout: page
 nav_order: 1
 permalink: /
 ---
