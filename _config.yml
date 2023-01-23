@@ -1,5 +1,5 @@
 title: "CobiontID"
-remote-theme: chrisrhymes/bulma-clean-theme
+remote-theme: chrisrhymes/bulma-clean-theme@master
 baseurl: "/"
 
 plugins:
