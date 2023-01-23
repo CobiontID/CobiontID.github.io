@@ -8,3 +8,9 @@ Disentangling sequences from different sources can be both interesting and chall
 On these pages, you will find some examples illustrating how we are tackling this issue in the <a href="https://www.sanger.ac.uk/programme/tree-of-life/">Tree of Life</a> programme. Our approach, which is tailored for HiFi data, combines grouping sequences from the same source with finding reliable taxonomic hints. This allows us to reduce reliance on databases.
 
 <img src="https://user-images.githubusercontent.com/10507101/135228070-aca877cf-d210-4e65-8805-a679158b68e2.png" width=300>
+
+the [README] file illustrates some examples.
+
+----
+
+[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
