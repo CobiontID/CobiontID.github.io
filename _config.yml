@@ -9,3 +9,4 @@ defaults:
       type: "pages"
     values:
       show_sidebar: true
+      menubar: docs_menu
