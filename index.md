@@ -17,7 +17,9 @@ On these pages, you will find some examples showing how we are tackling this iss
 
 The **CobiontID** process has two parts: First, **Marker scan** provides taxonomic information. HMM profiles of marker genes, such as rRNAs, which are well-sampled and conserved, are useful to classify sequences from genomes that are otherwise too diverged from their closest sequenced relative. We can therefore gauge which species are present in a given sample, and construct streamlined databases for read classification. Second, a combination of assembly, read mapping and **compositional clustering** allows the sequences to be assigned to groups that can be tagged with this taxonomic information.
 
-See [here] for an illustration of how these tools can be used.
+### What kind of information does CobiontID provide?
+
+See [here] for an illustration of the outputs the tools presented here provide, and how to interpret them. If you have ever looked at the "Cobionts" section of a page on [Tree of Life QC](https://tolqc.cog.sanger.ac.uk/) and wondered how to read the tables and plots, your questions will hopefully be answered here.
 
 [here]: examples.html
 
