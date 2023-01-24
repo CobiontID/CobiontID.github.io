@@ -5,7 +5,7 @@ show_sidebar: false
 menubar: docs_menu
 
 ---
-# Identifying cobionts and contaminants in the Tree of Life
+# Identifying cobionts and contaminants
 
 Disentangling sequences from different sources can be both interesting and challenging. It can reveal interactions between organisms and their genomes through time (considering extant associations and molecular fossils). In some cases, the aim may simply be to remove contamination that has found its way into a sample. However, determining where a sequence came from is not always straightforward - especially when exploring less well sampled parts of the tree of life, where few close relatives have been sequenced.
 
