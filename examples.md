@@ -1,5 +1,5 @@
 ---
-title: An iluustrated example
+title: An illustrated example
 layout: page
 toc: true
 ---
@@ -49,12 +49,15 @@ The interactive plot below shows the canonical tetranucleotide counts for each s
 As expected, this sample contains multiple clusters of contaminant scaffolds of microbial origin, in addition to the target genome (a non-vascular plant). Each scaffold is colour-coded by an additional sequence feature, to allow potential contamination to be spotted more easily. Contigs that are of interest can be selected with the lasso tool and downloaded.
 
 #### Features (colours represent quantile bins)
-- "Hexamer": Estimated coding density (expected to be higher in microbes than in animals).
-- "FastK": The median number of times each 60-mer in the sequence occures across the whole assembly (illustrates repetitiveness)
-- "Unique_15mers": Number of unique 15-mers per base pair (illustrates sequence diversity)
-- "Is_Connected": Presence of at least one Hi-C connection to another scaffold (absence of connections can indicate contamination)
-- "Connections_Base": Number of Hi-C connections per base pair
-- "Coverage": For Hifiasm contigs, coverage estimates can also be displayed (not shown for scaffold example above).
+
+| Label  | Feature | Notes |
+| ------------- | ------------- | --- |
+| "Hexamer"  | Estimated coding density | Expected to be higher in microbes than in animals, plants |
+| "FastK" | Median number of times each large k-mer in the sequence occures across the whole assembly | Illustrates repetitiveness (for assembled sequences), k=60 in this example |
+| "Unique_15mers" | Number of unique 15-mers per base pair | Captures sequence diversity |
+| "Is_Connected" | Presence of at least one Hi-C connection to another scaffold | Absence of connections can highlight contaminants |
+| "Connections_Base" | Number of Hi-C connections per base pair | |
+| "Coverage" | Coverage estimates for hifiasm contigs | Not shown for scaffolds above |
 
 ### Read tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
 
@@ -67,8 +70,8 @@ Purple: Low density. Yellow: High density. Note the high-density clusters on the
 
 <img src="https://user-images.githubusercontent.com/10507101/135167436-cf040e7f-4645-418c-b193-37a3399ecf9d.png" width=500>
 
-#### Reads labelled by median 60-mer count to approximate coverage
-Purple: Low count. Yellow: High count. The target genome (the moss), is present at fairly high coverage compared to the majority of the bacteria.
+#### Reads labelled by median 60-mer count, approximating k-mer coverage
+Purple: Low count. Yellow: High count. The target genome (moss), is present at fairly high coverage compared to the majority of the bacteria.
 
 <img src="https://user-images.githubusercontent.com/10507101/135167487-f23c94e8-8909-4ccd-9261-6e5099ad26cb.png" width=500>
 
