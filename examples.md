@@ -68,11 +68,11 @@ Purple: Low density. Yellow: High density. Note the high-density clusters on the
 <img src="https://user-images.githubusercontent.com/10507101/135167436-cf040e7f-4645-418c-b193-37a3399ecf9d.png" width=500>
 
 #### Reads labelled by median 60-mer count to approximate coverage
-Purple: Low count. Yellow: High count.
+Purple: Low count. Yellow: High count. The target genome (the moss), is present at fairly high coverage compared to the majority of the bacteria.
 
 <img src="https://user-images.githubusercontent.com/10507101/135167487-f23c94e8-8909-4ccd-9261-6e5099ad26cb.png" width=500>
 
 #### Reads labelled by marker scan pipeline results
-Blue points represent reads flagged for removal. As we can see, the identified markers account for most, but not all of the groups of reads. As an additional step, we can therefore select sequences from the plot using an interactive widget, and query a database.
+Blue points represent reads flagged for removal. As we can see, the identified markers account for most, but not all of the groups of reads. As an additional step, we can therefore select sequences from the plot using an interactive widget, and query a database. Jump to [this page](reads.html) to explore an example of an insect read set in your browser.
 
 <img src="https://user-images.githubusercontent.com/10507101/135230209-66049a04-f1b4-4e78-a600-bd4cf0e6bf6a.png" width=500>
