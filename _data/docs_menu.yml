@@ -4,7 +4,11 @@
       link: index.html
     - name: Illustrated example
       link: examples.html
+    - name: Applications
+      link: applications.html
 
+
+-label: Marker Scan
 
 - label: Composition
   items:
