@@ -1,6 +1,7 @@
 ---
 title: Examples
 layout: page
+toc: true
 ---
 
 
