@@ -1,4 +1,4 @@
-- name: Home
-  link: /
+#- name: Home
+#  link: /
 - name: Examples
   link: /docs/examples.html
