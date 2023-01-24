@@ -35,7 +35,7 @@ HMM profiles of marker genes, such as rRNAs, which are well-sampled and conserve
 
 
 ## Composition analysis
-### Scaffold tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
+### Scaffold tetranucleotide visualisation
 The interactive plot below shows the canonical tetranucleotide counts for each scaffold reduced to two dimensions to allow visualisation.
 
 <div>
@@ -59,7 +59,7 @@ As expected, this sample contains multiple clusters of contaminant scaffolds of 
 | "Connections_Base" | Number of Hi-C connections per base pair | |
 | "Coverage" | Coverage estimates for hifiasm contigs | Not shown for scaffolds above |
 
-### Read tetranucleotide visualisation for _Hylocomiadelphus triquetrus_
+### Read tetranucleotide visualisation
 
 Because HiFi reads are both long and highly accurate, we can begin to assess incoming samples for contamination prior to assembly, and subsequently tie the results in with later steps. As with contigs and scaffolds, the tetranucleotides for each read can be reduced to 2D and annotated. Since a given read set typically contains millions of sequences, we implemented a variational autoencoder to project the data into two dimensions.
 
