@@ -3,10 +3,6 @@
 source "https://rubygems.org"
 gemspec
 
-gem "jekyll-remote-theme"
-gem 'github-pages', group: :jekyll_plugins
-gem "bulma-clean-theme"
-
 group :jekyll_plugins do
     gem "jekyll-feed", "~> 0.6"
     gem "jekyll-sitemap"
@@ -14,3 +10,4 @@ group :jekyll_plugins do
     gem "jekyll-seo-tag"
     gem 'jekyll-redirect-from'
 end
+
