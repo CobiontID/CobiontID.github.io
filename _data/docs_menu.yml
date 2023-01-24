@@ -3,7 +3,7 @@
     - name: Overview
       link: index.html
     - name: Examples
-      link: /docs/examples.html
+      link: examples.html
 
 
 - label: Composition
