@@ -1,7 +1,7 @@
 ---
 title: Read visualisation
 layout: page
-show_sidebar: true
+show_sidebar: false
 ---
 
 
