@@ -1,5 +1,5 @@
 ---
-title: Examples
+title: An iluustrated example
 layout: page
 toc: true
 ---
