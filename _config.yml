@@ -18,6 +18,7 @@ defaults:
     values:
       show_sidebar: false
       menubar: docs_menu
+      hero_height: small
   -
     scope:
       path: ""
