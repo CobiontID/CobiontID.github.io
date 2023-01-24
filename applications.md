@@ -12,5 +12,5 @@ A comprehensive survey of [Wolbachia](https://journals.plos.org/plosbiology/arti
 
 In addition to helping to generate reference-quality bacterial assemblies, the toolkit is proving useful to extract sequences from microsporidians.
 
-# Quality control
-https://tolqc.cog.sanger.ac.uk/
+# Quality control for assemblies
+[https://tolqc.cog.sanger.ac.uk/](https://tolqc.cog.sanger.ac.uk/)
