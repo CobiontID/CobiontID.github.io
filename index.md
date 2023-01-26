@@ -23,8 +23,8 @@ See [here] for an illustration of the outputs the tools presented here provide, 
 
 [here]: examples.html
 
-## Software used in the pipelines
-### Standalone tools
+### Software used in the pipelines
+#### Standalone tools
 
 | Tool | Description | Application | Language |
 |--|--|--|--|
