@@ -23,6 +23,18 @@ See [here] for an illustration of the outputs the tools presented here provide, 
 
 [here]: examples.html
 
+## Software used in the pipelines
+### Standalone tools
+
+| Tool | Description | Application | Language |
+|--|--|--|--|
+| [kmer-counter](https://github.com/CobiontID/kmer-counter) | Fast k-mer counter for large read sets | Get tetranucleotide counts | Rust |
+| [unique-kmers](https://github.com/CobiontID/unique-kmer-counts) | Count distinct k-mers in sequences | Calculate k-mer diversity | Rust |
+| [hexamer](https://github.com/richarddurbin/hexamer) | Detect likely coding regions | Estimate coding density | C |
+| fastk_medians | Calculate median number of times each large k-mer in a sequence occurs across the set (modified version of Profex from the original FASTK library) | Approximate k-mer coverage | C |
+
+
+
 ## Additional information
 - ![image](https://user-images.githubusercontent.com/10507101/214304451-5c5f4a0f-b0f1-485e-afe8-0eea4b592475.png) [GitHub](https://github.com/CobiontID/)
 - [Slides](https://drive.google.com/file/d/1ghtPRkdNZRLfDH-pTluUJ2Xq1IpKRaht/view) from talk on CobiontID at PopGroup55 (2022)
