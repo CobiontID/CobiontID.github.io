@@ -4,20 +4,25 @@ layout: page
 show_sidebar: false
 ---
 
+## Using the interactive dashboard
 
 Try exploring the data interactively here:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CobiontID/CobiontID.github.io/blob/main/Readviz_demo.ipynb)
 
-The simplest way to run the notebook is to open it in Colab and click on `Runtime -> Run all` and then scroll down to interact with the plot. For example, you may draw a rectangular selection and run blast to find out what is in the cluster at the bottom with high coding density.
+The simplest way to run the notebook is to open it in Colab (you will not need to install anything on your local machine). Click on `Runtime -> Run all` at the top of the page. Continue with `Run anyway` if prompted that the notebook was not authored by Google. Then scroll down to interact with the plot. For example, you may draw a rectangular selection and run blastn to find out what is in the cluster at the bottom with high coding density:
 
 <img src="https://user-images.githubusercontent.com/10507101/214277601-9c4c1fd9-fd77-41fe-862d-932810451bfd.png" width=700>
 
-You might also be interested in reads with k-mer coverage >= 1000 - notice the mitochondrion in the selection.
+You might also be interested in reads with k-mer coverage >= 1000. Notice the mitochondrion in the selection:
 
 <img src="https://user-images.githubusercontent.com/10507101/214279741-e667a16c-62df-42b2-b3b1-25a24818e93c.png" width=700>
 
+There is also some low-coverage bacterial contamination hiding in the plot. Try setting the range to 0-15 and changing the background colour to make the points easier to see:
 
+<img src="https://user-images.githubusercontent.com/10507101/214903678-d281d170-a272-45b8-b051-14f2dfd8947b.png" width=700>
+
+### Using your own data
 To explore your own data, you can upload your own files and adjust the configuration. More details are provided in the notebook. However, since fasta files can be very large, it will probably be more convenient to download the notebook and run it locally with Jupyter (it will also work in Virtual Studio Code).
 
 
