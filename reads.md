@@ -10,7 +10,10 @@ Try exploring the data interactively here:
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CobiontID/CobiontID.github.io/blob/main/Readviz_demo.ipynb)
 
-The simplest way to run the notebook is to open it in Colab (you will not need to install anything on your local machine). Click on `Runtime -> Run all` at the top of the page. Continue with `Run anyway` if prompted that the notebook was not authored by Google. Then scroll down to interact with the plot. For example, you may draw a rectangular selection and run blastn to find out what is in the cluster at the bottom with high coding density:
+The simplest way to run the notebook is to open it in Colab (you will not need to install anything on your local machine). Click on `Runtime -> Run all` at the top of the page. Continue with `Run anyway` if prompted that the notebook was not authored by Google. Then scroll down to interact with the plot.
+
+### Filtering and querying data
+For example, you may draw a rectangular selection and run blastn to find out what is in the cluster at the bottom with high coding density:
 
 <img src="https://user-images.githubusercontent.com/10507101/214277601-9c4c1fd9-fd77-41fe-862d-932810451bfd.png" width=700>
 
@@ -22,7 +25,12 @@ There is also some low-coverage bacterial contamination hiding in the plot. Try 
 
 <img src="https://user-images.githubusercontent.com/10507101/214903678-d281d170-a272-45b8-b051-14f2dfd8947b.png" width=700>
 
-### Using your own data
+## Cross-referencing other sources of information
+The section below the dashboard shows how read visualisation can be combined with existing labels for more efficient data exploration. The example below shows the reads flagged as trypanosome by marker scan in red. Reads that map to the mitochondrial assembly are shown in gold. All other (unlabelled) points in blue. Notice that the main "trypanosome" cluster corresponds to the coding dense cluster mentioned above.
+
+<img src="https://user-images.githubusercontent.com/10507101/216154074-154908f0-3542-49e9-bf0e-39c7f7718705.png" width=700>
+
+## Using your own data
 To explore your own data, you can upload your own files and adjust the configuration. More details are provided in the notebook. However, since fasta files can be very large, it will probably be more convenient to download the notebook and run it locally with Jupyter (it will also work in Virtual Studio Code).
 
 
