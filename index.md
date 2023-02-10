@@ -37,6 +37,6 @@ See [here] for an illustration of the outputs the tools presented here provide, 
 
 
 ## Additional information
-![image](https://user-images.githubusercontent.com/10507101/214304451-5c5f4a0f-b0f1-485e-afe8-0eea4b592475.png) [GitHub](https://github.com/CobiontID/)
+![image](https://user-images.githubusercontent.com/10507101/218133727-b8cd1860-d33e-4955-8d2e-473d770def84.png) [GitHub](https://github.com/CobiontID/)
 - [Slides](https://drive.google.com/file/d/1ghtPRkdNZRLfDH-pTluUJ2Xq1IpKRaht/view) from talk on CobiontID at PopGroup55 (2022)
 - [Flash presentation](https://twitter.com/cc7740/status/1479071728697548807) accompanying PopGroup talk
