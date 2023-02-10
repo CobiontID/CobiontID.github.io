@@ -11,7 +11,8 @@ Disentangling sequences from different sources can be both interesting and chall
 
 On these pages, you will find some examples showing how we are tackling this issue in the <a href="https://www.sanger.ac.uk/programme/tree-of-life/">Tree of Life</a> programme. Our approach, which is tailored for HiFi data, combines grouping sequences from the same source with finding reliable taxonomic hints. This allows us to reduce reliance on databases, which can be incomplete and contain mislabelled sequences.
 
-<img src="https://user-images.githubusercontent.com/10507101/135228070-aca877cf-d210-4e65-8805-a679158b68e2.png" width=300>
+<img src="https://user-images.githubusercontent.com/10507101/218132172-1ae5b98c-2770-46c4-9740-37b30ec1b7d5.png" width=300>
+
 
 ## The CobiontID approach
 
