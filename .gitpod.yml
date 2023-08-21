@@ -9,7 +9,7 @@ image:
 
 tasks:
   - init: pip install -r requirements.txt && bundle install
-    command panel serve --port=5006 --allow-websocket-origin=$( gp url 5006 | cut -d"/" -f3 ) --show panel.py
+    command: panel serve --port=5006 --allow-websocket-origin=$( gp url 5006 | cut -d"/" -f3 ) --show panel.py
 
 ports:
     - name: Read VAE
