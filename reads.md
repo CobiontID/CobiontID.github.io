@@ -7,8 +7,9 @@ show_sidebar: false
 <style>
   #iframeContainer {
     position: relative;
+    padding-bottom: 50%; /* Maintain the aspect ratio (height/width) */
+    height: 0;
     overflow: hidden;
-    padding-top: 56.25%; /* 16:9 aspect ratio (9 / 16 = 0.5625) */
   }
   #IDNAME {
     position: absolute;
@@ -16,6 +17,9 @@ show_sidebar: false
     left: 0;
     width: 100%;
     height: 100%;
+    transform: scale(0.5);
+    transform-origin: top left;
+    display: block;
     border: none; /* Remove iframe border */
   }
 </style>
@@ -31,7 +35,6 @@ There are two ways to explore the data interactively. The first is the web app <
     id="IDNAME"
   ></iframe>
 </div>
-
 
 
 To experiment with loading your own data, you can also try the notebook version, which is more configurable but currently does not include the option to directly filter the data by taxonomic class.
