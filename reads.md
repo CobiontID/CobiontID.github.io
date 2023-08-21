@@ -4,19 +4,37 @@ layout: page
 show_sidebar: false
 ---
 
-<style> #IDNAME { -moz-transform: scale(0.5, 0.5); -webkit-transform: scale(0.5, 0.5); -o-transform: scale(0.5, 0.5); -ms-transform: scale(0.5, 0.5); transform: scale(0.5, 0.5); -moz-transform-origin: top left; -webkit-transform-origin: top left; -o-transform-origin: top left; -ms-transform-origin: top left; transform-origin: top left; display: block; vertical-align: bottom; padding: 0 !important; margin: 0 !important; display:block;} </style>
+<style>
+  #IDNAME {
+    display: block;
+    width: 100%; /* Make the iframe fill its container horizontally */
+    height: 0; /* Reset the height */
+    padding: 0;
+    margin: 0;
+    border: none; /* Remove iframe border */
+  }
+  #iframeContainer {
+    position: relative;
+    padding-bottom: 50%; /* Maintain the aspect ratio (height/width) */
+    height: 0;
+    overflow: hidden;
+  }
+</style>
 
 ## Using the interactive dashboard
 
-There are two ways to exploring the data interactively. The first is the web app [here](https://huggingface.co/spaces/cc7740/read_VAE).
+There are two ways to explore the data interactively. The first is the web app <a href="https://huggingface.co/spaces/cc7740/read_VAE" target="_blank">here</a> (preview shown below).
 
-<iframe
-	src="https://cc7740-read-vae.hf.space"
-	frameborder="0"
-	width="1650"
-	height="900"
-	id="IDNAME"
-></iframe>
+<div id="iframeContainer">
+  <iframe
+    src="https://cc7740-read-vae.hf.space"
+    frameborder="0"
+    width="100%"
+    height="100%"
+    id="IDNAME"
+  ></iframe>
+</div>
+
 
 To experiment with loading your own data, you can also try the notebook version, which is more configurable but currently does not include the option to directly filter the data by taxonomic class.
 
