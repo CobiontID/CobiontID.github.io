@@ -6,7 +6,9 @@ show_sidebar: false
 
 ## Using the interactive dashboard
 
-Try exploring the data interactively here:
+There are two ways to exploring the data interactively. The first is the web app [here](https://huggingface.co/spaces/cc7740/read_VAE).
+
+To experiment with loading your own data, you can also try the notebook version, which is more configurable but currently does not include the option to directly filter the data by taxonomic class.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CobiontID/CobiontID.github.io/blob/main/Readviz_demo.ipynb)
 
@@ -21,7 +23,7 @@ You might also be interested in reads with k-mer coverage >= 1000. Notice the mi
 
 <img src="https://user-images.githubusercontent.com/10507101/214279741-e667a16c-62df-42b2-b3b1-25a24818e93c.png" width=700>
 
-There is also some low-coverage bacterial contamination hiding in the plot. Try setting the range to 0-15 and changing the background colour to make the points easier to see:
+There is also some low-coverage bacterial contamination hiding in the plot. Try setting the range to 0-15 and changing the background colour to make the points easier to see (the webapp version also supports reversing the colour map):
 
 <img src="https://user-images.githubusercontent.com/10507101/214903678-d281d170-a272-45b8-b051-14f2dfd8947b.png" width=700>
 
@@ -31,7 +33,7 @@ The section below the dashboard shows how read visualisation can be combined wit
 <img src="https://user-images.githubusercontent.com/10507101/216154074-154908f0-3542-49e9-bf0e-39c7f7718705.png" width=700>
 
 ## Using your own data
-To explore your own data, you can upload your own files and adjust the configuration. More details are provided in the notebook. However, since fasta files can be very large, it will probably be more convenient to download the notebook and run it locally with Jupyter (it will also work in Virtual Studio Code).
+To explore your own data with the notebook, you can upload your own files and adjust the configuration. More details are provided in the notebook. However, since fasta files can be very large, it will probably be more convenient to download the notebook and run it locally with Jupyter (it will also work in Virtual Studio Code).
 
 
 
