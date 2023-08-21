@@ -1,0 +1,13 @@
+panel
+param
+jupyter
+transformers
+numpy==1.23.1
+torch
+aiohttp
+datashader
+holoviews==1.17.1
+bokeh
+Biopython
+matplotlib
+jinja2==3.0.1
