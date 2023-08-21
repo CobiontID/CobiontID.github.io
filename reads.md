@@ -13,11 +13,10 @@ There are two ways to exploring the data interactively. The first is the web app
 <iframe
 	src="https://cc7740-read-vae.hf.space"
 	frameborder="0"
-	width="850"
-	height="650"
+	width="1250"
+	height="750"
 	id="IDNAME"
 ></iframe>
-
 
 To experiment with loading your own data, you can also try the notebook version, which is more configurable but currently does not include the option to directly filter the data by taxonomic class.
 
