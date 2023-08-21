@@ -8,6 +8,13 @@ show_sidebar: false
 
 There are two ways to exploring the data interactively. The first is the web app [here](https://huggingface.co/spaces/cc7740/read_VAE).
 
+<iframe
+	src="https://cc7740-read-vae.hf.space"
+	frameborder="0"
+	width="850"
+	height="450"
+></iframe>
+
 To experiment with loading your own data, you can also try the notebook version, which is more configurable but currently does not include the option to directly filter the data by taxonomic class.
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/CobiontID/CobiontID.github.io/blob/main/Readviz_demo.ipynb)
