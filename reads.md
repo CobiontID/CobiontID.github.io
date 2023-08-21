@@ -4,7 +4,7 @@ layout: page
 show_sidebar: false
 ---
 
-<style> #IDNAME { -moz-transform: scale(0.75, 0.75); -webkit-transform: scale(0.75, 0.75); -o-transform: scale(0.75, 0.75); -ms-transform: scale(0.75, 0.75); transform: scale(0.75, 0.75); -moz-transform-origin: top left; -webkit-transform-origin: top left; -o-transform-origin: top left; -ms-transform-origin: top left; transform-origin: top left; display: block; vertical-align: bottom; padding: 0 !important; margin: 0 !important; } </style>
+<style> #IDNAME { -moz-transform: scale(0.5, 0.5); -webkit-transform: scale(0.75, 0.75); -o-transform: scale(0.5, 0.5); -ms-transform: scale(0.5, 0.5); transform: scale(0.5, 0.5); -moz-transform-origin: top left; -webkit-transform-origin: top left; -o-transform-origin: top left; -ms-transform-origin: top left; transform-origin: top left; display: block; vertical-align: bottom; padding: 0 !important; margin: 0 !important; } </style>
 
 ## Using the interactive dashboard
 
@@ -14,7 +14,7 @@ There are two ways to exploring the data interactively. The first is the web app
 	src="https://cc7740-read-vae.hf.space"
 	frameborder="0"
 	width="850"
-	height="450"
+	height="650"
 	id="IDNAME"
 ></iframe>
 
