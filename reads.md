@@ -7,16 +7,17 @@ show_sidebar: false
 <style>
   #iframeContainer {
     position: relative;
-    padding-bottom: 50%; /* Maintain the aspect ratio (height/width) */
+    width: 100%; /* Set the container width to 100% */
     height: 0;
+    padding-bottom: 50%; /* Maintain the aspect ratio (height/width) */
     overflow: hidden;
   }
   #IDNAME {
     position: absolute;
     top: 0;
     left: 0;
-    width: 100%;
-    height: 100%;
+    width: 200%; /* Increase the width to ensure content isn't cut off */
+    height: 200%; /* Increase the height to match the width scaling */
     transform: scale(0.5);
     transform-origin: top left;
     display: block;
