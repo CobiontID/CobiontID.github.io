@@ -5,19 +5,18 @@ show_sidebar: false
 ---
 
 <style>
-  #IDNAME {
-    display: block;
-    width: 100%; /* Make the iframe fill its container horizontally */
-    height: 0; /* Reset the height */
-    padding: 0;
-    margin: 0;
-    border: none; /* Remove iframe border */
-  }
   #iframeContainer {
     position: relative;
-    padding-bottom: 50%; /* Maintain the aspect ratio (height/width) */
-    height: 0;
     overflow: hidden;
+    padding-top: 56.25%; /* 16:9 aspect ratio (9 / 16 = 0.5625) */
+  }
+  #IDNAME {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    border: none; /* Remove iframe border */
   }
 </style>
 
@@ -29,11 +28,10 @@ There are two ways to explore the data interactively. The first is the web app <
   <iframe
     src="https://cc7740-read-vae.hf.space"
     frameborder="0"
-    width="100%"
-    height="100%"
     id="IDNAME"
   ></iframe>
 </div>
+
 
 
 To experiment with loading your own data, you can also try the notebook version, which is more configurable but currently does not include the option to directly filter the data by taxonomic class.
