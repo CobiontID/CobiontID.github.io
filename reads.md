@@ -4,6 +4,8 @@ layout: page
 show_sidebar: false
 ---
 
+<style> #IDNAME { -moz-transform: scale(0.75, 0.75); -webkit-transform: scale(0.75, 0.75); -o-transform: scale(0.75, 0.75); -ms-transform: scale(0.75, 0.75); transform: scale(0.75, 0.75); -moz-transform-origin: top left; -webkit-transform-origin: top left; -o-transform-origin: top left; -ms-transform-origin: top left; transform-origin: top left; display: block; vertical-align: bottom; padding: 0 !important; margin: 0 !important; } </style>
+
 ## Using the interactive dashboard
 
 There are two ways to exploring the data interactively. The first is the web app [here](https://huggingface.co/spaces/cc7740/read_VAE).
@@ -13,7 +15,9 @@ There are two ways to exploring the data interactively. The first is the web app
 	frameborder="0"
 	width="850"
 	height="450"
+	id="IDNAME"
 ></iframe>
+
 
 To experiment with loading your own data, you can also try the notebook version, which is more configurable but currently does not include the option to directly filter the data by taxonomic class.
 
