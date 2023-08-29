@@ -27,7 +27,7 @@ show_sidebar: false
 
 ## Using the interactive dashboard
 
-There are two ways to explore the data interactively. The first is the web app <a href="https://huggingface.co/spaces/cc7740/read_VAE" target="_blank">here</a> (preview shown below).
+There are two ways to explore the data interactively. The first is the web app <a href="https://huggingface.co/spaces/cc7740/read_VAE" target="_blank">here</a> (preview shown below, the app may take a moment to load).
 
 <div id="iframeContainer">
   <iframe
