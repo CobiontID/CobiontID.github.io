@@ -34,10 +34,11 @@ See [here] for an illustration of the outputs the tools presented here provide, 
 | [hexamer](https://github.com/richarddurbin/hexamer) | Detect likely coding regions | Estimate coding density | C |
 | [fastk-medians](https://github.com/CobiontID/fastk-medians) | Calculate median number of times each large k-mer in a sequence occurs across the set (modified version of Profex from the original FASTK library) | Approximate k-mer coverage | C |
 
-#### Pipelines
-| Pipeline | Description |
+#### Workflows
+| Workflow | Description |
 |--|--|
 |[MarkerScan](https://github.com/CobiontID/MarkerScan) | Determine taxonomic composition of an assembly; separate and assemble individual components |
+|[read VAE](https://github.com/CobiontID/read_VAE/) | Generate annotated 2D visualisations for long reads; interactively explore and select data for downstream analyses |
 
 ## Additional information
 ![image](https://user-images.githubusercontent.com/10507101/218133727-b8cd1860-d33e-4955-8d2e-473d770def84.png) [GitHub](https://github.com/CobiontID/)
