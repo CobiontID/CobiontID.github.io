@@ -17,4 +17,5 @@ A demo of the interactive dashboard to explore read sets is available [here](htt
 
 ## Associated publications
 *Phylogenomic analysis of Wolbachia genomes from the Darwin Tree of Life biodiversity genomics project* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001972
+
 *MarkerScan: Separation and assembly of cobionts sequenced alongside target species in biodiversity genomics projects* https://doi.org/10.12688/wellcomeopenres.20730.1
