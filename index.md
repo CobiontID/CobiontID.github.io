@@ -35,12 +35,22 @@ See [here] for an illustration of the outputs the tools presented here provide, 
 | [fastk-medians](https://github.com/CobiontID/fastk-medians) | Calculate median number of times each large k-mer in a sequence occurs across the set (modified version of Profex from the original FASTK library) | Approximate k-mer coverage | C |
 
 #### Workflows
+
 | Workflow | Description |
 |--|--|
 |[MarkerScan](https://github.com/CobiontID/MarkerScan) | Determine taxonomic composition of an assembly; separate and assemble individual components |
 |[read VAE](https://github.com/CobiontID/read_VAE/) | Generate annotated 2D visualisations for long reads; interactively explore and select data for downstream analyses |
 
 ## Additional information
+### Code
 ![image](https://user-images.githubusercontent.com/10507101/218133727-b8cd1860-d33e-4955-8d2e-473d770def84.png) [GitHub](https://github.com/CobiontID/)
+
+### Presentations
 - [Slides](https://drive.google.com/file/d/1ghtPRkdNZRLfDH-pTluUJ2Xq1IpKRaht/view) from talk on CobiontID at PopGroup55 (2022)
 - [Flash presentation](https://twitter.com/cc7740/status/1479071728697548807) accompanying PopGroup talk
+
+### Publications
+- *Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition* https://www.biorxiv.org/content/10.1101/2024.05.30.596622v1
+- *Phylogenomic analysis of Wolbachia genomes from the Darwin Tree of Life biodiversity genomics project* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001972
+- *MarkerScan: Separation and assembly of cobionts sequenced alongside target species in biodiversity genomics projects* https://doi.org/10.12688/wellcomeopenres.20730.1
+
