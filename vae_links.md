@@ -2,1078 +2,1078 @@
 
 Below, you will find a list of links to pages showing examples of the read VAE pipeline output. Scroll down to Cobionts -> Readviz to see the plots.
 
-Note that some pages may not contain results, since this list is based on which species have relevant output files present on the cluster. Because an early version of the workflow was used, information about the ranges captured in quantile bins is absent, and some datatsets may show latent collapse.
+Note that some pages may not contain results, since this list is based on which species have relevant output files present on the cluster. Because an early version of the workflow was used, information about the ranges captured in quantile bins is absent, and some datasets may show latent collapse.
 
 ## Links
 | Project | taxon | species |
-|---------|-------|---------|
-|25g | dicots | [Impatiens_glandulifera](https://tolqc.cog.sanger.ac.uk/25g/dicots/Impatiens_glandulifera)| 
-|25g | fish | [Salmo_trutta](https://tolqc.cog.sanger.ac.uk/25g/fish/Salmo_trutta)| 
-|25g | insects | [Hemaris_fuciformis](https://tolqc.cog.sanger.ac.uk/25g/insects/Hemaris_fuciformis)| 
-|asg | algae | [Pelvetia_canaliculata](https://tolqc.cog.sanger.ac.uk/asg/algae/Pelvetia_canaliculata)| 
-|asg | annelids | [Branchellion_lobata](https://tolqc.cog.sanger.ac.uk/asg/annelids/Branchellion_lobata)| 
-|asg | jellyfish | [Blastomussa_wellsi](https://tolqc.cog.sanger.ac.uk/asg/jellyfish/Blastomussa_wellsi)| 
-|asg | jellyfish | [Galaxea_fascicularis](https://tolqc.cog.sanger.ac.uk/asg/jellyfish/Galaxea_fascicularis)| 
-|asg | jellyfish | [Ricordea_florida](https://tolqc.cog.sanger.ac.uk/asg/jellyfish/Ricordea_florida)| 
-|asg | molluscs | [Costasiella_ocellifera](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Costasiella_ocellifera)| 
-|asg | molluscs | [Eumandya_parva](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Eumandya_parva)| 
-|asg | molluscs | [Fragum_sueziense](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Fragum_sueziense)| 
-|asg | molluscs | [Hippopus_hippopus](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Hippopus_hippopus)| 
-|asg | molluscs | [Sepia_elegans](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Sepia_elegans)| 
-|asg | molluscs | [Tridacna_crocea](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Tridacna_crocea)| 
-|asg | molluscs | [Tridacna_gigas](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Tridacna_gigas)| 
-|asg | protists | [Breviolum_psygmophilum](https://tolqc.cog.sanger.ac.uk/asg/protists/Breviolum_psygmophilum)| 
-|asg | protists | [Eutreptiella_sp_Long_Island_Sound_2002](https://tolqc.cog.sanger.ac.uk/asg/protists/Eutreptiella_sp_Long_Island_Sound_2002)| 
-|asg | protists | [Freudenthalidium_endolithicum](https://tolqc.cog.sanger.ac.uk/asg/protists/Freudenthalidium_endolithicum)| 
-|asg | protists | [Freudenthalidium_heronense](https://tolqc.cog.sanger.ac.uk/asg/protists/Freudenthalidium_heronense)| 
-|asg | protists | [Gerakladium_sp_JEP_2021](https://tolqc.cog.sanger.ac.uk/asg/protists/Gerakladium_sp_JEP_2021)| 
-|asg | protists | [Paramoeba_pemaquidensis](https://tolqc.cog.sanger.ac.uk/asg/protists/Paramoeba_pemaquidensis)| 
-|asg | protists | [Symbiodinium_pilosum](https://tolqc.cog.sanger.ac.uk/asg/protists/Symbiodinium_pilosum)| 
-|asg | sponges | [Agelas_oroides](https://tolqc.cog.sanger.ac.uk/asg/sponges/Agelas_oroides)| 
-|asg | sponges | [Chondrosia_reniformis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Chondrosia_reniformis)| 
-|asg | sponges | [Cinachyrella_kuekenthali](https://tolqc.cog.sanger.ac.uk/asg/sponges/Cinachyrella_kuekenthali)| 
-|asg | sponges | [Eunapius_fragilis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Eunapius_fragilis)| 
-|asg | sponges | [Halisarca_caerulea](https://tolqc.cog.sanger.ac.uk/asg/sponges/Halisarca_caerulea)| 
-|asg | sponges | [Oscarella_lobularis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Oscarella_lobularis)| 
-|asg | sponges | [Petrosia_ficiformis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Petrosia_ficiformis)| 
-|asg | sponges | [Pione_vastifica](https://tolqc.cog.sanger.ac.uk/asg/sponges/Pione_vastifica)| 
-|asg | sponges | [Spongilla_lacustris](https://tolqc.cog.sanger.ac.uk/asg/sponges/Spongilla_lacustris)| 
-|asg | sponges | [Stryphnus_fortis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Stryphnus_fortis)| 
-|asg | sponges | [Xestospongia_muta](https://tolqc.cog.sanger.ac.uk/asg/sponges/Xestospongia_muta)| 
-|badass | insects | [Anopheles_aquasalis](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_aquasalis)| 
-|badass | insects | [Anopheles_arabiensis](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_arabiensis)| 
-|badass | insects | [Anopheles_baimaii](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_baimaii)| 
-|badass | insects | [Anopheles_bellator](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_bellator)| 
-|badass | insects | [Anopheles_coluzzii](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_coluzzii)| 
-|badass | insects | [Anopheles_coustani](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_coustani)| 
-|badass | insects | [Anopheles_cruzii](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_cruzii)| 
-|badass | insects | [Anopheles_darlingi](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_darlingi)| 
-|badass | insects | [Anopheles_funestus](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_funestus)| 
-|badass | insects | [Anopheles_gambiae](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_gambiae)| 
-|badass | insects | [Anopheles_maculipalpis](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_maculipalpis)| 
-|badass | insects | [Anopheles_marshallii](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_marshallii)| 
-|badass | insects | [Anopheles_moucheti](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_moucheti)| 
-|badass | insects | [Anopheles_nili](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_nili)| 
-|badass | insects | [Anopheles_oryzalimnetes](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_oryzalimnetes)| 
-|badass | insects | [Anopheles_ziemanni](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_ziemanni)| 
-|badass | insects | [Culex_pipiens](https://tolqc.cog.sanger.ac.uk/badass/insects/Culex_pipiens)| 
-|badass | insects | [Sabethes_cyaneus](https://tolqc.cog.sanger.ac.uk/badass/insects/Sabethes_cyaneus)| 
-|darwin | algae | [Brachiomonas_submarina](https://tolqc.cog.sanger.ac.uk/darwin/algae/Brachiomonas_submarina)| 
-|darwin | algae | [Carpodesmia_tamariscifolia](https://tolqc.cog.sanger.ac.uk/darwin/algae/Carpodesmia_tamariscifolia)| 
-|darwin | algae | [Ceramium_secundatum](https://tolqc.cog.sanger.ac.uk/darwin/algae/Ceramium_secundatum)| 
-|darwin | algae | [Chaetoceros_curvisetus](https://tolqc.cog.sanger.ac.uk/darwin/algae/Chaetoceros_curvisetus)| 
-|darwin | algae | [Chloroidium_saccharophilum](https://tolqc.cog.sanger.ac.uk/darwin/algae/Chloroidium_saccharophilum)| 
-|darwin | algae | [Chrysotila_carterae](https://tolqc.cog.sanger.ac.uk/darwin/algae/Chrysotila_carterae)| 
-|darwin | algae | [Diacronema_lutheri](https://tolqc.cog.sanger.ac.uk/darwin/algae/Diacronema_lutheri)| 
-|darwin | algae | [Dunaliella_primolecta](https://tolqc.cog.sanger.ac.uk/darwin/algae/Dunaliella_primolecta)| 
-|darwin | algae | [Halidrys_siliquosa](https://tolqc.cog.sanger.ac.uk/darwin/algae/Halidrys_siliquosa)| 
-|darwin | algae | [Hydrodictyon_reticulatum](https://tolqc.cog.sanger.ac.uk/darwin/algae/Hydrodictyon_reticulatum)| 
-|darwin | algae | [Metacallophyllis_laciniata](https://tolqc.cog.sanger.ac.uk/darwin/algae/Metacallophyllis_laciniata)| 
-|darwin | algae | [Palmaria_palmata](https://tolqc.cog.sanger.ac.uk/darwin/algae/Palmaria_palmata)| 
-|darwin | algae | [Pelvetia_canaliculata](https://tolqc.cog.sanger.ac.uk/darwin/algae/Pelvetia_canaliculata)| 
-|darwin | algae | [Pycnococcus_provasolii](https://tolqc.cog.sanger.ac.uk/darwin/algae/Pycnococcus_provasolii)| 
-|darwin | algae | [Rhodomonas_baltica](https://tolqc.cog.sanger.ac.uk/darwin/algae/Rhodomonas_baltica)| 
-|darwin | algae | [Tetraselmis_chuii](https://tolqc.cog.sanger.ac.uk/darwin/algae/Tetraselmis_chuii)| 
-|darwin | annelids | [Alitta_virens](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Alitta_virens)| 
-|darwin | annelids | [Aporrectodea_caliginosa](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Aporrectodea_caliginosa)| 
-|darwin | annelids | [Eisenia_fetida](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Eisenia_fetida)| 
-|darwin | annelids | [Euclymene_oerstedii](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Euclymene_oerstedii)| 
-|darwin | annelids | [Glossiphonia_complanata](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Glossiphonia_complanata)| 
-|darwin | annelids | [Goniada_maculata](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Goniada_maculata)| 
-|darwin | annelids | [Harmothoe_impar](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Harmothoe_impar)| 
-|darwin | annelids | [Helobdella_stagnalis](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Helobdella_stagnalis)| 
-|darwin | annelids | [Lepidonotus_clava](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Lepidonotus_clava)| 
-|darwin | annelids | [Lumbricus_castaneus](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Lumbricus_castaneus)| 
-|darwin | annelids | [Lumbricus_rubellus](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Lumbricus_rubellus)| 
-|darwin | annelids | [Lumbricus_terrestris](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Lumbricus_terrestris)| 
-|darwin | annelids | [Octolasion_cyaneum](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Octolasion_cyaneum)| 
-|darwin | annelids | [Piscicola_geometra](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Piscicola_geometra)| 
-|darwin | annelids | [Spirobranchus_lamarcki](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Spirobranchus_lamarcki)| 
-|darwin | annelids | [Sthenelais_limicola](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Sthenelais_limicola)| 
-|darwin | annelids | [Terebella_lapidaria](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Terebella_lapidaria)| 
-|darwin | arthropods | [Alopecosa_pulverulenta](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Alopecosa_pulverulenta)| 
-|darwin | arthropods | [Amaurobius_ferox](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Amaurobius_ferox)| 
-|darwin | arthropods | [Amaurobius_similis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Amaurobius_similis)| 
-|darwin | arthropods | [Araneus_diadematus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Araneus_diadematus)| 
-|darwin | arthropods | [Asellus_aquaticus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Asellus_aquaticus)| 
-|darwin | arthropods | [Atypus_affinis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Atypus_affinis)| 
-|darwin | arthropods | [Cancer_pagurus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Cancer_pagurus)| 
-|darwin | arthropods | [Chelura_terebrans](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Chelura_terebrans)| 
-|darwin | arthropods | [Clistosaccus_paguri](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Clistosaccus_paguri)| 
-|darwin | arthropods | [Clubiona_reclusa](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Clubiona_reclusa)| 
-|darwin | arthropods | [Clubiona_terrestris](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Clubiona_terrestris)| 
-|darwin | arthropods | [Crangonyx_pseudogracilis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Crangonyx_pseudogracilis)| 
-|darwin | arthropods | [Dolomedes_fimbriatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Dolomedes_fimbriatus)| 
-|darwin | arthropods | [Dysdera_crocata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Dysdera_crocata)| 
-|darwin | arthropods | [Enoplognatha_latimana](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Enoplognatha_latimana)| 
-|darwin | arthropods | [Eratigena_atrica](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Eratigena_atrica)| 
-|darwin | arthropods | [Euscorpius_flavicaudis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Euscorpius_flavicaudis)| 
-|darwin | arthropods | [Glomeris_marginata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Glomeris_marginata)| 
-|darwin | arthropods | [Idotea_granulosa](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Idotea_granulosa)| 
-|darwin | arthropods | [Linyphia_triangularis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Linyphia_triangularis)| 
-|darwin | arthropods | [Lithobius_forficatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Lithobius_forficatus)| 
-|darwin | arthropods | [Lithobius_melanops](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Lithobius_melanops)| 
-|darwin | arthropods | [Lithobius_piceus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Lithobius_piceus)| 
-|darwin | arthropods | [Lithobius_variegatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Lithobius_variegatus)| 
-|darwin | arthropods | [Meta_bourneti](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Meta_bourneti)| 
-|darwin | arthropods | [Metellina_segmentata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Metellina_segmentata)| 
-|darwin | arthropods | [Odiellus_spinosus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Odiellus_spinosus)| 
-|darwin | arthropods | [Pagurus_bernhardus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pagurus_bernhardus)| 
-|darwin | arthropods | [Pardosa_saltans](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pardosa_saltans)| 
-|darwin | arthropods | [Perforatus_perforatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Perforatus_perforatus)| 
-|darwin | arthropods | [Philoscia_muscorum](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Philoscia_muscorum)| 
-|darwin | arthropods | [Pholcus_phalangioides](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pholcus_phalangioides)| 
-|darwin | arthropods | [Pisaura_mirabilis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pisaura_mirabilis)| 
-|darwin | arthropods | [Pisidia_longicornis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pisidia_longicornis)| 
-|darwin | arthropods | [Porcellana_platycheles](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Porcellana_platycheles)| 
-|darwin | arthropods | [Porcellio_spinicornis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Porcellio_spinicornis)| 
-|darwin | arthropods | [Sacculina_carcini](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Sacculina_carcini)| 
-|darwin | arthropods | [Scalpellum_scalpellum](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Scalpellum_scalpellum)| 
-|darwin | arthropods | [Scytodes_thoracica](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Scytodes_thoracica)| 
-|darwin | arthropods | [Segestria_senoculata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Segestria_senoculata)| 
-|darwin | arthropods | [Semibalanus_balanoides](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Semibalanus_balanoides)| 
-|darwin | arthropods | [Steatoda_bipunctata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Steatoda_bipunctata)| 
-|darwin | arthropods | [Stigmatogaster_subterranea](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Stigmatogaster_subterranea)| 
-|darwin | arthropods | [Tibellus_oblongus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Tibellus_oblongus)| 
-|darwin | arthropods | [Uloborus_plumipes](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Uloborus_plumipes)| 
-|darwin | arthropods | [Xantho_hydrophilus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Xantho_hydrophilus)| 
-|darwin | arthropods | [Xysticus_cristatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Xysticus_cristatus)| 
-|darwin | arthropods | [Zelotes_latreillei](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Zelotes_latreillei)| 
-|darwin | arthropods | [Zoropsis_spinimana](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Zoropsis_spinimana)| 
-|darwin | arthropods | [Zygiella_x_notata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Zygiella_x_notata)| 
-|darwin | birds | [Accipiter_gentilis](https://tolqc.cog.sanger.ac.uk/darwin/birds/Accipiter_gentilis)| 
-|darwin | birds | [Calonectris_borealis](https://tolqc.cog.sanger.ac.uk/darwin/birds/Calonectris_borealis)| 
-|darwin | birds | [Phaethon_aethereus](https://tolqc.cog.sanger.ac.uk/darwin/birds/Phaethon_aethereus)| 
-|darwin | chordates | [Aplidium_turbinatum](https://tolqc.cog.sanger.ac.uk/darwin/chordates/Aplidium_turbinatum)| 
-|darwin | chordates | [Ascidia_mentula](https://tolqc.cog.sanger.ac.uk/darwin/chordates/Ascidia_mentula)| 
-|darwin | chordates | [Styela_clava](https://tolqc.cog.sanger.ac.uk/darwin/chordates/Styela_clava)| 
-|darwin | dicots | [Acer_campestre](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Acer_campestre)| 
-|darwin | dicots | [Adoxa_moschatellina](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Adoxa_moschatellina)| 
-|darwin | dicots | [Agrostemma_githago](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Agrostemma_githago)| 
-|darwin | dicots | [Ailanthus_altissima](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ailanthus_altissima)| 
-|darwin | dicots | [Alchemilla_alpina](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Alchemilla_alpina)| 
-|darwin | dicots | [Alchemilla_arvensis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Alchemilla_arvensis)| 
-|darwin | dicots | [Alnus_glutinosa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Alnus_glutinosa)| 
-|darwin | dicots | [Anemone_pulsatilla](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Anemone_pulsatilla)| 
-|darwin | dicots | [Angelica_archangelica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Angelica_archangelica)| 
-|darwin | dicots | [Anthriscus_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Anthriscus_sylvestris)| 
-|darwin | dicots | [Anthyllis_vulneraria](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Anthyllis_vulneraria)| 
-|darwin | dicots | [Arabidopsis_thaliana](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Arabidopsis_thaliana)| 
-|darwin | dicots | [Arctium_minus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Arctium_minus)| 
-|darwin | dicots | [Arctostaphylos_uva_ursi](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Arctostaphylos_uva_ursi)| 
-|darwin | dicots | [Atropa_belladonna](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Atropa_belladonna)| 
-|darwin | dicots | [Ballota_nigra](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ballota_nigra)| 
-|darwin | dicots | [Bellis_perennis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Bellis_perennis)| 
-|darwin | dicots | [Berberis_aquifolium](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Berberis_aquifolium)| 
-|darwin | dicots | [Betula_pubescens](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Betula_pubescens)| 
-|darwin | dicots | [Borago_officinalis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Borago_officinalis)| 
-|darwin | dicots | [Brassica_oleracea](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Brassica_oleracea)| 
-|darwin | dicots | [Bryonia_dioica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Bryonia_dioica)| 
-|darwin | dicots | [Buddleja_davidii](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Buddleja_davidii)| 
-|darwin | dicots | [Buxus_sempervirens](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Buxus_sempervirens)| 
-|darwin | dicots | [Cakile_maritima](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cakile_maritima)| 
-|darwin | dicots | [Carpinus_betulus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Carpinus_betulus)| 
-|darwin | dicots | [Cerastium_fontanum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cerastium_fontanum)| 
-|darwin | dicots | [Cerastium_glomeratum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cerastium_glomeratum)| 
-|darwin | dicots | [Chaenorhinum_minus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chaenorhinum_minus)| 
-|darwin | dicots | [Chamaemelum_nobile](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chamaemelum_nobile)| 
-|darwin | dicots | [Chamaenerion_angustifolium](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chamaenerion_angustifolium)| 
-|darwin | dicots | [Chelidonium_majus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chelidonium_majus)| 
-|darwin | dicots | [Chenopodium_album](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chenopodium_album)| 
-|darwin | dicots | [Cicerbita_muralis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cicerbita_muralis)| 
-|darwin | dicots | [Clematis_vitalba](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Clematis_vitalba)| 
-|darwin | dicots | [Convolvulus_arvensis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Convolvulus_arvensis)| 
-|darwin | dicots | [Cornus_suecica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cornus_suecica)| 
-|darwin | dicots | [Crataegus_laevigata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Crataegus_laevigata)| 
-|darwin | dicots | [Crataegus_monogyna](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Crataegus_monogyna)| 
-|darwin | dicots | [Cruciata_laevipes](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cruciata_laevipes)| 
-|darwin | dicots | [Daphne_mezereum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Daphne_mezereum)| 
-|darwin | dicots | [Dasiphora_fruticosa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Dasiphora_fruticosa)| 
-|darwin | dicots | [Dianthus_deltoides](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Dianthus_deltoides)| 
-|darwin | dicots | [Erodium_maritimum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Erodium_maritimum)| 
-|darwin | dicots | [Erodium_moschatum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Erodium_moschatum)| 
-|darwin | dicots | [Euonymus_europaeus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euonymus_europaeus)| 
-|darwin | dicots | [Euphorbia_amygdaloides](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euphorbia_amygdaloides)| 
-|darwin | dicots | [Euphorbia_lathyris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euphorbia_lathyris)| 
-|darwin | dicots | [Euphorbia_peplus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euphorbia_peplus)| 
-|darwin | dicots | [Euphrasia_foulaensis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euphrasia_foulaensis)| 
-|darwin | dicots | [Filipendula_ulmaria](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Filipendula_ulmaria)| 
-|darwin | dicots | [Galium_aparine](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Galium_aparine)| 
-|darwin | dicots | [Geranium_dissectum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geranium_dissectum)| 
-|darwin | dicots | [Geranium_lucidum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geranium_lucidum)| 
-|darwin | dicots | [Geranium_robertianum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geranium_robertianum)| 
-|darwin | dicots | [Geranium_sylvaticum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geranium_sylvaticum)| 
-|darwin | dicots | [Geum_rivale](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geum_rivale)| 
-|darwin | dicots | [Geum_urbanum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geum_urbanum)| 
-|darwin | dicots | [Hedera_helix](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Hedera_helix)| 
-|darwin | dicots | [Hippophae_rhamnoides](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Hippophae_rhamnoides)| 
-|darwin | dicots | [Hippuris_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Hippuris_vulgaris)| 
-|darwin | dicots | [Honckenya_peploides](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Honckenya_peploides)| 
-|darwin | dicots | [Humulus_lupulus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Humulus_lupulus)| 
-|darwin | dicots | [Hypericum_perforatum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Hypericum_perforatum)| 
-|darwin | dicots | [Ilex_aquifolium](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ilex_aquifolium)| 
-|darwin | dicots | [Impatiens_glandulifera](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Impatiens_glandulifera)| 
-|darwin | dicots | [Lamium_album](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lamium_album)| 
-|darwin | dicots | [Lamium_purpureum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lamium_purpureum)| 
-|darwin | dicots | [Lathraea_clandestina](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lathraea_clandestina)| 
-|darwin | dicots | [Lathraea_squamaria](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lathraea_squamaria)| 
-|darwin | dicots | [Lepidium_draba](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lepidium_draba)| 
-|darwin | dicots | [Ligusticum_scoticum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ligusticum_scoticum)| 
-|darwin | dicots | [Ligustrum_vulgare](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ligustrum_vulgare)| 
-|darwin | dicots | [Linaria_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Linaria_vulgaris)| 
-|darwin | dicots | [Linnaea_borealis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Linnaea_borealis)| 
-|darwin | dicots | [Lotus_corniculatus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lotus_corniculatus)| 
-|darwin | dicots | [Lycopus_europaeus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lycopus_europaeus)| 
-|darwin | dicots | [Lysimachia_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lysimachia_vulgaris)| 
-|darwin | dicots | [Lythrum_salicaria](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lythrum_salicaria)| 
-|darwin | dicots | [Malus_domestica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Malus_domestica)| 
-|darwin | dicots | [Malus_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Malus_sylvestris)| 
-|darwin | dicots | [Medicago_arabica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Medicago_arabica)| 
-|darwin | dicots | [Melampyrum_pratense](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Melampyrum_pratense)| 
-|darwin | dicots | [Mercurialis_annua](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Mercurialis_annua)| 
-|darwin | dicots | [Mercurialis_perennis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Mercurialis_perennis)| 
-|darwin | dicots | [Misopates_orontium](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Misopates_orontium)| 
-|darwin | dicots | [Myrica_gale](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Myrica_gale)| 
-|darwin | dicots | [Nymphoides_peltata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Nymphoides_peltata)| 
-|darwin | dicots | [Onobrychis_viciifolia](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Onobrychis_viciifolia)| 
-|darwin | dicots | [Orobanche_hederae](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Orobanche_hederae)| 
-|darwin | dicots | [Parietaria_judaica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Parietaria_judaica)| 
-|darwin | dicots | [Pentaglottis_sempervirens](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Pentaglottis_sempervirens)| 
-|darwin | dicots | [Persicaria_maculosa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Persicaria_maculosa)| 
-|darwin | dicots | [Plantago_coronopus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Plantago_coronopus)| 
-|darwin | dicots | [Plantago_lanceolata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Plantago_lanceolata)| 
-|darwin | dicots | [Polygonum_aviculare](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Polygonum_aviculare)| 
-|darwin | dicots | [Populus_tremula](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Populus_tremula)| 
-|darwin | dicots | [Potentilla_anserina](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Potentilla_anserina)| 
-|darwin | dicots | [Pulicaria_dysenterica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Pulicaria_dysenterica)| 
-|darwin | dicots | [Quercus_robur](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Quercus_robur)| 
-|darwin | dicots | [Ranunculus_acris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ranunculus_acris)| 
-|darwin | dicots | [Ranunculus_bulbosus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ranunculus_bulbosus)| 
-|darwin | dicots | [Reynoutria_japonica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Reynoutria_japonica)| 
-|darwin | dicots | [Rhamnus_cathartica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Rhamnus_cathartica)| 
-|darwin | dicots | [Rumex_acetosa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Rumex_acetosa)| 
-|darwin | dicots | [Rumex_hydrolapathum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Rumex_hydrolapathum)| 
-|darwin | dicots | [Rumex_sanguineus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Rumex_sanguineus)| 
-|darwin | dicots | [Salvia_verbenaca](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Salvia_verbenaca)| 
-|darwin | dicots | [Scrophularia_auriculata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Scrophularia_auriculata)| 
-|darwin | dicots | [Scutellaria_galericulata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Scutellaria_galericulata)| 
-|darwin | dicots | [Scutellaria_minor](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Scutellaria_minor)| 
-|darwin | dicots | [Senecio_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Senecio_vulgaris)| 
-|darwin | dicots | [Sherardia_arvensis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Sherardia_arvensis)| 
-|darwin | dicots | [Silene_acaulis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Silene_acaulis)| 
-|darwin | dicots | [Silene_dioica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Silene_dioica)| 
-|darwin | dicots | [Silene_latifolia](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Silene_latifolia)| 
-|darwin | dicots | [Smyrnium_perfoliatum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Smyrnium_perfoliatum)| 
-|darwin | dicots | [Solanum_dulcamara](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Solanum_dulcamara)| 
-|darwin | dicots | [Stachys_palustris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Stachys_palustris)| 
-|darwin | dicots | [Stellaria_media](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Stellaria_media)| 
-|darwin | dicots | [Suaeda_vera](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Suaeda_vera)| 
-|darwin | dicots | [Thymus_serpyllum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Thymus_serpyllum)| 
-|darwin | dicots | [Trifolium_fragiferum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Trifolium_fragiferum)| 
-|darwin | dicots | [Trifolium_pratense](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Trifolium_pratense)| 
-|darwin | dicots | [Trollius_europaeus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Trollius_europaeus)| 
-|darwin | dicots | [Tussilago_farfara](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Tussilago_farfara)| 
-|darwin | dicots | [Ulex_europaeus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ulex_europaeus)| 
-|darwin | dicots | [Urtica_dioica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Urtica_dioica)| 
-|darwin | dicots | [Urtica_urens](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Urtica_urens)| 
-|darwin | dicots | [Verbena_officinalis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Verbena_officinalis)| 
-|darwin | dicots | [Veronica_chamaedrys](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Veronica_chamaedrys)| 
-|darwin | dicots | [Veronica_hederifolia](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Veronica_hederifolia)| 
-|darwin | dicots | [Veronica_spicata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Veronica_spicata)| 
-|darwin | dicots | [Viburnum_lantana](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Viburnum_lantana)| 
-|darwin | dicots | [Vicia_sativa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Vicia_sativa)| 
-|darwin | echinoderms | [Antedon_bifida](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Antedon_bifida)| 
-|darwin | echinoderms | [Echinus_esculentus](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Echinus_esculentus)| 
-|darwin | echinoderms | [Marthasterias_glacialis](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Marthasterias_glacialis)| 
-|darwin | echinoderms | [Ophiocomina_nigra](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Ophiocomina_nigra)| 
-|darwin | echinoderms | [Ophiopholis_aculeata](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Ophiopholis_aculeata)| 
-|darwin | fish | [Barbus_barbus](https://tolqc.cog.sanger.ac.uk/darwin/fish/Barbus_barbus)| 
-|darwin | fish | [Lipophrys_pholis](https://tolqc.cog.sanger.ac.uk/darwin/fish/Lipophrys_pholis)| 
-|darwin | fish | [Pholis_gunnellus](https://tolqc.cog.sanger.ac.uk/darwin/fish/Pholis_gunnellus)| 
-|darwin | fish | [Salmo_trutta](https://tolqc.cog.sanger.ac.uk/darwin/fish/Salmo_trutta)| 
-|darwin | fish | [Taurulus_bubalis](https://tolqc.cog.sanger.ac.uk/darwin/fish/Taurulus_bubalis)| 
-|darwin | fish | [Trachurus_trachurus](https://tolqc.cog.sanger.ac.uk/darwin/fish/Trachurus_trachurus)| 
-|darwin | fungi | [Agaricus_bisporus](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Agaricus_bisporus)| 
-|darwin | fungi | [Armillaria_gallica](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Armillaria_gallica)| 
-|darwin | fungi | [Cladonia_squamosa](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Cladonia_squamosa)| 
-|darwin | fungi | [Flammulina_velutipes](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Flammulina_velutipes)| 
-|darwin | fungi | [Hericium_coralloides](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Hericium_coralloides)| 
-|darwin | fungi | [Laetiporus_sulphureus](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Laetiporus_sulphureus)| 
-|darwin | fungi | [Leucocybe_candicans](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Leucocybe_candicans)| 
-|darwin | fungi | [Metschnikowia_zobellii](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Metschnikowia_zobellii)| 
-|darwin | fungi | [Mucor_piriformis](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Mucor_piriformis)| 
-|darwin | fungi | [Platismatia_glauca](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Platismatia_glauca)| 
-|darwin | fungi | [Pleurotus_eryngii](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Pleurotus_eryngii)| 
-|darwin | fungi | [Pleurotus_ostreatus](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Pleurotus_ostreatus)| 
-|darwin | fungi | [Trichoderma_citrinoviride](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Trichoderma_citrinoviride)| 
-|darwin | insects | [Abrostola_tripartita](https://tolqc.cog.sanger.ac.uk/darwin/insects/Abrostola_tripartita)| 
-|darwin | insects | [Acanthosoma_haemorrhoidale](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acanthosoma_haemorrhoidale)| 
-|darwin | insects | [Acentria_ephemerella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acentria_ephemerella)| 
-|darwin | insects | [Acleris_cristana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acleris_cristana)| 
-|darwin | insects | [Acleris_emargana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acleris_emargana)| 
-|darwin | insects | [Acleris_rhombana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acleris_rhombana)| 
-|darwin | insects | [Acleris_sparsana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acleris_sparsana)| 
-|darwin | insects | [Acrobasis_consociella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acrobasis_consociella)| 
-|darwin | insects | [Acrobasis_repandana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acrobasis_repandana)| 
-|darwin | insects | [Acrobasis_suavella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acrobasis_suavella)| 
-|darwin | insects | [Acrocera_orbiculus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acrocera_orbiculus)| 
-|darwin | insects | [Acronicta_aceris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acronicta_aceris)| 
-|darwin | insects | [Acronicta_rumicis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acronicta_rumicis)| 
-|darwin | insects | [Actia_lamia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Actia_lamia)| 
-|darwin | insects | [Adalia_bipunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Adalia_bipunctata)| 
-|darwin | insects | [Adalia_decempunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Adalia_decempunctata)| 
-|darwin | insects | [Aelia_acuminata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aelia_acuminata)| 
-|darwin | insects | [Aeshna_mixta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aeshna_mixta)| 
-|darwin | insects | [Agonopterix_arenella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonopterix_arenella)| 
-|darwin | insects | [Agonopterix_heracliana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonopterix_heracliana)| 
-|darwin | insects | [Agonopterix_ocellana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonopterix_ocellana)| 
-|darwin | insects | [Agonopterix_subpropinquella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonopterix_subpropinquella)| 
-|darwin | insects | [Agonum_fuliginosum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonum_fuliginosum)| 
-|darwin | insects | [Agriopis_aurantiaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriopis_aurantiaria)| 
-|darwin | insects | [Agriopis_marginaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriopis_marginaria)| 
-|darwin | insects | [Agriotes_lineatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriotes_lineatus)| 
-|darwin | insects | [Agriphila_geniculea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriphila_geniculea)| 
-|darwin | insects | [Agriphila_straminella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriphila_straminella)| 
-|darwin | insects | [Agriphila_tristella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriphila_tristella)| 
-|darwin | insects | [Agrochola_circellaris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agrochola_circellaris)| 
-|darwin | insects | [Agrochola_macilenta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agrochola_macilenta)| 
-|darwin | insects | [Agrotis_puta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agrotis_puta)| 
-|darwin | insects | [Agrypnus_murinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agrypnus_murinus)| 
-|darwin | insects | [Allophyes_oxyacanthae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Allophyes_oxyacanthae)| 
-|darwin | insects | [Amblyteles_armatorius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Amblyteles_armatorius)| 
-|darwin | insects | [Amphipyra_berbera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Amphipyra_berbera)| 
-|darwin | insects | [Amphipyra_tragopoginis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Amphipyra_tragopoginis)| 
-|darwin | insects | [Anabolia_nervosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anabolia_nervosa)| 
-|darwin | insects | [Anaplectoides_prasina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anaplectoides_prasina)| 
-|darwin | insects | [Anatis_ocellata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anatis_ocellata)| 
-|darwin | insects | [Ancistrocerus_nigricornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ancistrocerus_nigricornis)| 
-|darwin | insects | [Andrena_dorsata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Andrena_dorsata)| 
-|darwin | insects | [Andrena_haemorrhoa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Andrena_haemorrhoa)| 
-|darwin | insects | [Andrena_hattorfiana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Andrena_hattorfiana)| 
-|darwin | insects | [Andrena_minutula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Andrena_minutula)| 
-|darwin | insects | [Anomoia_purmunda](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anomoia_purmunda)| 
-|darwin | insects | [Anopheles_coluzzii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anopheles_coluzzii)| 
-|darwin | insects | [Anoplius_nigerrimus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anoplius_nigerrimus)| 
-|darwin | insects | [Anoscopus_histrionicus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anoscopus_histrionicus)| 
-|darwin | insects | [Anotylus_rugosus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anotylus_rugosus)| 
-|darwin | insects | [Anthene_sylvanus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthene_sylvanus)| 
-|darwin | insects | [Anthocharis_cardamines](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthocharis_cardamines)| 
-|darwin | insects | [Anthomyia_liturata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthomyia_liturata)| 
-|darwin | insects | [Anthomyia_pluvialis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthomyia_pluvialis)| 
-|darwin | insects | [Anthophora_furcata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthophora_furcata)| 
-|darwin | insects | [Apamea_monoglypha](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apamea_monoglypha)| 
-|darwin | insects | [Apamea_scolopacina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apamea_scolopacina)| 
-|darwin | insects | [Apatura_iris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apatura_iris)| 
-|darwin | insects | [Apeira_syringaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apeira_syringaria)| 
-|darwin | insects | [Aphelocheirus_aestivalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aphelocheirus_aestivalis)| 
-|darwin | insects | [Aphrodes_makarovi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aphrodes_makarovi)| 
-|darwin | insects | [Aplocera_efformata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aplocera_efformata)| 
-|darwin | insects | [Apoderus_coryli](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apoderus_coryli)| 
-|darwin | insects | [Aporia_crataegi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aporia_crataegi)| 
-|darwin | insects | [Aporophyla_lueneburgensis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aporophyla_lueneburgensis)| 
-|darwin | insects | [Apotomis_betuletana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apotomis_betuletana)| 
-|darwin | insects | [Apotomis_turbidana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apotomis_turbidana)| 
-|darwin | insects | [Archips_podanus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Archips_podanus)| 
-|darwin | insects | [Archips_xylosteana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Archips_xylosteana)| 
-|darwin | insects | [Arenostola_phragmitidis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Arenostola_phragmitidis)| 
-|darwin | insects | [Argynnis_aglaja](https://tolqc.cog.sanger.ac.uk/darwin/insects/Argynnis_aglaja)| 
-|darwin | insects | [Argyresthia_goedartella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Argyresthia_goedartella)| 
-|darwin | insects | [Aricia_agestis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aricia_agestis)| 
-|darwin | insects | [Aricia_artaxerxes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aricia_artaxerxes)| 
-|darwin | insects | [Atethmia_centrago](https://tolqc.cog.sanger.ac.uk/darwin/insects/Atethmia_centrago)| 
-|darwin | insects | [Athalia_circularis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Athalia_circularis)| 
-|darwin | insects | [Athalia_cordata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Athalia_cordata)| 
-|darwin | insects | [Athalia_rosae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Athalia_rosae)| 
-|darwin | insects | [Athrips_mouffetella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Athrips_mouffetella)| 
-|darwin | insects | [Atolmis_rubricollis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Atolmis_rubricollis)| 
-|darwin | insects | [Attelabus_nitens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Attelabus_nitens)| 
-|darwin | insects | [Autographa_gamma](https://tolqc.cog.sanger.ac.uk/darwin/insects/Autographa_gamma)| 
-|darwin | insects | [Autographa_pulchrina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Autographa_pulchrina)| 
-|darwin | insects | [Axylia_putris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Axylia_putris)| 
-|darwin | insects | [Baccha_elongata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Baccha_elongata)| 
-|darwin | insects | [Batrachedra_praeangusta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Batrachedra_praeangusta)| 
-|darwin | insects | [Bellardia_pandia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bellardia_pandia)| 
-|darwin | insects | [Bembecia_ichneumoniformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bembecia_ichneumoniformis)| 
-|darwin | insects | [Bena_bicolorana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bena_bicolorana)| 
-|darwin | insects | [Bibio_marci](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bibio_marci)| 
-|darwin | insects | [Bicyclus_anynana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bicyclus_anynana)| 
-|darwin | insects | [Biston_betularia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Biston_betularia)| 
-|darwin | insects | [Blaesoxipha_plumicornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Blaesoxipha_plumicornis)| 
-|darwin | insects | [Blastobasis_adustella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Blastobasis_adustella)| 
-|darwin | insects | [Blastobasis_lacticolella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Blastobasis_lacticolella)| 
-|darwin | insects | [Boloria_selene](https://tolqc.cog.sanger.ac.uk/darwin/insects/Boloria_selene)| 
-|darwin | insects | [Bombus_campestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_campestris)| 
-|darwin | insects | [Bombus_hortorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_hortorum)| 
-|darwin | insects | [Bombus_hypnorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_hypnorum)| 
-|darwin | insects | [Bombus_lapidarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_lapidarius)| 
-|darwin | insects | [Bombus_pascuorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_pascuorum)| 
-|darwin | insects | [Bombus_pratorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_pratorum)| 
-|darwin | insects | [Bombus_rupestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_rupestris)| 
-|darwin | insects | [Bombus_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_sylvestris)| 
-|darwin | insects | [Bombus_terrestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_terrestris)| 
-|darwin | insects | [Bombylius_discolor](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombylius_discolor)| 
-|darwin | insects | [Bombylius_major](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombylius_major)| 
-|darwin | insects | [Brachylomia_viminalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Brachylomia_viminalis)| 
-|darwin | insects | [Brachyptera_risi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Brachyptera_risi)| 
-|darwin | insects | [Buathra_laborator](https://tolqc.cog.sanger.ac.uk/darwin/insects/Buathra_laborator)| 
-|darwin | insects | [Calamotropha_paludella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Calamotropha_paludella)| 
-|darwin | insects | [Calliphora_vicina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Calliphora_vicina)| 
-|darwin | insects | [Calliphora_vomitoria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Calliphora_vomitoria)| 
-|darwin | insects | [Callomyia_amoena](https://tolqc.cog.sanger.ac.uk/darwin/insects/Callomyia_amoena)| 
-|darwin | insects | [Callophrys_rubi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Callophrys_rubi)| 
-|darwin | insects | [Calvia_quattuordecimguttata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Calvia_quattuordecimguttata)| 
-|darwin | insects | [Campaea_margaritaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Campaea_margaritaria)| 
-|darwin | insects | [Camptogramma_bilineatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Camptogramma_bilineatum)| 
-|darwin | insects | [Cantharis_rufa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cantharis_rufa)| 
-|darwin | insects | [Cantharis_rustica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cantharis_rustica)| 
-|darwin | insects | [Canthophorus_impressus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Canthophorus_impressus)| 
-|darwin | insects | [Caradrina_clavipalpis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Caradrina_clavipalpis)| 
-|darwin | insects | [Caradrina_kadenii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Caradrina_kadenii)| 
-|darwin | insects | [Carcina_quercana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Carcina_quercana)| 
-|darwin | insects | [Carterocephalus_palaemon](https://tolqc.cog.sanger.ac.uk/darwin/insects/Carterocephalus_palaemon)| 
-|darwin | insects | [Catocala_fraxini](https://tolqc.cog.sanger.ac.uk/darwin/insects/Catocala_fraxini)| 
-|darwin | insects | [Catoptria_pinella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Catoptria_pinella)| 
-|darwin | insects | [Celastrina_argiolus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Celastrina_argiolus)| 
-|darwin | insects | [Cenopis_cana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cenopis_cana)| 
-|darwin | insects | [Centrotus_cornutus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Centrotus_cornutus)| 
-|darwin | insects | [Cerceris_rybyensis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cerceris_rybyensis)| 
-|darwin | insects | [Cercopis_vulnerata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cercopis_vulnerata)| 
-|darwin | insects | [Chaetopteryx_villosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chaetopteryx_villosa)| 
-|darwin | insects | [Chalcolestes_viridis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chalcolestes_viridis)| 
-|darwin | insects | [Charanyca_ferruginea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Charanyca_ferruginea)| 
-|darwin | insects | [Charanyca_trigrammica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Charanyca_trigrammica)| 
-|darwin | insects | [Cheilosia_illustrata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cheilosia_illustrata)| 
-|darwin | insects | [Cheilosia_pagana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cheilosia_pagana)| 
-|darwin | insects | [Cheilosia_soror](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cheilosia_soror)| 
-|darwin | insects | [Cheilosia_vulpina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cheilosia_vulpina)| 
-|darwin | insects | [Chilocorus_renipustulatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chilocorus_renipustulatus)| 
-|darwin | insects | [Chloroclysta_siterata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chloroclysta_siterata)| 
-|darwin | insects | [Chloroclystis_v_ata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chloroclystis_v_ata)| 
-|darwin | insects | [Chloromyia_formosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chloromyia_formosa)| 
-|darwin | insects | [Chloroperla_tripunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chloroperla_tripunctata)| 
-|darwin | insects | [Chorthippus_albomarginatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chorthippus_albomarginatus)| 
-|darwin | insects | [Chrysogaster_coemiteriorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysogaster_coemiteriorum)| 
-|darwin | insects | [Chrysolina_oricalcia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysolina_oricalcia)| 
-|darwin | insects | [Chrysoperla_carnea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysoperla_carnea)| 
-|darwin | insects | [Chrysoteuchia_culmella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysoteuchia_culmella)| 
-|darwin | insects | [Chrysotoxum_bicinctum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysotoxum_bicinctum)| 
-|darwin | insects | [Chrysotoxum_festivum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysotoxum_festivum)| 
-|darwin | insects | [Chrysotoxum_verralli](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysotoxum_verralli)| 
-|darwin | insects | [Cistogaster_globosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cistogaster_globosa)| 
-|darwin | insects | [Cixius_nervosus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cixius_nervosus)| 
-|darwin | insects | [Clepsis_spectrana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Clepsis_spectrana)| 
-|darwin | insects | [Cloeon_dipterum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cloeon_dipterum)| 
-|darwin | insects | [Clostera_curtula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Clostera_curtula)| 
-|darwin | insects | [Closterotomus_trivialis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Closterotomus_trivialis)| 
-|darwin | insects | [Clusia_tigrina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Clusia_tigrina)| 
-|darwin | insects | [Clytus_arietis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Clytus_arietis)| 
-|darwin | insects | [Coccinella_septempunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coccinella_septempunctata)| 
-|darwin | insects | [Cochylimorpha_straminea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cochylimorpha_straminea)| 
-|darwin | insects | [Coenonympha_tullia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coenonympha_tullia)| 
-|darwin | insects | [Coenosia_intermedia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coenosia_intermedia)| 
-|darwin | insects | [Colias_croceus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Colias_croceus)| 
-|darwin | insects | [Colocasia_coryli](https://tolqc.cog.sanger.ac.uk/darwin/insects/Colocasia_coryli)| 
-|darwin | insects | [Colostygia_pectinataria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Colostygia_pectinataria)| 
-|darwin | insects | [Colotois_pennaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Colotois_pennaria)| 
-|darwin | insects | [Conops_quadrifasciatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Conops_quadrifasciatus)| 
-|darwin | insects | [Coremacera_marginata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coremacera_marginata)| 
-|darwin | insects | [Coreus_marginatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coreus_marginatus)| 
-|darwin | insects | [Corizus_hyoscyami](https://tolqc.cog.sanger.ac.uk/darwin/insects/Corizus_hyoscyami)| 
-|darwin | insects | [Cosmia_trapezina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cosmia_trapezina)| 
-|darwin | insects | [Craniophora_ligustri](https://tolqc.cog.sanger.ac.uk/darwin/insects/Craniophora_ligustri)| 
-|darwin | insects | [Crassa_unitella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Crassa_unitella)| 
-|darwin | insects | [Criorhina_berberina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Criorhina_berberina)| 
-|darwin | insects | [Crocallis_elinguaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Crocallis_elinguaria)| 
-|darwin | insects | [Crossocerus_megacephalus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Crossocerus_megacephalus)| 
-|darwin | insects | [Cupido_minimus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cupido_minimus)| 
-|darwin | insects | [Curculio_glandium](https://tolqc.cog.sanger.ac.uk/darwin/insects/Curculio_glandium)| 
-|darwin | insects | [Cyaniris_semiargus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cyaniris_semiargus)| 
-|darwin | insects | [Cydalima_perspectalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cydalima_perspectalis)| 
-|darwin | insects | [Cydia_fagiglandana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cydia_fagiglandana)| 
-|darwin | insects | [Cydia_splendana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cydia_splendana)| 
-|darwin | insects | [Dasysyrphus_tricinctus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dasysyrphus_tricinctus)| 
-|darwin | insects | [Deilephila_porcellus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Deilephila_porcellus)| 
-|darwin | insects | [Delia_platura](https://tolqc.cog.sanger.ac.uk/darwin/insects/Delia_platura)| 
-|darwin | insects | [Demetrias_atricapillus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Demetrias_atricapillus)| 
-|darwin | insects | [Denticollis_linearis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Denticollis_linearis)| 
-|darwin | insects | [Diachrysia_chrysitis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Diachrysia_chrysitis)| 
-|darwin | insects | [Diarsia_rubi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Diarsia_rubi)| 
-|darwin | insects | [Dioctria_rufipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dioctria_rufipes)| 
-|darwin | insects | [Ditula_angustiorana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ditula_angustiorana)| 
-|darwin | insects | [Dolichovespula_media](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolichovespula_media)| 
-|darwin | insects | [Dolichovespula_norwegica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolichovespula_norwegica)| 
-|darwin | insects | [Dolichovespula_saxonica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolichovespula_saxonica)| 
-|darwin | insects | [Dolichovespula_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolichovespula_sylvestris)| 
-|darwin | insects | [Dolycoris_baccarum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolycoris_baccarum)| 
-|darwin | insects | [Drepanepteryx_phalaenoides](https://tolqc.cog.sanger.ac.uk/darwin/insects/Drepanepteryx_phalaenoides)| 
-|darwin | insects | [Dromius_quadrimaculatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dromius_quadrimaculatus)| 
-|darwin | insects | [Drymus_ryeii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Drymus_ryeii)| 
-|darwin | insects | [Dryobotodes_eremita](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dryobotodes_eremita)| 
-|darwin | insects | [Dysmachus_trigonus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dysmachus_trigonus)| 
-|darwin | insects | [Dysstroma_truncata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dysstroma_truncata)| 
-|darwin | insects | [Ecdyonurus_torrentis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ecdyonurus_torrentis)| 
-|darwin | insects | [Ecliptopera_silaceata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ecliptopera_silaceata)| 
-|darwin | insects | [Ectemnius_continuus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ectemnius_continuus)| 
-|darwin | insects | [Ectemnius_lituratus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ectemnius_lituratus)| 
-|darwin | insects | [Ectropis_crepuscularia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ectropis_crepuscularia)| 
-|darwin | insects | [Eilema_depressum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eilema_depressum)| 
-|darwin | insects | [Eilema_griseolum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eilema_griseolum)| 
-|darwin | insects | [Eilema_sororcula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eilema_sororcula)| 
-|darwin | insects | [Elasmostethus_interstinctus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Elasmostethus_interstinctus)| 
-|darwin | insects | [Elophila_nymphaeata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Elophila_nymphaeata)| 
-|darwin | insects | [Emmelina_monodactyla](https://tolqc.cog.sanger.ac.uk/darwin/insects/Emmelina_monodactyla)| 
-|darwin | insects | [Empis_livida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Empis_livida)| 
-|darwin | insects | [Enallagma_cyathigerum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Enallagma_cyathigerum)| 
-|darwin | insects | [Endotricha_flammealis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Endotricha_flammealis)| 
-|darwin | insects | [Ennomos_erosarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ennomos_erosarius)| 
-|darwin | insects | [Ennomos_fuscantarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ennomos_fuscantarius)| 
-|darwin | insects | [Ennomos_quercinarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ennomos_quercinarius)| 
-|darwin | insects | [Epagoge_grotiana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epagoge_grotiana)| 
-|darwin | insects | [Epicampocera_succincta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epicampocera_succincta)| 
-|darwin | insects | [Epinotia_brunnichana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epinotia_brunnichana)| 
-|darwin | insects | [Epinotia_nisella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epinotia_nisella)| 
-|darwin | insects | [Epinotia_ramella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epinotia_ramella)| 
-|darwin | insects | [Epirrhoe_alternata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epirrhoe_alternata)| 
-|darwin | insects | [Epistrophe_grossulariae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epistrophe_grossulariae)| 
-|darwin | insects | [Episyrphus_balteatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Episyrphus_balteatus)| 
-|darwin | insects | [Erannis_defoliaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erannis_defoliaria)| 
-|darwin | insects | [Erebia_aethiops](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erebia_aethiops)| 
-|darwin | insects | [Erebia_epiphron](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erebia_epiphron)| 
-|darwin | insects | [Erebia_ligea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erebia_ligea)| 
-|darwin | insects | [Eriothrix_rufomaculata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eriothrix_rufomaculata)| 
-|darwin | insects | [Eristalinus_sepulchralis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalinus_sepulchralis)| 
-|darwin | insects | [Eristalis_arbustorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalis_arbustorum)| 
-|darwin | insects | [Eristalis_horticola](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalis_horticola)| 
-|darwin | insects | [Eristalis_pertinax](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalis_pertinax)| 
-|darwin | insects | [Eristalis_tenax](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalis_tenax)| 
-|darwin | insects | [Erynnis_tages](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erynnis_tages)| 
-|darwin | insects | [Euclidia_mi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euclidia_mi)| 
-|darwin | insects | [Eucosma_campoliliana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eucosma_campoliliana)| 
-|darwin | insects | [Eucosma_cana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eucosma_cana)| 
-|darwin | insects | [Eudonia_lacustrata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eudonia_lacustrata)| 
-|darwin | insects | [Eulithis_prunata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eulithis_prunata)| 
-|darwin | insects | [Eupeodes_corollae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupeodes_corollae)| 
-|darwin | insects | [Eupeodes_latifasciatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupeodes_latifasciatus)| 
-|darwin | insects | [Eupeodes_luniger](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupeodes_luniger)| 
-|darwin | insects | [Euphydryas_aurinia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euphydryas_aurinia)| 
-|darwin | insects | [Eupithecia_abbreviata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupithecia_abbreviata)| 
-|darwin | insects | [Eupithecia_centaureata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupithecia_centaureata)| 
-|darwin | insects | [Eupithecia_tripunctaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupithecia_tripunctaria)| 
-|darwin | insects | [Euplexia_lucipara](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euplexia_lucipara)| 
-|darwin | insects | [Euproctis_similis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euproctis_similis)| 
-|darwin | insects | [Eupsilia_transversa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupsilia_transversa)| 
-|darwin | insects | [Eurydema_oleracea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eurydema_oleracea)| 
-|darwin | insects | [Euthycera_fumigata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euthycera_fumigata)| 
-|darwin | insects | [Evagetes_crassicornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Evagetes_crassicornis)| 
-|darwin | insects | [Evergestis_limbata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Evergestis_limbata)| 
-|darwin | insects | [Fabriciana_adippe](https://tolqc.cog.sanger.ac.uk/darwin/insects/Fabriciana_adippe)| 
-|darwin | insects | [Fannia_serena](https://tolqc.cog.sanger.ac.uk/darwin/insects/Fannia_serena)| 
-|darwin | insects | [Ferdinandea_cuprea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ferdinandea_cuprea)| 
-|darwin | insects | [Fissipunctia_ypsillon](https://tolqc.cog.sanger.ac.uk/darwin/insects/Fissipunctia_ypsillon)| 
-|darwin | insects | [Forficula_auricularia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Forficula_auricularia)| 
-|darwin | insects | [Furcula_furcula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Furcula_furcula)| 
-|darwin | insects | [Gastrophysa_viridula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gastrophysa_viridula)| 
-|darwin | insects | [Glaucopsyche_alexis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Glaucopsyche_alexis)| 
-|darwin | insects | [Globia_sparganii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Globia_sparganii)| 
-|darwin | insects | [Glyphotaelius_pellucidus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Glyphotaelius_pellucidus)| 
-|darwin | insects | [Gonocerus_acuteangulatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gonocerus_acuteangulatus)| 
-|darwin | insects | [Griposia_aprilina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Griposia_aprilina)| 
-|darwin | insects | [Grypocoris_stysi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Grypocoris_stysi)| 
-|darwin | insects | [Gymnocheta_viridis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gymnocheta_viridis)| 
-|darwin | insects | [Gymnoscelis_rufifasciata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gymnoscelis_rufifasciata)| 
-|darwin | insects | [Gymnosoma_rotundatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gymnosoma_rotundatum)| 
-|darwin | insects | [Habrosyne_pyritoides](https://tolqc.cog.sanger.ac.uk/darwin/insects/Habrosyne_pyritoides)| 
-|darwin | insects | [Halyzia_sedecimguttata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Halyzia_sedecimguttata)| 
-|darwin | insects | [Hamearis_lucina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hamearis_lucina)| 
-|darwin | insects | [Harmonia_axyridis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Harmonia_axyridis)| 
-|darwin | insects | [Harpalus_rufipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Harpalus_rufipes)| 
-|darwin | insects | [Hebecnema_nigricolor](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hebecnema_nigricolor)| 
-|darwin | insects | [Hecatera_dysodea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hecatera_dysodea)| 
-|darwin | insects | [Hedya_salicella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hedya_salicella)| 
-|darwin | insects | [Helina_depuncta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Helina_depuncta)| 
-|darwin | insects | [Helina_evecta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Helina_evecta)| 
-|darwin | insects | [Helina_quadrum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Helina_quadrum)| 
-|darwin | insects | [Helophilus_pendulus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Helophilus_pendulus)| 
-|darwin | insects | [Hemaris_fuciformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hemaris_fuciformis)| 
-|darwin | insects | [Hepialus_humuli](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hepialus_humuli)| 
-|darwin | insects | [Herina_lugubris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Herina_lugubris)| 
-|darwin | insects | [Herminia_grisealis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Herminia_grisealis)| 
-|darwin | insects | [Herminia_tarsipennalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Herminia_tarsipennalis)| 
-|darwin | insects | [Hesperia_comma](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hesperia_comma)| 
-|darwin | insects | [Himacerus_apterus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Himacerus_apterus)| 
-|darwin | insects | [Himacerus_mirmicoides](https://tolqc.cog.sanger.ac.uk/darwin/insects/Himacerus_mirmicoides)| 
-|darwin | insects | [Hipparchia_semele](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hipparchia_semele)| 
-|darwin | insects | [Hippodamia_variegata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hippodamia_variegata)| 
-|darwin | insects | [Hoplodrina_octogenaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hoplodrina_octogenaria)| 
-|darwin | insects | [Hydraecia_micacea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydraecia_micacea)| 
-|darwin | insects | [Hydriomena_furcata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydriomena_furcata)| 
-|darwin | insects | [Hydrobius_fuscipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydrobius_fuscipes)| 
-|darwin | insects | [Hydromya_dorsalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydromya_dorsalis)| 
-|darwin | insects | [Hydropsyche_siltalai](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydropsyche_siltalai)| 
-|darwin | insects | [Hydrotaea_cyrtoneurina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydrotaea_cyrtoneurina)| 
-|darwin | insects | [Hylaea_fasciaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hylaea_fasciaria)| 
-|darwin | insects | [Hylaeus_communis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hylaeus_communis)| 
-|darwin | insects | [Hylemya_vagans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hylemya_vagans)| 
-|darwin | insects | [Hylemya_variata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hylemya_variata)| 
-|darwin | insects | [Hypena_proboscidalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hypena_proboscidalis)| 
-|darwin | insects | [Hypsopygia_costalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hypsopygia_costalis)| 
-|darwin | insects | [Hypsopygia_glaucinalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hypsopygia_glaucinalis)| 
-|darwin | insects | [Icerya_purchasi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Icerya_purchasi)| 
-|darwin | insects | [Ichneumon_xanthorius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ichneumon_xanthorius)| 
-|darwin | insects | [Idaea_aversata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Idaea_aversata)| 
-|darwin | insects | [Inachis_io](https://tolqc.cog.sanger.ac.uk/darwin/insects/Inachis_io)| 
-|darwin | insects | [Ischnura_elegans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ischnura_elegans)| 
-|darwin | insects | [Isoperla_grammatica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Isoperla_grammatica)| 
-|darwin | insects | [Issus_coleoptratus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Issus_coleoptratus)| 
-|darwin | insects | [Kleidocerys_resedae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Kleidocerys_resedae)| 
-|darwin | insects | [Korscheltellus_lupulinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Korscheltellus_lupulinus)| 
-|darwin | insects | [Lacanobia_wlatinum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lacanobia_wlatinum)| 
-|darwin | insects | [Laothoe_populi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Laothoe_populi)| 
-|darwin | insects | [Lasioglossum_calceatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_calceatum)| 
-|darwin | insects | [Lasioglossum_lativentre](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_lativentre)| 
-|darwin | insects | [Lasioglossum_leucozonium](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_leucozonium)| 
-|darwin | insects | [Lasioglossum_malachurum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_malachurum)| 
-|darwin | insects | [Lasioglossum_morio](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_morio)| 
-|darwin | insects | [Lasioglossum_pauxillum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_pauxillum)| 
-|darwin | insects | [Lasiommata_megera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasiommata_megera)| 
-|darwin | insects | [Lasius_niger](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasius_niger)| 
-|darwin | insects | [Laspeyria_flexula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Laspeyria_flexula)| 
-|darwin | insects | [Ledra_aurita](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ledra_aurita)| 
-|darwin | insects | [Leistus_spinibarbis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leistus_spinibarbis)| 
-|darwin | insects | [Leptidea_sinapis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leptidea_sinapis)| 
-|darwin | insects | [Leptoglossus_occidentalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leptoglossus_occidentalis)| 
-|darwin | insects | [Leucophora_obtusa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leucophora_obtusa)| 
-|darwin | insects | [Leucophora_personata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leucophora_personata)| 
-|darwin | insects | [Leucozona_laternaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leucozona_laternaria)| 
-|darwin | insects | [Leuctra_nigra](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leuctra_nigra)| 
-|darwin | insects | [Lilioceris_lilii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lilioceris_lilii)| 
-|darwin | insects | [Limenitis_camilla](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limenitis_camilla)| 
-|darwin | insects | [Limnephilus_lunatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limnephilus_lunatus)| 
-|darwin | insects | [Limnephilus_marmoratus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limnephilus_marmoratus)| 
-|darwin | insects | [Limnephilus_rhombicus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limnephilus_rhombicus)| 
-|darwin | insects | [Limnobaris_t_album](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limnobaris_t_album)| 
-|darwin | insects | [Linnaemya_tessellans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Linnaemya_tessellans)| 
-|darwin | insects | [Lobophora_halterata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lobophora_halterata)| 
-|darwin | insects | [Lomaspilis_marginata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lomaspilis_marginata)| 
-|darwin | insects | [Lophosceles_cinereiventris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lophosceles_cinereiventris)| 
-|darwin | insects | [Lozotaeniodes_formosana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lozotaeniodes_formosana)| 
-|darwin | insects | [Lucilia_richardsi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lucilia_richardsi)| 
-|darwin | insects | [Luperina_testacea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Luperina_testacea)| 
-|darwin | insects | [Lycaena_phlaeas](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lycaena_phlaeas)| 
-|darwin | insects | [Lygephila_pastinum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lygephila_pastinum)| 
-|darwin | insects | [Lygus_pratensis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lygus_pratensis)| 
-|darwin | insects | [Lymantria_monacha](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lymantria_monacha)| 
-|darwin | insects | [Lysandra_bellargus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lysandra_bellargus)| 
-|darwin | insects | [Lysandra_coridon](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lysandra_coridon)| 
-|darwin | insects | [Macaria_notata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Macaria_notata)| 
-|darwin | insects | [Machimus_atricapillus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Machimus_atricapillus)| 
-|darwin | insects | [Macrochilo_cribrumalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Macrochilo_cribrumalis)| 
-|darwin | insects | [Macropis_europaea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Macropis_europaea)| 
-|darwin | insects | [Malachius_bipustulatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Malachius_bipustulatus)| 
-|darwin | insects | [Mamestra_brassicae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mamestra_brassicae)| 
-|darwin | insects | [Maniola_jurtina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Maniola_jurtina)| 
-|darwin | insects | [Marasmarcha_lunaedactyla](https://tolqc.cog.sanger.ac.uk/darwin/insects/Marasmarcha_lunaedactyla)| 
-|darwin | insects | [Megachile_ligniseca](https://tolqc.cog.sanger.ac.uk/darwin/insects/Megachile_ligniseca)| 
-|darwin | insects | [Megachile_willughbiella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Megachile_willughbiella)| 
-|darwin | insects | [Meganola_albula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Meganola_albula)| 
-|darwin | insects | [Melanargia_galathea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melanargia_galathea)| 
-|darwin | insects | [Melangyna_umbellatarum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melangyna_umbellatarum)| 
-|darwin | insects | [Melanostoma_mellinum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melanostoma_mellinum)| 
-|darwin | insects | [Melanostoma_scalare](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melanostoma_scalare)| 
-|darwin | insects | [Melinda_gentilis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melinda_gentilis)| 
-|darwin | insects | [Melinda_viridicyanea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melinda_viridicyanea)| 
-|darwin | insects | [Melitaea_cinxia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melitaea_cinxia)| 
-|darwin | insects | [Mellicta_athalia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mellicta_athalia)| 
-|darwin | insects | [Melolontha_melolontha](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melolontha_melolontha)| 
-|darwin | insects | [Merzomyia_westermanni](https://tolqc.cog.sanger.ac.uk/darwin/insects/Merzomyia_westermanni)| 
-|darwin | insects | [Mesembrina_meridiana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mesembrina_meridiana)| 
-|darwin | insects | [Mesoligia_furuncula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mesoligia_furuncula)| 
-|darwin | insects | [Micropterix_aruncella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Micropterix_aruncella)| 
-|darwin | insects | [Miltochrista_miniata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Miltochrista_miniata)| 
-|darwin | insects | [Mimas_tiliae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mimas_tiliae)| 
-|darwin | insects | [Mimumesa_dahlbomi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mimumesa_dahlbomi)| 
-|darwin | insects | [Mocydia_crocea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mocydia_crocea)| 
-|darwin | insects | [Mompha_ochraceella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mompha_ochraceella)| 
-|darwin | insects | [Morellia_simplex](https://tolqc.cog.sanger.ac.uk/darwin/insects/Morellia_simplex)| 
-|darwin | insects | [Morophaga_choragella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Morophaga_choragella)| 
-|darwin | insects | [Musca_autumnalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Musca_autumnalis)| 
-|darwin | insects | [Myathropa_florea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Myathropa_florea)| 
-|darwin | insects | [Myelois_circumvoluta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Myelois_circumvoluta)| 
-|darwin | insects | [Myopa_tessellatipennis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Myopa_tessellatipennis)| 
-|darwin | insects | [Myrmica_ruginodis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Myrmica_ruginodis)| 
-|darwin | insects | [Mythimna_albipuncta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mythimna_albipuncta)| 
-|darwin | insects | [Mythimna_ferrago](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mythimna_ferrago)| 
-|darwin | insects | [Mythimna_impura](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mythimna_impura)| 
-|darwin | insects | [Nabis_ferus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nabis_ferus)| 
-|darwin | insects | [Nabis_limbatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nabis_limbatus)| 
-|darwin | insects | [Nabis_rugosus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nabis_rugosus)| 
-|darwin | insects | [Nebria_brevicollis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nebria_brevicollis)| 
-|darwin | insects | [Nebria_salina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nebria_salina)| 
-|darwin | insects | [Nemoura_dubitans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nemoura_dubitans)| 
-|darwin | insects | [Nemurella_pictetii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nemurella_pictetii)| 
-|darwin | insects | [Neocochylis_molliculana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Neocochylis_molliculana)| 
-|darwin | insects | [Nephrotoma_flavescens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nephrotoma_flavescens)| 
-|darwin | insects | [Nephrotoma_flavipalpis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nephrotoma_flavipalpis)| 
-|darwin | insects | [Noctua_comes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Noctua_comes)| 
-|darwin | insects | [Noctua_fimbriata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Noctua_fimbriata)| 
-|darwin | insects | [Noctua_janthe](https://tolqc.cog.sanger.ac.uk/darwin/insects/Noctua_janthe)| 
-|darwin | insects | [Noctua_pronuba](https://tolqc.cog.sanger.ac.uk/darwin/insects/Noctua_pronuba)| 
-|darwin | insects | [Nola_cucullatella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nola_cucullatella)| 
-|darwin | insects | [Nomada_fabriciana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nomada_fabriciana)| 
-|darwin | insects | [Notiophilus_biguttatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notiophilus_biguttatus)| 
-|darwin | insects | [Notocelia_uddmanniana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notocelia_uddmanniana)| 
-|darwin | insects | [Notodonta_dromedarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notodonta_dromedarius)| 
-|darwin | insects | [Notodonta_ziczac](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notodonta_ziczac)| 
-|darwin | insects | [Notonecta_glauca](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notonecta_glauca)| 
-|darwin | insects | [Nowickia_ferox](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nowickia_ferox)| 
-|darwin | insects | [Nymphalis_c_album](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nymphalis_c_album)| 
-|darwin | insects | [Nymphalis_polychloros](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nymphalis_polychloros)| 
-|darwin | insects | [Nymphalis_urticae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nymphalis_urticae)| 
-|darwin | insects | [Nymphula_nitidulata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nymphula_nitidulata)| 
-|darwin | insects | [Nysson_spinosus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nysson_spinosus)| 
-|darwin | insects | [Ochlodes_sylvanus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ochlodes_sylvanus)| 
-|darwin | insects | [Ochropleura_plecta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ochropleura_plecta)| 
-|darwin | insects | [Ocypus_olens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ocypus_olens)| 
-|darwin | insects | [Odontocerum_albicorne](https://tolqc.cog.sanger.ac.uk/darwin/insects/Odontocerum_albicorne)| 
-|darwin | insects | [Oedemera_lurida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Oedemera_lurida)| 
-|darwin | insects | [Oedemera_nobilis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Oedemera_nobilis)| 
-|darwin | insects | [Omphaloscelis_lunosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Omphaloscelis_lunosa)| 
-|darwin | insects | [Operophtera_brumata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Operophtera_brumata)| 
-|darwin | insects | [Operophtera_fagata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Operophtera_fagata)| 
-|darwin | insects | [Ophion_slaviceki](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ophion_slaviceki)| 
-|darwin | insects | [Ophonus_ardosiacus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ophonus_ardosiacus)| 
-|darwin | insects | [Opisthograptis_luteolata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Opisthograptis_luteolata)| 
-|darwin | insects | [Oplodontha_viridula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Oplodontha_viridula)| 
-|darwin | insects | [Opsius_stactogalus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Opsius_stactogalus)| 
-|darwin | insects | [Orgyia_antiqua](https://tolqc.cog.sanger.ac.uk/darwin/insects/Orgyia_antiqua)| 
-|darwin | insects | [Orthosia_cerasi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Orthosia_cerasi)| 
-|darwin | insects | [Ostrinia_nubilalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ostrinia_nubilalis)| 
-|darwin | insects | [Otiorhynchus_sulcatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Otiorhynchus_sulcatus)| 
-|darwin | insects | [Oulema_melanopus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Oulema_melanopus)| 
-|darwin | insects | [Pammene_fasciana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pammene_fasciana)| 
-|darwin | insects | [Pammene_regiana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pammene_regiana)| 
-|darwin | insects | [Pandemis_cinnamomeana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pandemis_cinnamomeana)| 
-|darwin | insects | [Pandemis_corylana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pandemis_corylana)| 
-|darwin | insects | [Pantilius_tunicatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pantilius_tunicatus)| 
-|darwin | insects | [Papilio_machaon](https://tolqc.cog.sanger.ac.uk/darwin/insects/Papilio_machaon)| 
-|darwin | insects | [Paragus_haemorrhous](https://tolqc.cog.sanger.ac.uk/darwin/insects/Paragus_haemorrhous)| 
-|darwin | insects | [Parapoynx_stratiotata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Parapoynx_stratiotata)| 
-|darwin | insects | [Pararge_aegeria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pararge_aegeria)| 
-|darwin | insects | [Patania_ruralis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Patania_ruralis)| 
-|darwin | insects | [Peltodytes_caesus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Peltodytes_caesus)| 
-|darwin | insects | [Pemphredon_lugubris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pemphredon_lugubris)| 
-|darwin | insects | [Pentatoma_rufipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pentatoma_rufipes)| 
-|darwin | insects | [Peribatodes_rhomboidaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Peribatodes_rhomboidaria)| 
-|darwin | insects | [Perizoma_alchemillatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Perizoma_alchemillatum)| 
-|darwin | insects | [Perizoma_flavofasciatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Perizoma_flavofasciatum)| 
-|darwin | insects | [Phalera_bucephala](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phalera_bucephala)| 
-|darwin | insects | [Phaonia_pallida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phaonia_pallida)| 
-|darwin | insects | [Phaonia_rufiventris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phaonia_rufiventris)| 
-|darwin | insects | [Phaonia_tuguriorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phaonia_tuguriorum)| 
-|darwin | insects | [Phasia_hemiptera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phasia_hemiptera)| 
-|darwin | insects | [Phasia_obesa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phasia_obesa)| 
-|darwin | insects | [Pheosia_gnoma](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pheosia_gnoma)| 
-|darwin | insects | [Pheosia_tremula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pheosia_tremula)| 
-|darwin | insects | [Pherbellia_cinerella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pherbellia_cinerella)| 
-|darwin | insects | [Pherbina_coryleti](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pherbina_coryleti)| 
-|darwin | insects | [Philereme_vetulata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Philereme_vetulata)| 
-|darwin | insects | [Philonthus_cognatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Philonthus_cognatus)| 
-|darwin | insects | [Phlogophora_meticulosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phlogophora_meticulosa)| 
-|darwin | insects | [Phosphuga_atrata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phosphuga_atrata)| 
-|darwin | insects | [Photedes_minima](https://tolqc.cog.sanger.ac.uk/darwin/insects/Photedes_minima)| 
-|darwin | insects | [Phragmatobia_fuliginosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phragmatobia_fuliginosa)| 
-|darwin | insects | [Phycita_roborella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phycita_roborella)| 
-|darwin | insects | [Physocephala_rufipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Physocephala_rufipes)| 
-|darwin | insects | [Phyto_melanocephala](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phyto_melanocephala)| 
-|darwin | insects | [Pieris_brassicae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pieris_brassicae)| 
-|darwin | insects | [Pieris_napi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pieris_napi)| 
-|darwin | insects | [Pieris_rapae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pieris_rapae)| 
-|darwin | insects | [Planococcus_citri](https://tolqc.cog.sanger.ac.uk/darwin/insects/Planococcus_citri)| 
-|darwin | insects | [Platycheirus_albimanus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Platycheirus_albimanus)| 
-|darwin | insects | [Platycheirus_scutatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Platycheirus_scutatus)| 
-|darwin | insects | [Platycis_minutus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Platycis_minutus)| 
-|darwin | insects | [Platycnemis_pennipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Platycnemis_pennipes)| 
-|darwin | insects | [Plea_minutissima](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plea_minutissima)| 
-|darwin | insects | [Plebejus_argus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plebejus_argus)| 
-|darwin | insects | [Plemyria_rubiginata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plemyria_rubiginata)| 
-|darwin | insects | [Plodia_interpunctella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plodia_interpunctella)| 
-|darwin | insects | [Plutella_xylostella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plutella_xylostella)| 
-|darwin | insects | [Podabrus_alpinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Podabrus_alpinus)| 
-|darwin | insects | [Poecilocampa_populi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Poecilocampa_populi)| 
-|darwin | insects | [Pollenia_amentaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pollenia_amentaria)| 
-|darwin | insects | [Pollenia_angustigena](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pollenia_angustigena)| 
-|darwin | insects | [Polycentropus_irroratus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Polycentropus_irroratus)| 
-|darwin | insects | [Polydrusus_cervinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Polydrusus_cervinus)| 
-|darwin | insects | [Polyommatus_icarus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Polyommatus_icarus)| 
-|darwin | insects | [Polysphincta_tuberosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Polysphincta_tuberosa)| 
-|darwin | insects | [Propylea_quattuordecimpunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Propylea_quattuordecimpunctata)| 
-|darwin | insects | [Protocalliphora_azurea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Protocalliphora_azurea)| 
-|darwin | insects | [Protodeltote_pygarga](https://tolqc.cog.sanger.ac.uk/darwin/insects/Protodeltote_pygarga)| 
-|darwin | insects | [Pseudoips_prasinana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pseudoips_prasinana)| 
-|darwin | insects | [Psila_merdaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Psila_merdaria)| 
-|darwin | insects | [Psoricoptera_gibbosella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Psoricoptera_gibbosella)| 
-|darwin | insects | [Pterostichus_madidus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pterostichus_madidus)| 
-|darwin | insects | [Pterostichus_strenuus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pterostichus_strenuus)| 
-|darwin | insects | [Ptilodon_capucinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ptilodon_capucinus)| 
-|darwin | insects | [Ptycholomoides_aeriferana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ptycholomoides_aeriferana)| 
-|darwin | insects | [Pyrochroa_serraticornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pyrochroa_serraticornis)| 
-|darwin | insects | [Recurvaria_leucatella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Recurvaria_leucatella)| 
-|darwin | insects | [Rhabdomiris_striatellus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhabdomiris_striatellus)| 
-|darwin | insects | [Rhagio_annulatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhagio_annulatus)| 
-|darwin | insects | [Rhagio_tringarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhagio_tringarius)| 
-|darwin | insects | [Rhagonycha_fulva](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhagonycha_fulva)| 
-|darwin | insects | [Rhingia_campestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhingia_campestris)| 
-|darwin | insects | [Rhinocyllus_conicus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhinocyllus_conicus)| 
-|darwin | insects | [Rhinophora_lepida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhinophora_lepida)| 
-|darwin | insects | [Rhithrogena_germanica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhithrogena_germanica)| 
-|darwin | insects | [Rhithrogena_semicolorata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhithrogena_semicolorata)| 
-|darwin | insects | [Rhogogaster_chlorosoma](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhogogaster_chlorosoma)| 
-|darwin | insects | [Rhopalus_parumpunctatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhopalus_parumpunctatus)| 
-|darwin | insects | [Rhopalus_subrufus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhopalus_subrufus)| 
-|darwin | insects | [Rhopobota_naevana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhopobota_naevana)| 
-|darwin | insects | [Rhyparochromus_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhyparochromus_vulgaris)| 
-|darwin | insects | [Rutpela_maculata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rutpela_maculata)| 
-|darwin | insects | [Sapromyzosoma_quadripunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sapromyzosoma_quadripunctata)| 
-|darwin | insects | [Sarcophaga_caerulescens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_caerulescens)| 
-|darwin | insects | [Sarcophaga_carnaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_carnaria)| 
-|darwin | insects | [Sarcophaga_crassimargo](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_crassimargo)| 
-|darwin | insects | [Sarcophaga_haemorrhoa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_haemorrhoa)| 
-|darwin | insects | [Sarcophaga_rosellei](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_rosellei)| 
-|darwin | insects | [Sarcophaga_subvicina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_subvicina)| 
-|darwin | insects | [Sarcophaga_variegata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_variegata)| 
-|darwin | insects | [Satyrium_w_album](https://tolqc.cog.sanger.ac.uk/darwin/insects/Satyrium_w_album)| 
-|darwin | insects | [Scaeva_pyrastri](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scaeva_pyrastri)| 
-|darwin | insects | [Scambus_nigricans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scambus_nigricans)| 
-|darwin | insects | [Scathophaga_stercoraria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scathophaga_stercoraria)| 
-|darwin | insects | [Schrankia_costaestrigalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Schrankia_costaestrigalis)| 
-|darwin | insects | [Scoliopteryx_libatrix](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scoliopteryx_libatrix)| 
-|darwin | insects | [Scopula_imitaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scopula_imitaria)| 
-|darwin | insects | [Scotopteryx_chenopodiata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scotopteryx_chenopodiata)| 
-|darwin | insects | [Seladonia_tumulorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Seladonia_tumulorum)| 
-|darwin | insects | [Selenia_dentaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Selenia_dentaria)| 
-|darwin | insects | [Selenia_tetralunaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Selenia_tetralunaria)| 
-|darwin | insects | [Sericostoma_personatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sericostoma_personatum)| 
-|darwin | insects | [Sesia_apiformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sesia_apiformis)| 
-|darwin | insects | [Sesia_bembeciformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sesia_bembeciformis)| 
-|darwin | insects | [Shargacucullia_verbasci](https://tolqc.cog.sanger.ac.uk/darwin/insects/Shargacucullia_verbasci)| 
-|darwin | insects | [Sialis_lutaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sialis_lutaria)| 
-|darwin | insects | [Sicus_ferrugineus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sicus_ferrugineus)| 
-|darwin | insects | [Silo_pallipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Silo_pallipes)| 
-|darwin | insects | [Sinodendron_cylindricum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sinodendron_cylindricum)| 
-|darwin | insects | [Sphaerophoria_scripta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphaerophoria_scripta)| 
-|darwin | insects | [Sphaerophoria_taeniata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphaerophoria_taeniata)| 
-|darwin | insects | [Sphecodes_crassus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphecodes_crassus)| 
-|darwin | insects | [Sphecodes_ephippius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphecodes_ephippius)| 
-|darwin | insects | [Sphecodes_hyalinatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphecodes_hyalinatus)| 
-|darwin | insects | [Sphecodes_monilicornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphecodes_monilicornis)| 
-|darwin | insects | [Sphinx_pinastri](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphinx_pinastri)| 
-|darwin | insects | [Spilarctia_lutea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Spilarctia_lutea)| 
-|darwin | insects | [Spilosoma_lubricipeda](https://tolqc.cog.sanger.ac.uk/darwin/insects/Spilosoma_lubricipeda)| 
-|darwin | insects | [Stelis_phaeoptera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stelis_phaeoptera)| 
-|darwin | insects | [Stenocranus_minutus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stenocranus_minutus)| 
-|darwin | insects | [Stenodema_laevigata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stenodema_laevigata)| 
-|darwin | insects | [Stenoptilia_bipunctidactyla](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stenoptilia_bipunctidactyla)| 
-|darwin | insects | [Stomorhina_lunata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stomorhina_lunata)| 
-|darwin | insects | [Stratiomys_potamida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stratiomys_potamida)| 
-|darwin | insects | [Stratiomys_singularior](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stratiomys_singularior)| 
-|darwin | insects | [Subcoccinella_vigintiquattuorpunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Subcoccinella_vigintiquattuorpunctata)| 
-|darwin | insects | [Sympetrum_striolatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sympetrum_striolatum)| 
-|darwin | insects | [Synanthedon_andrenaeformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Synanthedon_andrenaeformis)| 
-|darwin | insects | [Synanthedon_vespiformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Synanthedon_vespiformis)| 
-|darwin | insects | [Syritta_pipiens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Syritta_pipiens)| 
-|darwin | insects | [Syrphus_ribesii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Syrphus_ribesii)| 
-|darwin | insects | [Tabanus_autumnalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tabanus_autumnalis)| 
-|darwin | insects | [Tabanus_bromius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tabanus_bromius)| 
-|darwin | insects | [Tachina_fera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tachina_fera)| 
-|darwin | insects | [Tachina_grossa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tachina_grossa)| 
-|darwin | insects | [Tachina_lurida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tachina_lurida)| 
-|darwin | insects | [Tenthredo_livida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tenthredo_livida)| 
-|darwin | insects | [Tenthredo_mesomela](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tenthredo_mesomela)| 
-|darwin | insects | [Tenthredo_notha](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tenthredo_notha)| 
-|darwin | insects | [Tephritis_neesii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tephritis_neesii)| 
-|darwin | insects | [Terellia_serratulae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Terellia_serratulae)| 
-|darwin | insects | [Thecla_betulae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thecla_betulae)| 
-|darwin | insects | [Thecocarcelia_acutangulata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thecocarcelia_acutangulata)| 
-|darwin | insects | [Thecophora_atra](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thecophora_atra)| 
-|darwin | insects | [Thera_britannica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thera_britannica)| 
-|darwin | insects | [Theria_primaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Theria_primaria)| 
-|darwin | insects | [Tholera_decimalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tholera_decimalis)| 
-|darwin | insects | [Thricops_semicinereus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thricops_semicinereus)| 
-|darwin | insects | [Thumatha_senex](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thumatha_senex)| 
-|darwin | insects | [Thyatira_batis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thyatira_batis)| 
-|darwin | insects | [Thymelicus_lineola](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thymelicus_lineola)| 
-|darwin | insects | [Thymelicus_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thymelicus_sylvestris)| 
-|darwin | insects | [Tinea_semifulvella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tinea_semifulvella)| 
-|darwin | insects | [Tinea_trinotella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tinea_trinotella)| 
-|darwin | insects | [Tiphia_femorata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tiphia_femorata)| 
-|darwin | insects | [Tipula_paludosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tipula_paludosa)| 
-|darwin | insects | [Tipula_vernalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tipula_vernalis)| 
-|darwin | insects | [Tricholauxania_praeusta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tricholauxania_praeusta)| 
-|darwin | insects | [Triodia_sylvina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Triodia_sylvina)| 
-|darwin | insects | [Trypoxylon_clavicerum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Trypoxylon_clavicerum)| 
-|darwin | insects | [Udea_prunalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Udea_prunalis)| 
-|darwin | insects | [Vanessa_atalanta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vanessa_atalanta)| 
-|darwin | insects | [Vanessa_cardui](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vanessa_cardui)| 
-|darwin | insects | [Vespa_crabro](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vespa_crabro)| 
-|darwin | insects | [Vespula_germanica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vespula_germanica)| 
-|darwin | insects | [Vespula_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vespula_vulgaris)| 
-|darwin | insects | [Volucella_inanis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Volucella_inanis)| 
-|darwin | insects | [Volucella_inflata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Volucella_inflata)| 
-|darwin | insects | [Volucella_pellucens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Volucella_pellucens)| 
-|darwin | insects | [Watsonalla_binaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Watsonalla_binaria)| 
-|darwin | insects | [Watsonalla_cultraria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Watsonalla_cultraria)| 
-|darwin | insects | [Xanthogramma_pedissequum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xanthogramma_pedissequum)| 
-|darwin | insects | [Xanthorhoe_fluctuata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xanthorhoe_fluctuata)| 
-|darwin | insects | [Xanthorhoe_quadrifasciata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xanthorhoe_quadrifasciata)| 
-|darwin | insects | [Xestia_c_nigrum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xestia_c_nigrum)| 
-|darwin | insects | [Xestia_sexstrigata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xestia_sexstrigata)| 
-|darwin | insects | [Xestia_triangulum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xestia_triangulum)| 
-|darwin | insects | [Xestia_xanthographa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xestia_xanthographa)| 
-|darwin | insects | [Xylocampa_areola](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xylocampa_areola)| 
-|darwin | insects | [Xylota_sylvarum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xylota_sylvarum)| 
-|darwin | insects | [Yponomeuta_plumbellus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Yponomeuta_plumbellus)| 
-|darwin | insects | [Yponomeuta_sedellus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Yponomeuta_sedellus)| 
-|darwin | insects | [Ypsolopha_alpella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ypsolopha_alpella)| 
-|darwin | insects | [Ypsolopha_parenthesella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ypsolopha_parenthesella)| 
-|darwin | insects | [Ypsolopha_scabrella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ypsolopha_scabrella)| 
-|darwin | insects | [Ypsolopha_sequella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ypsolopha_sequella)| 
-|darwin | insects | [Zeiraphera_isertana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Zeiraphera_isertana)| 
-|darwin | insects | [Zeuzera_pyrina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Zeuzera_pyrina)| 
-|darwin | insects | [Zygaena_filipendulae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Zygaena_filipendulae)| 
-|darwin | jellyfish | [Actinia_fragacea](https://tolqc.cog.sanger.ac.uk/darwin/jellyfish/Actinia_fragacea)| 
-|darwin | jellyfish | [Diadumene_lineata](https://tolqc.cog.sanger.ac.uk/darwin/jellyfish/Diadumene_lineata)| 
-|darwin | jellyfish | [Haliclystus_octoradiatus](https://tolqc.cog.sanger.ac.uk/darwin/jellyfish/Haliclystus_octoradiatus)| 
-|darwin | jellyfish | [Nematostella_vectensis](https://tolqc.cog.sanger.ac.uk/darwin/jellyfish/Nematostella_vectensis)| 
-|darwin | mammals | [Apodemus_flavicollis](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Apodemus_flavicollis)| 
-|darwin | mammals | [Apodemus_sylvaticus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Apodemus_sylvaticus)| 
-|darwin | mammals | [Canis_lupus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Canis_lupus)| 
-|darwin | mammals | [Cervus_elaphus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Cervus_elaphus)| 
-|darwin | mammals | [Meles_meles](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Meles_meles)| 
-|darwin | mammals | [Myodes_glareolus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Myodes_glareolus)| 
-|darwin | mammals | [Sorex_araneus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Sorex_araneus)| 
-|darwin | molluscs | [Acanthochitona_crinita](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Acanthochitona_crinita)| 
-|darwin | molluscs | [Ancylus_fluviatilis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Ancylus_fluviatilis)| 
-|darwin | molluscs | [Anisus_vortex](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Anisus_vortex)| 
-|darwin | molluscs | [Bithynia_leachii](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Bithynia_leachii)| 
-|darwin | molluscs | [Calliostoma_zizyphinum](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Calliostoma_zizyphinum)| 
-|darwin | molluscs | [Cepaea_hortensis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Cepaea_hortensis)| 
-|darwin | molluscs | [Cepaea_nemoralis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Cepaea_nemoralis)| 
-|darwin | molluscs | [Cerastoderma_edule](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Cerastoderma_edule)| 
-|darwin | molluscs | [Cornu_aspersum](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Cornu_aspersum)| 
-|darwin | molluscs | [Crimora_papillata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Crimora_papillata)| 
-|darwin | molluscs | [Doris_pseudoargus](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Doris_pseudoargus)| 
-|darwin | molluscs | [Gari_tellinella](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Gari_tellinella)| 
-|darwin | molluscs | [Gibbula_magus](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Gibbula_magus)| 
-|darwin | molluscs | [Helicella_itala](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Helicella_itala)| 
-|darwin | molluscs | [Littorina_obtusata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Littorina_obtusata)| 
-|darwin | molluscs | [Macomangulus_tenuis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Macomangulus_tenuis)| 
-|darwin | molluscs | [Magallana_gigas](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Magallana_gigas)| 
-|darwin | molluscs | [Microchlamylla_gracilis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Microchlamylla_gracilis)| 
-|darwin | molluscs | [Mimachlamys_varia](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Mimachlamys_varia)| 
-|darwin | molluscs | [Mysia_undata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Mysia_undata)| 
-|darwin | molluscs | [Nucella_lapillus](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Nucella_lapillus)| 
-|darwin | molluscs | [Patella_depressa](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Patella_depressa)| 
-|darwin | molluscs | [Patella_pellucida](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Patella_pellucida)| 
-|darwin | molluscs | [Patella_ulyssiponensis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Patella_ulyssiponensis)| 
-|darwin | molluscs | [Patella_vulgata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Patella_vulgata)| 
-|darwin | molluscs | [Phorcus_lineatus](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Phorcus_lineatus)| 
-|darwin | molluscs | [Physa_fontinalis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Physa_fontinalis)| 
-|darwin | molluscs | [Physella_acuta](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Physella_acuta)| 
-|darwin | molluscs | [Pisidium_nitidum](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Pisidium_nitidum)| 
-|darwin | molluscs | [Planorbis_planorbis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Planorbis_planorbis)| 
-|darwin | molluscs | [Spisula_solida](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Spisula_solida)| 
-|darwin | molluscs | [Steromphala_cineraria](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Steromphala_cineraria)| 
-|darwin | molluscs | [Testudinalia_testudinalis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Testudinalia_testudinalis)| 
-|darwin | molluscs | [Theodoxus_fluviatilis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Theodoxus_fluviatilis)| 
-|darwin | molluscs | [Tritia_reticulata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Tritia_reticulata)| 
-|darwin | molluscs | [Trivia_monacha](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Trivia_monacha)| 
-|darwin | molluscs | [Valvata_piscinalis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Valvata_piscinalis)| 
-|darwin | molluscs | [Venerupis_corrugata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Venerupis_corrugata)| 
-|darwin | molluscs | [Xeroplexa_intersecta](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Xeroplexa_intersecta)| 
-|darwin | monocots | [Alisma_plantago_aquatica](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Alisma_plantago_aquatica)| 
-|darwin | monocots | [Allium_ampeloprasum](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Allium_ampeloprasum)| 
-|darwin | monocots | [Allium_triquetrum](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Allium_triquetrum)| 
-|darwin | monocots | [Aponogeton_distachyos](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Aponogeton_distachyos)| 
-|darwin | monocots | [Arum_maculatum](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Arum_maculatum)| 
-|darwin | monocots | [Briza_media](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Briza_media)| 
-|darwin | monocots | [Bromus_sterilis](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Bromus_sterilis)| 
-|darwin | monocots | [Carex_depauperata](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Carex_depauperata)| 
-|darwin | monocots | [Carex_nigra](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Carex_nigra)| 
-|darwin | monocots | [Carex_pendula](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Carex_pendula)| 
-|darwin | monocots | [Carex_rostrata](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Carex_rostrata)| 
-|darwin | monocots | [Colchicum_autumnale](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Colchicum_autumnale)| 
-|darwin | monocots | [Hierochloe_odorata](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Hierochloe_odorata)| 
-|darwin | monocots | [Holcus_mollis](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Holcus_mollis)| 
-|darwin | monocots | [Iris_pseudacorus](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Iris_pseudacorus)| 
-|darwin | monocots | [Juncus_effusus](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Juncus_effusus)| 
-|darwin | monocots | [Luzula_sylvatica](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Luzula_sylvatica)| 
-|darwin | monocots | [Narcissus_pseudonarcissus](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Narcissus_pseudonarcissus)| 
-|darwin | monocots | [Oreojuncus_trifidus](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Oreojuncus_trifidus)| 
-|darwin | monocots | [Schoenoplectus_lacustris](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Schoenoplectus_lacustris)| 
-|darwin | monocots | [Typha_latifolia](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Typha_latifolia)| 
-|darwin | non-vascular-plants | [Hylocomiadelphus_triquetrus](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Hylocomiadelphus_triquetrus)| 
-|darwin | non-vascular-plants | [Isothecium_myosuroides](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Isothecium_myosuroides)| 
-|darwin | non-vascular-plants | [Lunularia_cruciata](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Lunularia_cruciata)| 
-|darwin | non-vascular-plants | [Neckera_pumila](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Neckera_pumila)| 
-|darwin | non-vascular-plants | [Polytrichum_commune](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Polytrichum_commune)| 
-|darwin | non-vascular-plants | [Rhytidiadelphus_loreus](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Rhytidiadelphus_loreus)| 
-|darwin | non-vascular-plants | [Sphagnum_inundatum](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Sphagnum_inundatum)| 
-|darwin | non-vascular-plants | [Thamnobryum_alopecurum](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Thamnobryum_alopecurum)| 
-|darwin | non-vascular-plants | [Thuidium_delicatulum](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Thuidium_delicatulum)| 
-|darwin | non-vascular-plants | [Thuidium_tamariscinum](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Thuidium_tamariscinum)| 
-|darwin | other-animal-phyla | [Bugulina_stolonifera](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Bugulina_stolonifera)| 
-|darwin | other-animal-phyla | [Cryptosula_pallasiana](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Cryptosula_pallasiana)| 
-|darwin | other-animal-phyla | [Lineus_longissimus](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Lineus_longissimus)| 
-|darwin | other-animal-phyla | [Membranipora_membranacea](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Membranipora_membranacea)| 
-|darwin | other-animal-phyla | [Watersipora_subatra](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Watersipora_subatra)| 
-|darwin | protists | [Chrysotila_carterae](https://tolqc.cog.sanger.ac.uk/darwin/protists/Chrysotila_carterae)| 
-|darwin | protists | [Colpoda_steinii](https://tolqc.cog.sanger.ac.uk/darwin/protists/Colpoda_steinii)| 
-|darwin | protists | [Eimeria_maxima](https://tolqc.cog.sanger.ac.uk/darwin/protists/Eimeria_maxima)| 
-|darwin | protists | [Euglenaria_anabaena](https://tolqc.cog.sanger.ac.uk/darwin/protists/Euglenaria_anabaena)| 
-|darwin | protists | [Tetramitus_jugosus](https://tolqc.cog.sanger.ac.uk/darwin/protists/Tetramitus_jugosus)| 
-|darwin | rnd | [Adalia_bipunctata](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Adalia_bipunctata)| 
-|darwin | rnd | [Biomphalaria_glabrata](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Biomphalaria_glabrata)| 
-|darwin | rnd | [Caenorhabditis_monodelphis](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Caenorhabditis_monodelphis)| 
-|darwin | rnd | [Danio_rerio](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Danio_rerio)| 
-|darwin | rnd | [Dunaliella_primolecta](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Dunaliella_primolecta)| 
-|darwin | rnd | [Leucocybe_candicans](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Leucocybe_candicans)| 
-|darwin | rnd | [Metschnikowia_zobellii](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Metschnikowia_zobellii)| 
-|darwin | rnd | [Physella_acuta](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Physella_acuta)| 
-|darwin | vascular-plants | [Asplenium_scolopendrium](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Asplenium_scolopendrium)| 
-|darwin | vascular-plants | [Equisetum_hyemale](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Equisetum_hyemale)| 
-|darwin | vascular-plants | [Equisetum_telmateia](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Equisetum_telmateia)| 
-|darwin | vascular-plants | [Huperzia_selago](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Huperzia_selago)| 
-|darwin | vascular-plants | [Polypodium_vulgare](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Polypodium_vulgare)| 
-|erga | arthropods | [Parastalita_stygia](https://tolqc.cog.sanger.ac.uk/erga/arthropods/Parastalita_stygia)| 
-|erga | fish | [Solea_solea](https://tolqc.cog.sanger.ac.uk/erga/fish/Solea_solea)| 
-|tol | arthropods | [Clistosaccus_paguri](https://tolqc.cog.sanger.ac.uk/tol/arthropods/Clistosaccus_paguri)| 
-|tol | insects | [Lysandra_bellargus](https://tolqc.cog.sanger.ac.uk/tol/insects/Lysandra_bellargus)| 
-|tol | insects | [Lysandra_coridon](https://tolqc.cog.sanger.ac.uk/tol/insects/Lysandra_coridon)| 
-|tol | insects | [Pieris_rapae](https://tolqc.cog.sanger.ac.uk/tol/insects/Pieris_rapae)| 
-|tol | insects | [Polyommatus_icarus](https://tolqc.cog.sanger.ac.uk/tol/insects/Polyommatus_icarus)| 
-|tol | insects | [Teleogryllus_oceanicus](https://tolqc.cog.sanger.ac.uk/tol/insects/Teleogryllus_oceanicus)| 
-|tol | molluscs | [Biomphalaria_glabrata](https://tolqc.cog.sanger.ac.uk/tol/molluscs/Biomphalaria_glabrata)| 
-|tol | molluscs | [Limnoperna_fortunei](https://tolqc.cog.sanger.ac.uk/tol/molluscs/Limnoperna_fortunei)| 
-|tol | protists | [Plasmodium_falciparum](https://tolqc.cog.sanger.ac.uk/tol/protists/Plasmodium_falciparum)| 
-|vgp | birds | [Accipiter_gentilis](https://tolqc.cog.sanger.ac.uk/vgp/birds/Accipiter_gentilis)| 
-|vgp | birds | [Calonectris_borealis](https://tolqc.cog.sanger.ac.uk/vgp/birds/Calonectris_borealis)| 
-|vgp | fish | [Acipenser_ruthenus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Acipenser_ruthenus)| 
-|vgp | fish | [Barbus_barbus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Barbus_barbus)| 
-|vgp | fish | [Borostomias_antarcticus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Borostomias_antarcticus)| 
-|vgp | fish | [Chanos_chanos](https://tolqc.cog.sanger.ac.uk/vgp/fish/Chanos_chanos)| 
-|vgp | fish | [Electrona_antarctica](https://tolqc.cog.sanger.ac.uk/vgp/fish/Electrona_antarctica)| 
-|vgp | fish | [Harpagifer_antarcticus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Harpagifer_antarcticus)| 
-|vgp | fish | [Lipophrys_pholis](https://tolqc.cog.sanger.ac.uk/vgp/fish/Lipophrys_pholis)| 
-|vgp | fish | [Notolepis_coatsi](https://tolqc.cog.sanger.ac.uk/vgp/fish/Notolepis_coatsi)| 
-|vgp | fish | [Pholis_gunnellus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Pholis_gunnellus)| 
-|vgp | fish | [Salmo_trutta](https://tolqc.cog.sanger.ac.uk/vgp/fish/Salmo_trutta)| 
-|vgp | fish | [Solea_solea](https://tolqc.cog.sanger.ac.uk/vgp/fish/Solea_solea)| 
-|vgp | fish | [Taurulus_bubalis](https://tolqc.cog.sanger.ac.uk/vgp/fish/Taurulus_bubalis)| 
-|vgp | fish | [Telmatherina_bonti](https://tolqc.cog.sanger.ac.uk/vgp/fish/Telmatherina_bonti)| 
-|vgp | fish | [Thunnus_albacares](https://tolqc.cog.sanger.ac.uk/vgp/fish/Thunnus_albacares)| 
-|vgp | fish | [Thunnus_maccoyii](https://tolqc.cog.sanger.ac.uk/vgp/fish/Thunnus_maccoyii)| 
-|vgp | fish | [Trachurus_trachurus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Trachurus_trachurus)| 
-|vgp | mammals | [Apodemus_sylvaticus](https://tolqc.cog.sanger.ac.uk/vgp/mammals/Apodemus_sylvaticus)| 
-|vgp | mammals | [Canis_lupus](https://tolqc.cog.sanger.ac.uk/vgp/mammals/Canis_lupus)| 
-|vgp | mammals | [Cervus_elaphus](https://tolqc.cog.sanger.ac.uk/vgp/mammals/Cervus_elaphus)| 
-|vgp | mammals | [Meles_meles](https://tolqc.cog.sanger.ac.uk/vgp/mammals/Meles_meles)| 
+| ------- | ----- | ------- |
+| 25g | dicots | [Impatiens_glandulifera](https://tolqc.cog.sanger.ac.uk/25g/dicots/Impatiens_glandulifera)| 
+| 25g | fish | [Salmo_trutta](https://tolqc.cog.sanger.ac.uk/25g/fish/Salmo_trutta)| 
+| 25g | insects | [Hemaris_fuciformis](https://tolqc.cog.sanger.ac.uk/25g/insects/Hemaris_fuciformis)| 
+| asg | algae | [Pelvetia_canaliculata](https://tolqc.cog.sanger.ac.uk/asg/algae/Pelvetia_canaliculata)| 
+| asg | annelids | [Branchellion_lobata](https://tolqc.cog.sanger.ac.uk/asg/annelids/Branchellion_lobata)| 
+| asg | jellyfish | [Blastomussa_wellsi](https://tolqc.cog.sanger.ac.uk/asg/jellyfish/Blastomussa_wellsi)| 
+| asg | jellyfish | [Galaxea_fascicularis](https://tolqc.cog.sanger.ac.uk/asg/jellyfish/Galaxea_fascicularis)| 
+| asg | jellyfish | [Ricordea_florida](https://tolqc.cog.sanger.ac.uk/asg/jellyfish/Ricordea_florida)| 
+| asg | molluscs | [Costasiella_ocellifera](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Costasiella_ocellifera)| 
+| asg | molluscs | [Eumandya_parva](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Eumandya_parva)| 
+| asg | molluscs | [Fragum_sueziense](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Fragum_sueziense)| 
+| asg | molluscs | [Hippopus_hippopus](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Hippopus_hippopus)| 
+| asg | molluscs | [Sepia_elegans](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Sepia_elegans)| 
+| asg | molluscs | [Tridacna_crocea](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Tridacna_crocea)| 
+| asg | molluscs | [Tridacna_gigas](https://tolqc.cog.sanger.ac.uk/asg/molluscs/Tridacna_gigas)| 
+| asg | protists | [Breviolum_psygmophilum](https://tolqc.cog.sanger.ac.uk/asg/protists/Breviolum_psygmophilum)| 
+| asg | protists | [Eutreptiella_sp_Long_Island_Sound_2002](https://tolqc.cog.sanger.ac.uk/asg/protists/Eutreptiella_sp_Long_Island_Sound_2002)| 
+| asg | protists | [Freudenthalidium_endolithicum](https://tolqc.cog.sanger.ac.uk/asg/protists/Freudenthalidium_endolithicum)| 
+| asg | protists | [Freudenthalidium_heronense](https://tolqc.cog.sanger.ac.uk/asg/protists/Freudenthalidium_heronense)| 
+| asg | protists | [Gerakladium_sp_JEP_2021](https://tolqc.cog.sanger.ac.uk/asg/protists/Gerakladium_sp_JEP_2021)| 
+| asg | protists | [Paramoeba_pemaquidensis](https://tolqc.cog.sanger.ac.uk/asg/protists/Paramoeba_pemaquidensis)| 
+| asg | protists | [Symbiodinium_pilosum](https://tolqc.cog.sanger.ac.uk/asg/protists/Symbiodinium_pilosum)| 
+| asg | sponges | [Agelas_oroides](https://tolqc.cog.sanger.ac.uk/asg/sponges/Agelas_oroides)| 
+| asg | sponges | [Chondrosia_reniformis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Chondrosia_reniformis)| 
+| asg | sponges | [Cinachyrella_kuekenthali](https://tolqc.cog.sanger.ac.uk/asg/sponges/Cinachyrella_kuekenthali)| 
+| asg | sponges | [Eunapius_fragilis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Eunapius_fragilis)| 
+| asg | sponges | [Halisarca_caerulea](https://tolqc.cog.sanger.ac.uk/asg/sponges/Halisarca_caerulea)| 
+| asg | sponges | [Oscarella_lobularis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Oscarella_lobularis)| 
+| asg | sponges | [Petrosia_ficiformis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Petrosia_ficiformis)| 
+| asg | sponges | [Pione_vastifica](https://tolqc.cog.sanger.ac.uk/asg/sponges/Pione_vastifica)| 
+| asg | sponges | [Spongilla_lacustris](https://tolqc.cog.sanger.ac.uk/asg/sponges/Spongilla_lacustris)| 
+| asg | sponges | [Stryphnus_fortis](https://tolqc.cog.sanger.ac.uk/asg/sponges/Stryphnus_fortis)| 
+| asg | sponges | [Xestospongia_muta](https://tolqc.cog.sanger.ac.uk/asg/sponges/Xestospongia_muta)| 
+| badass | insects | [Anopheles_aquasalis](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_aquasalis)| 
+| badass | insects | [Anopheles_arabiensis](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_arabiensis)| 
+| badass | insects | [Anopheles_baimaii](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_baimaii)| 
+| badass | insects | [Anopheles_bellator](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_bellator)| 
+| badass | insects | [Anopheles_coluzzii](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_coluzzii)| 
+| badass | insects | [Anopheles_coustani](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_coustani)| 
+| badass | insects | [Anopheles_cruzii](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_cruzii)| 
+| badass | insects | [Anopheles_darlingi](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_darlingi)| 
+| badass | insects | [Anopheles_funestus](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_funestus)| 
+| badass | insects | [Anopheles_gambiae](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_gambiae)| 
+| badass | insects | [Anopheles_maculipalpis](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_maculipalpis)| 
+| badass | insects | [Anopheles_marshallii](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_marshallii)| 
+| badass | insects | [Anopheles_moucheti](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_moucheti)| 
+| badass | insects | [Anopheles_nili](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_nili)| 
+| badass | insects | [Anopheles_oryzalimnetes](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_oryzalimnetes)| 
+| badass | insects | [Anopheles_ziemanni](https://tolqc.cog.sanger.ac.uk/badass/insects/Anopheles_ziemanni)| 
+| badass | insects | [Culex_pipiens](https://tolqc.cog.sanger.ac.uk/badass/insects/Culex_pipiens)| 
+| badass | insects | [Sabethes_cyaneus](https://tolqc.cog.sanger.ac.uk/badass/insects/Sabethes_cyaneus)| 
+| darwin | algae | [Brachiomonas_submarina](https://tolqc.cog.sanger.ac.uk/darwin/algae/Brachiomonas_submarina)| 
+| darwin | algae | [Carpodesmia_tamariscifolia](https://tolqc.cog.sanger.ac.uk/darwin/algae/Carpodesmia_tamariscifolia)| 
+| darwin | algae | [Ceramium_secundatum](https://tolqc.cog.sanger.ac.uk/darwin/algae/Ceramium_secundatum)| 
+| darwin | algae | [Chaetoceros_curvisetus](https://tolqc.cog.sanger.ac.uk/darwin/algae/Chaetoceros_curvisetus)| 
+| darwin | algae | [Chloroidium_saccharophilum](https://tolqc.cog.sanger.ac.uk/darwin/algae/Chloroidium_saccharophilum)| 
+| darwin | algae | [Chrysotila_carterae](https://tolqc.cog.sanger.ac.uk/darwin/algae/Chrysotila_carterae)| 
+| darwin | algae | [Diacronema_lutheri](https://tolqc.cog.sanger.ac.uk/darwin/algae/Diacronema_lutheri)| 
+| darwin | algae | [Dunaliella_primolecta](https://tolqc.cog.sanger.ac.uk/darwin/algae/Dunaliella_primolecta)| 
+| darwin | algae | [Halidrys_siliquosa](https://tolqc.cog.sanger.ac.uk/darwin/algae/Halidrys_siliquosa)| 
+| darwin | algae | [Hydrodictyon_reticulatum](https://tolqc.cog.sanger.ac.uk/darwin/algae/Hydrodictyon_reticulatum)| 
+| darwin | algae | [Metacallophyllis_laciniata](https://tolqc.cog.sanger.ac.uk/darwin/algae/Metacallophyllis_laciniata)| 
+| darwin | algae | [Palmaria_palmata](https://tolqc.cog.sanger.ac.uk/darwin/algae/Palmaria_palmata)| 
+| darwin | algae | [Pelvetia_canaliculata](https://tolqc.cog.sanger.ac.uk/darwin/algae/Pelvetia_canaliculata)| 
+| darwin | algae | [Pycnococcus_provasolii](https://tolqc.cog.sanger.ac.uk/darwin/algae/Pycnococcus_provasolii)| 
+| darwin | algae | [Rhodomonas_baltica](https://tolqc.cog.sanger.ac.uk/darwin/algae/Rhodomonas_baltica)| 
+| darwin | algae | [Tetraselmis_chuii](https://tolqc.cog.sanger.ac.uk/darwin/algae/Tetraselmis_chuii)| 
+| darwin | annelids | [Alitta_virens](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Alitta_virens)| 
+| darwin | annelids | [Aporrectodea_caliginosa](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Aporrectodea_caliginosa)| 
+| darwin | annelids | [Eisenia_fetida](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Eisenia_fetida)| 
+| darwin | annelids | [Euclymene_oerstedii](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Euclymene_oerstedii)| 
+| darwin | annelids | [Glossiphonia_complanata](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Glossiphonia_complanata)| 
+| darwin | annelids | [Goniada_maculata](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Goniada_maculata)| 
+| darwin | annelids | [Harmothoe_impar](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Harmothoe_impar)| 
+| darwin | annelids | [Helobdella_stagnalis](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Helobdella_stagnalis)| 
+| darwin | annelids | [Lepidonotus_clava](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Lepidonotus_clava)| 
+| darwin | annelids | [Lumbricus_castaneus](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Lumbricus_castaneus)| 
+| darwin | annelids | [Lumbricus_rubellus](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Lumbricus_rubellus)| 
+| darwin | annelids | [Lumbricus_terrestris](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Lumbricus_terrestris)| 
+| darwin | annelids | [Octolasion_cyaneum](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Octolasion_cyaneum)| 
+| darwin | annelids | [Piscicola_geometra](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Piscicola_geometra)| 
+| darwin | annelids | [Spirobranchus_lamarcki](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Spirobranchus_lamarcki)| 
+| darwin | annelids | [Sthenelais_limicola](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Sthenelais_limicola)| 
+| darwin | annelids | [Terebella_lapidaria](https://tolqc.cog.sanger.ac.uk/darwin/annelids/Terebella_lapidaria)| 
+| darwin | arthropods | [Alopecosa_pulverulenta](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Alopecosa_pulverulenta)| 
+| darwin | arthropods | [Amaurobius_ferox](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Amaurobius_ferox)| 
+| darwin | arthropods | [Amaurobius_similis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Amaurobius_similis)| 
+| darwin | arthropods | [Araneus_diadematus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Araneus_diadematus)| 
+| darwin | arthropods | [Asellus_aquaticus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Asellus_aquaticus)| 
+| darwin | arthropods | [Atypus_affinis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Atypus_affinis)| 
+| darwin | arthropods | [Cancer_pagurus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Cancer_pagurus)| 
+| darwin | arthropods | [Chelura_terebrans](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Chelura_terebrans)| 
+| darwin | arthropods | [Clistosaccus_paguri](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Clistosaccus_paguri)| 
+| darwin | arthropods | [Clubiona_reclusa](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Clubiona_reclusa)| 
+| darwin | arthropods | [Clubiona_terrestris](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Clubiona_terrestris)| 
+| darwin | arthropods | [Crangonyx_pseudogracilis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Crangonyx_pseudogracilis)| 
+| darwin | arthropods | [Dolomedes_fimbriatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Dolomedes_fimbriatus)| 
+| darwin | arthropods | [Dysdera_crocata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Dysdera_crocata)| 
+| darwin | arthropods | [Enoplognatha_latimana](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Enoplognatha_latimana)| 
+| darwin | arthropods | [Eratigena_atrica](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Eratigena_atrica)| 
+| darwin | arthropods | [Euscorpius_flavicaudis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Euscorpius_flavicaudis)| 
+| darwin | arthropods | [Glomeris_marginata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Glomeris_marginata)| 
+| darwin | arthropods | [Idotea_granulosa](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Idotea_granulosa)| 
+| darwin | arthropods | [Linyphia_triangularis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Linyphia_triangularis)| 
+| darwin | arthropods | [Lithobius_forficatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Lithobius_forficatus)| 
+| darwin | arthropods | [Lithobius_melanops](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Lithobius_melanops)| 
+| darwin | arthropods | [Lithobius_piceus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Lithobius_piceus)| 
+| darwin | arthropods | [Lithobius_variegatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Lithobius_variegatus)| 
+| darwin | arthropods | [Meta_bourneti](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Meta_bourneti)| 
+| darwin | arthropods | [Metellina_segmentata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Metellina_segmentata)| 
+| darwin | arthropods | [Odiellus_spinosus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Odiellus_spinosus)| 
+| darwin | arthropods | [Pagurus_bernhardus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pagurus_bernhardus)| 
+| darwin | arthropods | [Pardosa_saltans](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pardosa_saltans)| 
+| darwin | arthropods | [Perforatus_perforatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Perforatus_perforatus)| 
+| darwin | arthropods | [Philoscia_muscorum](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Philoscia_muscorum)| 
+| darwin | arthropods | [Pholcus_phalangioides](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pholcus_phalangioides)| 
+| darwin | arthropods | [Pisaura_mirabilis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pisaura_mirabilis)| 
+| darwin | arthropods | [Pisidia_longicornis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Pisidia_longicornis)| 
+| darwin | arthropods | [Porcellana_platycheles](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Porcellana_platycheles)| 
+| darwin | arthropods | [Porcellio_spinicornis](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Porcellio_spinicornis)| 
+| darwin | arthropods | [Sacculina_carcini](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Sacculina_carcini)| 
+| darwin | arthropods | [Scalpellum_scalpellum](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Scalpellum_scalpellum)| 
+| darwin | arthropods | [Scytodes_thoracica](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Scytodes_thoracica)| 
+| darwin | arthropods | [Segestria_senoculata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Segestria_senoculata)| 
+| darwin | arthropods | [Semibalanus_balanoides](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Semibalanus_balanoides)| 
+| darwin | arthropods | [Steatoda_bipunctata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Steatoda_bipunctata)| 
+| darwin | arthropods | [Stigmatogaster_subterranea](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Stigmatogaster_subterranea)| 
+| darwin | arthropods | [Tibellus_oblongus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Tibellus_oblongus)| 
+| darwin | arthropods | [Uloborus_plumipes](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Uloborus_plumipes)| 
+| darwin | arthropods | [Xantho_hydrophilus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Xantho_hydrophilus)| 
+| darwin | arthropods | [Xysticus_cristatus](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Xysticus_cristatus)| 
+| darwin | arthropods | [Zelotes_latreillei](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Zelotes_latreillei)| 
+| darwin | arthropods | [Zoropsis_spinimana](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Zoropsis_spinimana)| 
+| darwin | arthropods | [Zygiella_x_notata](https://tolqc.cog.sanger.ac.uk/darwin/arthropods/Zygiella_x_notata)| 
+| darwin | birds | [Accipiter_gentilis](https://tolqc.cog.sanger.ac.uk/darwin/birds/Accipiter_gentilis)| 
+| darwin | birds | [Calonectris_borealis](https://tolqc.cog.sanger.ac.uk/darwin/birds/Calonectris_borealis)| 
+| darwin | birds | [Phaethon_aethereus](https://tolqc.cog.sanger.ac.uk/darwin/birds/Phaethon_aethereus)| 
+| darwin | chordates | [Aplidium_turbinatum](https://tolqc.cog.sanger.ac.uk/darwin/chordates/Aplidium_turbinatum)| 
+| darwin | chordates | [Ascidia_mentula](https://tolqc.cog.sanger.ac.uk/darwin/chordates/Ascidia_mentula)| 
+| darwin | chordates | [Styela_clava](https://tolqc.cog.sanger.ac.uk/darwin/chordates/Styela_clava)| 
+| darwin | dicots | [Acer_campestre](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Acer_campestre)| 
+| darwin | dicots | [Adoxa_moschatellina](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Adoxa_moschatellina)| 
+| darwin | dicots | [Agrostemma_githago](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Agrostemma_githago)| 
+| darwin | dicots | [Ailanthus_altissima](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ailanthus_altissima)| 
+| darwin | dicots | [Alchemilla_alpina](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Alchemilla_alpina)| 
+| darwin | dicots | [Alchemilla_arvensis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Alchemilla_arvensis)| 
+| darwin | dicots | [Alnus_glutinosa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Alnus_glutinosa)| 
+| darwin | dicots | [Anemone_pulsatilla](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Anemone_pulsatilla)| 
+| darwin | dicots | [Angelica_archangelica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Angelica_archangelica)| 
+| darwin | dicots | [Anthriscus_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Anthriscus_sylvestris)| 
+| darwin | dicots | [Anthyllis_vulneraria](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Anthyllis_vulneraria)| 
+| darwin | dicots | [Arabidopsis_thaliana](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Arabidopsis_thaliana)| 
+| darwin | dicots | [Arctium_minus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Arctium_minus)| 
+| darwin | dicots | [Arctostaphylos_uva_ursi](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Arctostaphylos_uva_ursi)| 
+| darwin | dicots | [Atropa_belladonna](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Atropa_belladonna)| 
+| darwin | dicots | [Ballota_nigra](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ballota_nigra)| 
+| darwin | dicots | [Bellis_perennis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Bellis_perennis)| 
+| darwin | dicots | [Berberis_aquifolium](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Berberis_aquifolium)| 
+| darwin | dicots | [Betula_pubescens](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Betula_pubescens)| 
+| darwin | dicots | [Borago_officinalis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Borago_officinalis)| 
+| darwin | dicots | [Brassica_oleracea](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Brassica_oleracea)| 
+| darwin | dicots | [Bryonia_dioica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Bryonia_dioica)| 
+| darwin | dicots | [Buddleja_davidii](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Buddleja_davidii)| 
+| darwin | dicots | [Buxus_sempervirens](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Buxus_sempervirens)| 
+| darwin | dicots | [Cakile_maritima](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cakile_maritima)| 
+| darwin | dicots | [Carpinus_betulus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Carpinus_betulus)| 
+| darwin | dicots | [Cerastium_fontanum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cerastium_fontanum)| 
+| darwin | dicots | [Cerastium_glomeratum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cerastium_glomeratum)| 
+| darwin | dicots | [Chaenorhinum_minus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chaenorhinum_minus)| 
+| darwin | dicots | [Chamaemelum_nobile](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chamaemelum_nobile)| 
+| darwin | dicots | [Chamaenerion_angustifolium](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chamaenerion_angustifolium)| 
+| darwin | dicots | [Chelidonium_majus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chelidonium_majus)| 
+| darwin | dicots | [Chenopodium_album](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Chenopodium_album)| 
+| darwin | dicots | [Cicerbita_muralis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cicerbita_muralis)| 
+| darwin | dicots | [Clematis_vitalba](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Clematis_vitalba)| 
+| darwin | dicots | [Convolvulus_arvensis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Convolvulus_arvensis)| 
+| darwin | dicots | [Cornus_suecica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cornus_suecica)| 
+| darwin | dicots | [Crataegus_laevigata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Crataegus_laevigata)| 
+| darwin | dicots | [Crataegus_monogyna](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Crataegus_monogyna)| 
+| darwin | dicots | [Cruciata_laevipes](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Cruciata_laevipes)| 
+| darwin | dicots | [Daphne_mezereum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Daphne_mezereum)| 
+| darwin | dicots | [Dasiphora_fruticosa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Dasiphora_fruticosa)| 
+| darwin | dicots | [Dianthus_deltoides](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Dianthus_deltoides)| 
+| darwin | dicots | [Erodium_maritimum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Erodium_maritimum)| 
+| darwin | dicots | [Erodium_moschatum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Erodium_moschatum)| 
+| darwin | dicots | [Euonymus_europaeus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euonymus_europaeus)| 
+| darwin | dicots | [Euphorbia_amygdaloides](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euphorbia_amygdaloides)| 
+| darwin | dicots | [Euphorbia_lathyris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euphorbia_lathyris)| 
+| darwin | dicots | [Euphorbia_peplus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euphorbia_peplus)| 
+| darwin | dicots | [Euphrasia_foulaensis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Euphrasia_foulaensis)| 
+| darwin | dicots | [Filipendula_ulmaria](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Filipendula_ulmaria)| 
+| darwin | dicots | [Galium_aparine](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Galium_aparine)| 
+| darwin | dicots | [Geranium_dissectum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geranium_dissectum)| 
+| darwin | dicots | [Geranium_lucidum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geranium_lucidum)| 
+| darwin | dicots | [Geranium_robertianum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geranium_robertianum)| 
+| darwin | dicots | [Geranium_sylvaticum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geranium_sylvaticum)| 
+| darwin | dicots | [Geum_rivale](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geum_rivale)| 
+| darwin | dicots | [Geum_urbanum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Geum_urbanum)| 
+| darwin | dicots | [Hedera_helix](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Hedera_helix)| 
+| darwin | dicots | [Hippophae_rhamnoides](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Hippophae_rhamnoides)| 
+| darwin | dicots | [Hippuris_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Hippuris_vulgaris)| 
+| darwin | dicots | [Honckenya_peploides](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Honckenya_peploides)| 
+| darwin | dicots | [Humulus_lupulus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Humulus_lupulus)| 
+| darwin | dicots | [Hypericum_perforatum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Hypericum_perforatum)| 
+| darwin | dicots | [Ilex_aquifolium](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ilex_aquifolium)| 
+| darwin | dicots | [Impatiens_glandulifera](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Impatiens_glandulifera)| 
+| darwin | dicots | [Lamium_album](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lamium_album)| 
+| darwin | dicots | [Lamium_purpureum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lamium_purpureum)| 
+| darwin | dicots | [Lathraea_clandestina](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lathraea_clandestina)| 
+| darwin | dicots | [Lathraea_squamaria](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lathraea_squamaria)| 
+| darwin | dicots | [Lepidium_draba](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lepidium_draba)| 
+| darwin | dicots | [Ligusticum_scoticum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ligusticum_scoticum)| 
+| darwin | dicots | [Ligustrum_vulgare](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ligustrum_vulgare)| 
+| darwin | dicots | [Linaria_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Linaria_vulgaris)| 
+| darwin | dicots | [Linnaea_borealis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Linnaea_borealis)| 
+| darwin | dicots | [Lotus_corniculatus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lotus_corniculatus)| 
+| darwin | dicots | [Lycopus_europaeus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lycopus_europaeus)| 
+| darwin | dicots | [Lysimachia_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lysimachia_vulgaris)| 
+| darwin | dicots | [Lythrum_salicaria](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Lythrum_salicaria)| 
+| darwin | dicots | [Malus_domestica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Malus_domestica)| 
+| darwin | dicots | [Malus_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Malus_sylvestris)| 
+| darwin | dicots | [Medicago_arabica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Medicago_arabica)| 
+| darwin | dicots | [Melampyrum_pratense](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Melampyrum_pratense)| 
+| darwin | dicots | [Mercurialis_annua](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Mercurialis_annua)| 
+| darwin | dicots | [Mercurialis_perennis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Mercurialis_perennis)| 
+| darwin | dicots | [Misopates_orontium](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Misopates_orontium)| 
+| darwin | dicots | [Myrica_gale](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Myrica_gale)| 
+| darwin | dicots | [Nymphoides_peltata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Nymphoides_peltata)| 
+| darwin | dicots | [Onobrychis_viciifolia](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Onobrychis_viciifolia)| 
+| darwin | dicots | [Orobanche_hederae](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Orobanche_hederae)| 
+| darwin | dicots | [Parietaria_judaica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Parietaria_judaica)| 
+| darwin | dicots | [Pentaglottis_sempervirens](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Pentaglottis_sempervirens)| 
+| darwin | dicots | [Persicaria_maculosa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Persicaria_maculosa)| 
+| darwin | dicots | [Plantago_coronopus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Plantago_coronopus)| 
+| darwin | dicots | [Plantago_lanceolata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Plantago_lanceolata)| 
+| darwin | dicots | [Polygonum_aviculare](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Polygonum_aviculare)| 
+| darwin | dicots | [Populus_tremula](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Populus_tremula)| 
+| darwin | dicots | [Potentilla_anserina](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Potentilla_anserina)| 
+| darwin | dicots | [Pulicaria_dysenterica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Pulicaria_dysenterica)| 
+| darwin | dicots | [Quercus_robur](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Quercus_robur)| 
+| darwin | dicots | [Ranunculus_acris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ranunculus_acris)| 
+| darwin | dicots | [Ranunculus_bulbosus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ranunculus_bulbosus)| 
+| darwin | dicots | [Reynoutria_japonica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Reynoutria_japonica)| 
+| darwin | dicots | [Rhamnus_cathartica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Rhamnus_cathartica)| 
+| darwin | dicots | [Rumex_acetosa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Rumex_acetosa)| 
+| darwin | dicots | [Rumex_hydrolapathum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Rumex_hydrolapathum)| 
+| darwin | dicots | [Rumex_sanguineus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Rumex_sanguineus)| 
+| darwin | dicots | [Salvia_verbenaca](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Salvia_verbenaca)| 
+| darwin | dicots | [Scrophularia_auriculata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Scrophularia_auriculata)| 
+| darwin | dicots | [Scutellaria_galericulata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Scutellaria_galericulata)| 
+| darwin | dicots | [Scutellaria_minor](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Scutellaria_minor)| 
+| darwin | dicots | [Senecio_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Senecio_vulgaris)| 
+| darwin | dicots | [Sherardia_arvensis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Sherardia_arvensis)| 
+| darwin | dicots | [Silene_acaulis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Silene_acaulis)| 
+| darwin | dicots | [Silene_dioica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Silene_dioica)| 
+| darwin | dicots | [Silene_latifolia](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Silene_latifolia)| 
+| darwin | dicots | [Smyrnium_perfoliatum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Smyrnium_perfoliatum)| 
+| darwin | dicots | [Solanum_dulcamara](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Solanum_dulcamara)| 
+| darwin | dicots | [Stachys_palustris](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Stachys_palustris)| 
+| darwin | dicots | [Stellaria_media](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Stellaria_media)| 
+| darwin | dicots | [Suaeda_vera](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Suaeda_vera)| 
+| darwin | dicots | [Thymus_serpyllum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Thymus_serpyllum)| 
+| darwin | dicots | [Trifolium_fragiferum](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Trifolium_fragiferum)| 
+| darwin | dicots | [Trifolium_pratense](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Trifolium_pratense)| 
+| darwin | dicots | [Trollius_europaeus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Trollius_europaeus)| 
+| darwin | dicots | [Tussilago_farfara](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Tussilago_farfara)| 
+| darwin | dicots | [Ulex_europaeus](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Ulex_europaeus)| 
+| darwin | dicots | [Urtica_dioica](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Urtica_dioica)| 
+| darwin | dicots | [Urtica_urens](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Urtica_urens)| 
+| darwin | dicots | [Verbena_officinalis](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Verbena_officinalis)| 
+| darwin | dicots | [Veronica_chamaedrys](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Veronica_chamaedrys)| 
+| darwin | dicots | [Veronica_hederifolia](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Veronica_hederifolia)| 
+| darwin | dicots | [Veronica_spicata](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Veronica_spicata)| 
+| darwin | dicots | [Viburnum_lantana](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Viburnum_lantana)| 
+| darwin | dicots | [Vicia_sativa](https://tolqc.cog.sanger.ac.uk/darwin/dicots/Vicia_sativa)| 
+| darwin | echinoderms | [Antedon_bifida](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Antedon_bifida)| 
+| darwin | echinoderms | [Echinus_esculentus](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Echinus_esculentus)| 
+| darwin | echinoderms | [Marthasterias_glacialis](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Marthasterias_glacialis)| 
+| darwin | echinoderms | [Ophiocomina_nigra](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Ophiocomina_nigra)| 
+| darwin | echinoderms | [Ophiopholis_aculeata](https://tolqc.cog.sanger.ac.uk/darwin/echinoderms/Ophiopholis_aculeata)| 
+| darwin | fish | [Barbus_barbus](https://tolqc.cog.sanger.ac.uk/darwin/fish/Barbus_barbus)| 
+| darwin | fish | [Lipophrys_pholis](https://tolqc.cog.sanger.ac.uk/darwin/fish/Lipophrys_pholis)| 
+| darwin | fish | [Pholis_gunnellus](https://tolqc.cog.sanger.ac.uk/darwin/fish/Pholis_gunnellus)| 
+| darwin | fish | [Salmo_trutta](https://tolqc.cog.sanger.ac.uk/darwin/fish/Salmo_trutta)| 
+| darwin | fish | [Taurulus_bubalis](https://tolqc.cog.sanger.ac.uk/darwin/fish/Taurulus_bubalis)| 
+| darwin | fish | [Trachurus_trachurus](https://tolqc.cog.sanger.ac.uk/darwin/fish/Trachurus_trachurus)| 
+| darwin | fungi | [Agaricus_bisporus](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Agaricus_bisporus)| 
+| darwin | fungi | [Armillaria_gallica](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Armillaria_gallica)| 
+| darwin | fungi | [Cladonia_squamosa](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Cladonia_squamosa)| 
+| darwin | fungi | [Flammulina_velutipes](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Flammulina_velutipes)| 
+| darwin | fungi | [Hericium_coralloides](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Hericium_coralloides)| 
+| darwin | fungi | [Laetiporus_sulphureus](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Laetiporus_sulphureus)| 
+| darwin | fungi | [Leucocybe_candicans](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Leucocybe_candicans)| 
+| darwin | fungi | [Metschnikowia_zobellii](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Metschnikowia_zobellii)| 
+| darwin | fungi | [Mucor_piriformis](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Mucor_piriformis)| 
+| darwin | fungi | [Platismatia_glauca](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Platismatia_glauca)| 
+| darwin | fungi | [Pleurotus_eryngii](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Pleurotus_eryngii)| 
+| darwin | fungi | [Pleurotus_ostreatus](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Pleurotus_ostreatus)| 
+| darwin | fungi | [Trichoderma_citrinoviride](https://tolqc.cog.sanger.ac.uk/darwin/fungi/Trichoderma_citrinoviride)| 
+| darwin | insects | [Abrostola_tripartita](https://tolqc.cog.sanger.ac.uk/darwin/insects/Abrostola_tripartita)| 
+| darwin | insects | [Acanthosoma_haemorrhoidale](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acanthosoma_haemorrhoidale)| 
+| darwin | insects | [Acentria_ephemerella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acentria_ephemerella)| 
+| darwin | insects | [Acleris_cristana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acleris_cristana)| 
+| darwin | insects | [Acleris_emargana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acleris_emargana)| 
+| darwin | insects | [Acleris_rhombana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acleris_rhombana)| 
+| darwin | insects | [Acleris_sparsana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acleris_sparsana)| 
+| darwin | insects | [Acrobasis_consociella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acrobasis_consociella)| 
+| darwin | insects | [Acrobasis_repandana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acrobasis_repandana)| 
+| darwin | insects | [Acrobasis_suavella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acrobasis_suavella)| 
+| darwin | insects | [Acrocera_orbiculus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acrocera_orbiculus)| 
+| darwin | insects | [Acronicta_aceris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acronicta_aceris)| 
+| darwin | insects | [Acronicta_rumicis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Acronicta_rumicis)| 
+| darwin | insects | [Actia_lamia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Actia_lamia)| 
+| darwin | insects | [Adalia_bipunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Adalia_bipunctata)| 
+| darwin | insects | [Adalia_decempunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Adalia_decempunctata)| 
+| darwin | insects | [Aelia_acuminata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aelia_acuminata)| 
+| darwin | insects | [Aeshna_mixta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aeshna_mixta)| 
+| darwin | insects | [Agonopterix_arenella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonopterix_arenella)| 
+| darwin | insects | [Agonopterix_heracliana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonopterix_heracliana)| 
+| darwin | insects | [Agonopterix_ocellana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonopterix_ocellana)| 
+| darwin | insects | [Agonopterix_subpropinquella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonopterix_subpropinquella)| 
+| darwin | insects | [Agonum_fuliginosum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agonum_fuliginosum)| 
+| darwin | insects | [Agriopis_aurantiaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriopis_aurantiaria)| 
+| darwin | insects | [Agriopis_marginaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriopis_marginaria)| 
+| darwin | insects | [Agriotes_lineatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriotes_lineatus)| 
+| darwin | insects | [Agriphila_geniculea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriphila_geniculea)| 
+| darwin | insects | [Agriphila_straminella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriphila_straminella)| 
+| darwin | insects | [Agriphila_tristella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agriphila_tristella)| 
+| darwin | insects | [Agrochola_circellaris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agrochola_circellaris)| 
+| darwin | insects | [Agrochola_macilenta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agrochola_macilenta)| 
+| darwin | insects | [Agrotis_puta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agrotis_puta)| 
+| darwin | insects | [Agrypnus_murinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Agrypnus_murinus)| 
+| darwin | insects | [Allophyes_oxyacanthae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Allophyes_oxyacanthae)| 
+| darwin | insects | [Amblyteles_armatorius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Amblyteles_armatorius)| 
+| darwin | insects | [Amphipyra_berbera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Amphipyra_berbera)| 
+| darwin | insects | [Amphipyra_tragopoginis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Amphipyra_tragopoginis)| 
+| darwin | insects | [Anabolia_nervosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anabolia_nervosa)| 
+| darwin | insects | [Anaplectoides_prasina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anaplectoides_prasina)| 
+| darwin | insects | [Anatis_ocellata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anatis_ocellata)| 
+| darwin | insects | [Ancistrocerus_nigricornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ancistrocerus_nigricornis)| 
+| darwin | insects | [Andrena_dorsata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Andrena_dorsata)| 
+| darwin | insects | [Andrena_haemorrhoa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Andrena_haemorrhoa)| 
+| darwin | insects | [Andrena_hattorfiana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Andrena_hattorfiana)| 
+| darwin | insects | [Andrena_minutula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Andrena_minutula)| 
+| darwin | insects | [Anomoia_purmunda](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anomoia_purmunda)| 
+| darwin | insects | [Anopheles_coluzzii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anopheles_coluzzii)| 
+| darwin | insects | [Anoplius_nigerrimus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anoplius_nigerrimus)| 
+| darwin | insects | [Anoscopus_histrionicus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anoscopus_histrionicus)| 
+| darwin | insects | [Anotylus_rugosus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anotylus_rugosus)| 
+| darwin | insects | [Anthene_sylvanus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthene_sylvanus)| 
+| darwin | insects | [Anthocharis_cardamines](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthocharis_cardamines)| 
+| darwin | insects | [Anthomyia_liturata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthomyia_liturata)| 
+| darwin | insects | [Anthomyia_pluvialis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthomyia_pluvialis)| 
+| darwin | insects | [Anthophora_furcata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Anthophora_furcata)| 
+| darwin | insects | [Apamea_monoglypha](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apamea_monoglypha)| 
+| darwin | insects | [Apamea_scolopacina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apamea_scolopacina)| 
+| darwin | insects | [Apatura_iris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apatura_iris)| 
+| darwin | insects | [Apeira_syringaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apeira_syringaria)| 
+| darwin | insects | [Aphelocheirus_aestivalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aphelocheirus_aestivalis)| 
+| darwin | insects | [Aphrodes_makarovi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aphrodes_makarovi)| 
+| darwin | insects | [Aplocera_efformata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aplocera_efformata)| 
+| darwin | insects | [Apoderus_coryli](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apoderus_coryli)| 
+| darwin | insects | [Aporia_crataegi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aporia_crataegi)| 
+| darwin | insects | [Aporophyla_lueneburgensis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aporophyla_lueneburgensis)| 
+| darwin | insects | [Apotomis_betuletana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apotomis_betuletana)| 
+| darwin | insects | [Apotomis_turbidana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Apotomis_turbidana)| 
+| darwin | insects | [Archips_podanus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Archips_podanus)| 
+| darwin | insects | [Archips_xylosteana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Archips_xylosteana)| 
+| darwin | insects | [Arenostola_phragmitidis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Arenostola_phragmitidis)| 
+| darwin | insects | [Argynnis_aglaja](https://tolqc.cog.sanger.ac.uk/darwin/insects/Argynnis_aglaja)| 
+| darwin | insects | [Argyresthia_goedartella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Argyresthia_goedartella)| 
+| darwin | insects | [Aricia_agestis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aricia_agestis)| 
+| darwin | insects | [Aricia_artaxerxes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Aricia_artaxerxes)| 
+| darwin | insects | [Atethmia_centrago](https://tolqc.cog.sanger.ac.uk/darwin/insects/Atethmia_centrago)| 
+| darwin | insects | [Athalia_circularis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Athalia_circularis)| 
+| darwin | insects | [Athalia_cordata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Athalia_cordata)| 
+| darwin | insects | [Athalia_rosae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Athalia_rosae)| 
+| darwin | insects | [Athrips_mouffetella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Athrips_mouffetella)| 
+| darwin | insects | [Atolmis_rubricollis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Atolmis_rubricollis)| 
+| darwin | insects | [Attelabus_nitens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Attelabus_nitens)| 
+| darwin | insects | [Autographa_gamma](https://tolqc.cog.sanger.ac.uk/darwin/insects/Autographa_gamma)| 
+| darwin | insects | [Autographa_pulchrina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Autographa_pulchrina)| 
+| darwin | insects | [Axylia_putris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Axylia_putris)| 
+| darwin | insects | [Baccha_elongata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Baccha_elongata)| 
+| darwin | insects | [Batrachedra_praeangusta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Batrachedra_praeangusta)| 
+| darwin | insects | [Bellardia_pandia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bellardia_pandia)| 
+| darwin | insects | [Bembecia_ichneumoniformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bembecia_ichneumoniformis)| 
+| darwin | insects | [Bena_bicolorana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bena_bicolorana)| 
+| darwin | insects | [Bibio_marci](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bibio_marci)| 
+| darwin | insects | [Bicyclus_anynana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bicyclus_anynana)| 
+| darwin | insects | [Biston_betularia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Biston_betularia)| 
+| darwin | insects | [Blaesoxipha_plumicornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Blaesoxipha_plumicornis)| 
+| darwin | insects | [Blastobasis_adustella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Blastobasis_adustella)| 
+| darwin | insects | [Blastobasis_lacticolella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Blastobasis_lacticolella)| 
+| darwin | insects | [Boloria_selene](https://tolqc.cog.sanger.ac.uk/darwin/insects/Boloria_selene)| 
+| darwin | insects | [Bombus_campestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_campestris)| 
+| darwin | insects | [Bombus_hortorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_hortorum)| 
+| darwin | insects | [Bombus_hypnorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_hypnorum)| 
+| darwin | insects | [Bombus_lapidarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_lapidarius)| 
+| darwin | insects | [Bombus_pascuorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_pascuorum)| 
+| darwin | insects | [Bombus_pratorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_pratorum)| 
+| darwin | insects | [Bombus_rupestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_rupestris)| 
+| darwin | insects | [Bombus_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_sylvestris)| 
+| darwin | insects | [Bombus_terrestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombus_terrestris)| 
+| darwin | insects | [Bombylius_discolor](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombylius_discolor)| 
+| darwin | insects | [Bombylius_major](https://tolqc.cog.sanger.ac.uk/darwin/insects/Bombylius_major)| 
+| darwin | insects | [Brachylomia_viminalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Brachylomia_viminalis)| 
+| darwin | insects | [Brachyptera_risi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Brachyptera_risi)| 
+| darwin | insects | [Buathra_laborator](https://tolqc.cog.sanger.ac.uk/darwin/insects/Buathra_laborator)| 
+| darwin | insects | [Calamotropha_paludella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Calamotropha_paludella)| 
+| darwin | insects | [Calliphora_vicina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Calliphora_vicina)| 
+| darwin | insects | [Calliphora_vomitoria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Calliphora_vomitoria)| 
+| darwin | insects | [Callomyia_amoena](https://tolqc.cog.sanger.ac.uk/darwin/insects/Callomyia_amoena)| 
+| darwin | insects | [Callophrys_rubi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Callophrys_rubi)| 
+| darwin | insects | [Calvia_quattuordecimguttata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Calvia_quattuordecimguttata)| 
+| darwin | insects | [Campaea_margaritaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Campaea_margaritaria)| 
+| darwin | insects | [Camptogramma_bilineatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Camptogramma_bilineatum)| 
+| darwin | insects | [Cantharis_rufa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cantharis_rufa)| 
+| darwin | insects | [Cantharis_rustica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cantharis_rustica)| 
+| darwin | insects | [Canthophorus_impressus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Canthophorus_impressus)| 
+| darwin | insects | [Caradrina_clavipalpis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Caradrina_clavipalpis)| 
+| darwin | insects | [Caradrina_kadenii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Caradrina_kadenii)| 
+| darwin | insects | [Carcina_quercana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Carcina_quercana)| 
+| darwin | insects | [Carterocephalus_palaemon](https://tolqc.cog.sanger.ac.uk/darwin/insects/Carterocephalus_palaemon)| 
+| darwin | insects | [Catocala_fraxini](https://tolqc.cog.sanger.ac.uk/darwin/insects/Catocala_fraxini)| 
+| darwin | insects | [Catoptria_pinella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Catoptria_pinella)| 
+| darwin | insects | [Celastrina_argiolus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Celastrina_argiolus)| 
+| darwin | insects | [Cenopis_cana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cenopis_cana)| 
+| darwin | insects | [Centrotus_cornutus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Centrotus_cornutus)| 
+| darwin | insects | [Cerceris_rybyensis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cerceris_rybyensis)| 
+| darwin | insects | [Cercopis_vulnerata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cercopis_vulnerata)| 
+| darwin | insects | [Chaetopteryx_villosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chaetopteryx_villosa)| 
+| darwin | insects | [Chalcolestes_viridis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chalcolestes_viridis)| 
+| darwin | insects | [Charanyca_ferruginea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Charanyca_ferruginea)| 
+| darwin | insects | [Charanyca_trigrammica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Charanyca_trigrammica)| 
+| darwin | insects | [Cheilosia_illustrata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cheilosia_illustrata)| 
+| darwin | insects | [Cheilosia_pagana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cheilosia_pagana)| 
+| darwin | insects | [Cheilosia_soror](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cheilosia_soror)| 
+| darwin | insects | [Cheilosia_vulpina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cheilosia_vulpina)| 
+| darwin | insects | [Chilocorus_renipustulatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chilocorus_renipustulatus)| 
+| darwin | insects | [Chloroclysta_siterata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chloroclysta_siterata)| 
+| darwin | insects | [Chloroclystis_v_ata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chloroclystis_v_ata)| 
+| darwin | insects | [Chloromyia_formosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chloromyia_formosa)| 
+| darwin | insects | [Chloroperla_tripunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chloroperla_tripunctata)| 
+| darwin | insects | [Chorthippus_albomarginatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chorthippus_albomarginatus)| 
+| darwin | insects | [Chrysogaster_coemiteriorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysogaster_coemiteriorum)| 
+| darwin | insects | [Chrysolina_oricalcia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysolina_oricalcia)| 
+| darwin | insects | [Chrysoperla_carnea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysoperla_carnea)| 
+| darwin | insects | [Chrysoteuchia_culmella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysoteuchia_culmella)| 
+| darwin | insects | [Chrysotoxum_bicinctum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysotoxum_bicinctum)| 
+| darwin | insects | [Chrysotoxum_festivum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysotoxum_festivum)| 
+| darwin | insects | [Chrysotoxum_verralli](https://tolqc.cog.sanger.ac.uk/darwin/insects/Chrysotoxum_verralli)| 
+| darwin | insects | [Cistogaster_globosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cistogaster_globosa)| 
+| darwin | insects | [Cixius_nervosus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cixius_nervosus)| 
+| darwin | insects | [Clepsis_spectrana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Clepsis_spectrana)| 
+| darwin | insects | [Cloeon_dipterum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cloeon_dipterum)| 
+| darwin | insects | [Clostera_curtula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Clostera_curtula)| 
+| darwin | insects | [Closterotomus_trivialis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Closterotomus_trivialis)| 
+| darwin | insects | [Clusia_tigrina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Clusia_tigrina)| 
+| darwin | insects | [Clytus_arietis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Clytus_arietis)| 
+| darwin | insects | [Coccinella_septempunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coccinella_septempunctata)| 
+| darwin | insects | [Cochylimorpha_straminea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cochylimorpha_straminea)| 
+| darwin | insects | [Coenonympha_tullia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coenonympha_tullia)| 
+| darwin | insects | [Coenosia_intermedia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coenosia_intermedia)| 
+| darwin | insects | [Colias_croceus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Colias_croceus)| 
+| darwin | insects | [Colocasia_coryli](https://tolqc.cog.sanger.ac.uk/darwin/insects/Colocasia_coryli)| 
+| darwin | insects | [Colostygia_pectinataria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Colostygia_pectinataria)| 
+| darwin | insects | [Colotois_pennaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Colotois_pennaria)| 
+| darwin | insects | [Conops_quadrifasciatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Conops_quadrifasciatus)| 
+| darwin | insects | [Coremacera_marginata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coremacera_marginata)| 
+| darwin | insects | [Coreus_marginatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Coreus_marginatus)| 
+| darwin | insects | [Corizus_hyoscyami](https://tolqc.cog.sanger.ac.uk/darwin/insects/Corizus_hyoscyami)| 
+| darwin | insects | [Cosmia_trapezina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cosmia_trapezina)| 
+| darwin | insects | [Craniophora_ligustri](https://tolqc.cog.sanger.ac.uk/darwin/insects/Craniophora_ligustri)| 
+| darwin | insects | [Crassa_unitella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Crassa_unitella)| 
+| darwin | insects | [Criorhina_berberina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Criorhina_berberina)| 
+| darwin | insects | [Crocallis_elinguaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Crocallis_elinguaria)| 
+| darwin | insects | [Crossocerus_megacephalus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Crossocerus_megacephalus)| 
+| darwin | insects | [Cupido_minimus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cupido_minimus)| 
+| darwin | insects | [Curculio_glandium](https://tolqc.cog.sanger.ac.uk/darwin/insects/Curculio_glandium)| 
+| darwin | insects | [Cyaniris_semiargus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cyaniris_semiargus)| 
+| darwin | insects | [Cydalima_perspectalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cydalima_perspectalis)| 
+| darwin | insects | [Cydia_fagiglandana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cydia_fagiglandana)| 
+| darwin | insects | [Cydia_splendana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Cydia_splendana)| 
+| darwin | insects | [Dasysyrphus_tricinctus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dasysyrphus_tricinctus)| 
+| darwin | insects | [Deilephila_porcellus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Deilephila_porcellus)| 
+| darwin | insects | [Delia_platura](https://tolqc.cog.sanger.ac.uk/darwin/insects/Delia_platura)| 
+| darwin | insects | [Demetrias_atricapillus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Demetrias_atricapillus)| 
+| darwin | insects | [Denticollis_linearis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Denticollis_linearis)| 
+| darwin | insects | [Diachrysia_chrysitis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Diachrysia_chrysitis)| 
+| darwin | insects | [Diarsia_rubi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Diarsia_rubi)| 
+| darwin | insects | [Dioctria_rufipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dioctria_rufipes)| 
+| darwin | insects | [Ditula_angustiorana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ditula_angustiorana)| 
+| darwin | insects | [Dolichovespula_media](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolichovespula_media)| 
+| darwin | insects | [Dolichovespula_norwegica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolichovespula_norwegica)| 
+| darwin | insects | [Dolichovespula_saxonica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolichovespula_saxonica)| 
+| darwin | insects | [Dolichovespula_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolichovespula_sylvestris)| 
+| darwin | insects | [Dolycoris_baccarum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dolycoris_baccarum)| 
+| darwin | insects | [Drepanepteryx_phalaenoides](https://tolqc.cog.sanger.ac.uk/darwin/insects/Drepanepteryx_phalaenoides)| 
+| darwin | insects | [Dromius_quadrimaculatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dromius_quadrimaculatus)| 
+| darwin | insects | [Drymus_ryeii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Drymus_ryeii)| 
+| darwin | insects | [Dryobotodes_eremita](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dryobotodes_eremita)| 
+| darwin | insects | [Dysmachus_trigonus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dysmachus_trigonus)| 
+| darwin | insects | [Dysstroma_truncata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Dysstroma_truncata)| 
+| darwin | insects | [Ecdyonurus_torrentis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ecdyonurus_torrentis)| 
+| darwin | insects | [Ecliptopera_silaceata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ecliptopera_silaceata)| 
+| darwin | insects | [Ectemnius_continuus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ectemnius_continuus)| 
+| darwin | insects | [Ectemnius_lituratus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ectemnius_lituratus)| 
+| darwin | insects | [Ectropis_crepuscularia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ectropis_crepuscularia)| 
+| darwin | insects | [Eilema_depressum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eilema_depressum)| 
+| darwin | insects | [Eilema_griseolum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eilema_griseolum)| 
+| darwin | insects | [Eilema_sororcula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eilema_sororcula)| 
+| darwin | insects | [Elasmostethus_interstinctus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Elasmostethus_interstinctus)| 
+| darwin | insects | [Elophila_nymphaeata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Elophila_nymphaeata)| 
+| darwin | insects | [Emmelina_monodactyla](https://tolqc.cog.sanger.ac.uk/darwin/insects/Emmelina_monodactyla)| 
+| darwin | insects | [Empis_livida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Empis_livida)| 
+| darwin | insects | [Enallagma_cyathigerum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Enallagma_cyathigerum)| 
+| darwin | insects | [Endotricha_flammealis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Endotricha_flammealis)| 
+| darwin | insects | [Ennomos_erosarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ennomos_erosarius)| 
+| darwin | insects | [Ennomos_fuscantarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ennomos_fuscantarius)| 
+| darwin | insects | [Ennomos_quercinarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ennomos_quercinarius)| 
+| darwin | insects | [Epagoge_grotiana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epagoge_grotiana)| 
+| darwin | insects | [Epicampocera_succincta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epicampocera_succincta)| 
+| darwin | insects | [Epinotia_brunnichana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epinotia_brunnichana)| 
+| darwin | insects | [Epinotia_nisella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epinotia_nisella)| 
+| darwin | insects | [Epinotia_ramella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epinotia_ramella)| 
+| darwin | insects | [Epirrhoe_alternata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epirrhoe_alternata)| 
+| darwin | insects | [Epistrophe_grossulariae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Epistrophe_grossulariae)| 
+| darwin | insects | [Episyrphus_balteatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Episyrphus_balteatus)| 
+| darwin | insects | [Erannis_defoliaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erannis_defoliaria)| 
+| darwin | insects | [Erebia_aethiops](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erebia_aethiops)| 
+| darwin | insects | [Erebia_epiphron](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erebia_epiphron)| 
+| darwin | insects | [Erebia_ligea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erebia_ligea)| 
+| darwin | insects | [Eriothrix_rufomaculata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eriothrix_rufomaculata)| 
+| darwin | insects | [Eristalinus_sepulchralis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalinus_sepulchralis)| 
+| darwin | insects | [Eristalis_arbustorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalis_arbustorum)| 
+| darwin | insects | [Eristalis_horticola](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalis_horticola)| 
+| darwin | insects | [Eristalis_pertinax](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalis_pertinax)| 
+| darwin | insects | [Eristalis_tenax](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eristalis_tenax)| 
+| darwin | insects | [Erynnis_tages](https://tolqc.cog.sanger.ac.uk/darwin/insects/Erynnis_tages)| 
+| darwin | insects | [Euclidia_mi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euclidia_mi)| 
+| darwin | insects | [Eucosma_campoliliana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eucosma_campoliliana)| 
+| darwin | insects | [Eucosma_cana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eucosma_cana)| 
+| darwin | insects | [Eudonia_lacustrata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eudonia_lacustrata)| 
+| darwin | insects | [Eulithis_prunata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eulithis_prunata)| 
+| darwin | insects | [Eupeodes_corollae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupeodes_corollae)| 
+| darwin | insects | [Eupeodes_latifasciatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupeodes_latifasciatus)| 
+| darwin | insects | [Eupeodes_luniger](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupeodes_luniger)| 
+| darwin | insects | [Euphydryas_aurinia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euphydryas_aurinia)| 
+| darwin | insects | [Eupithecia_abbreviata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupithecia_abbreviata)| 
+| darwin | insects | [Eupithecia_centaureata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupithecia_centaureata)| 
+| darwin | insects | [Eupithecia_tripunctaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupithecia_tripunctaria)| 
+| darwin | insects | [Euplexia_lucipara](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euplexia_lucipara)| 
+| darwin | insects | [Euproctis_similis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euproctis_similis)| 
+| darwin | insects | [Eupsilia_transversa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eupsilia_transversa)| 
+| darwin | insects | [Eurydema_oleracea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Eurydema_oleracea)| 
+| darwin | insects | [Euthycera_fumigata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Euthycera_fumigata)| 
+| darwin | insects | [Evagetes_crassicornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Evagetes_crassicornis)| 
+| darwin | insects | [Evergestis_limbata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Evergestis_limbata)| 
+| darwin | insects | [Fabriciana_adippe](https://tolqc.cog.sanger.ac.uk/darwin/insects/Fabriciana_adippe)| 
+| darwin | insects | [Fannia_serena](https://tolqc.cog.sanger.ac.uk/darwin/insects/Fannia_serena)| 
+| darwin | insects | [Ferdinandea_cuprea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ferdinandea_cuprea)| 
+| darwin | insects | [Fissipunctia_ypsillon](https://tolqc.cog.sanger.ac.uk/darwin/insects/Fissipunctia_ypsillon)| 
+| darwin | insects | [Forficula_auricularia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Forficula_auricularia)| 
+| darwin | insects | [Furcula_furcula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Furcula_furcula)| 
+| darwin | insects | [Gastrophysa_viridula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gastrophysa_viridula)| 
+| darwin | insects | [Glaucopsyche_alexis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Glaucopsyche_alexis)| 
+| darwin | insects | [Globia_sparganii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Globia_sparganii)| 
+| darwin | insects | [Glyphotaelius_pellucidus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Glyphotaelius_pellucidus)| 
+| darwin | insects | [Gonocerus_acuteangulatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gonocerus_acuteangulatus)| 
+| darwin | insects | [Griposia_aprilina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Griposia_aprilina)| 
+| darwin | insects | [Grypocoris_stysi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Grypocoris_stysi)| 
+| darwin | insects | [Gymnocheta_viridis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gymnocheta_viridis)| 
+| darwin | insects | [Gymnoscelis_rufifasciata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gymnoscelis_rufifasciata)| 
+| darwin | insects | [Gymnosoma_rotundatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Gymnosoma_rotundatum)| 
+| darwin | insects | [Habrosyne_pyritoides](https://tolqc.cog.sanger.ac.uk/darwin/insects/Habrosyne_pyritoides)| 
+| darwin | insects | [Halyzia_sedecimguttata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Halyzia_sedecimguttata)| 
+| darwin | insects | [Hamearis_lucina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hamearis_lucina)| 
+| darwin | insects | [Harmonia_axyridis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Harmonia_axyridis)| 
+| darwin | insects | [Harpalus_rufipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Harpalus_rufipes)| 
+| darwin | insects | [Hebecnema_nigricolor](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hebecnema_nigricolor)| 
+| darwin | insects | [Hecatera_dysodea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hecatera_dysodea)| 
+| darwin | insects | [Hedya_salicella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hedya_salicella)| 
+| darwin | insects | [Helina_depuncta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Helina_depuncta)| 
+| darwin | insects | [Helina_evecta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Helina_evecta)| 
+| darwin | insects | [Helina_quadrum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Helina_quadrum)| 
+| darwin | insects | [Helophilus_pendulus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Helophilus_pendulus)| 
+| darwin | insects | [Hemaris_fuciformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hemaris_fuciformis)| 
+| darwin | insects | [Hepialus_humuli](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hepialus_humuli)| 
+| darwin | insects | [Herina_lugubris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Herina_lugubris)| 
+| darwin | insects | [Herminia_grisealis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Herminia_grisealis)| 
+| darwin | insects | [Herminia_tarsipennalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Herminia_tarsipennalis)| 
+| darwin | insects | [Hesperia_comma](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hesperia_comma)| 
+| darwin | insects | [Himacerus_apterus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Himacerus_apterus)| 
+| darwin | insects | [Himacerus_mirmicoides](https://tolqc.cog.sanger.ac.uk/darwin/insects/Himacerus_mirmicoides)| 
+| darwin | insects | [Hipparchia_semele](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hipparchia_semele)| 
+| darwin | insects | [Hippodamia_variegata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hippodamia_variegata)| 
+| darwin | insects | [Hoplodrina_octogenaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hoplodrina_octogenaria)| 
+| darwin | insects | [Hydraecia_micacea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydraecia_micacea)| 
+| darwin | insects | [Hydriomena_furcata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydriomena_furcata)| 
+| darwin | insects | [Hydrobius_fuscipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydrobius_fuscipes)| 
+| darwin | insects | [Hydromya_dorsalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydromya_dorsalis)| 
+| darwin | insects | [Hydropsyche_siltalai](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydropsyche_siltalai)| 
+| darwin | insects | [Hydrotaea_cyrtoneurina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hydrotaea_cyrtoneurina)| 
+| darwin | insects | [Hylaea_fasciaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hylaea_fasciaria)| 
+| darwin | insects | [Hylaeus_communis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hylaeus_communis)| 
+| darwin | insects | [Hylemya_vagans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hylemya_vagans)| 
+| darwin | insects | [Hylemya_variata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hylemya_variata)| 
+| darwin | insects | [Hypena_proboscidalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hypena_proboscidalis)| 
+| darwin | insects | [Hypsopygia_costalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hypsopygia_costalis)| 
+| darwin | insects | [Hypsopygia_glaucinalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Hypsopygia_glaucinalis)| 
+| darwin | insects | [Icerya_purchasi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Icerya_purchasi)| 
+| darwin | insects | [Ichneumon_xanthorius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ichneumon_xanthorius)| 
+| darwin | insects | [Idaea_aversata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Idaea_aversata)| 
+| darwin | insects | [Inachis_io](https://tolqc.cog.sanger.ac.uk/darwin/insects/Inachis_io)| 
+| darwin | insects | [Ischnura_elegans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ischnura_elegans)| 
+| darwin | insects | [Isoperla_grammatica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Isoperla_grammatica)| 
+| darwin | insects | [Issus_coleoptratus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Issus_coleoptratus)| 
+| darwin | insects | [Kleidocerys_resedae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Kleidocerys_resedae)| 
+| darwin | insects | [Korscheltellus_lupulinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Korscheltellus_lupulinus)| 
+| darwin | insects | [Lacanobia_wlatinum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lacanobia_wlatinum)| 
+| darwin | insects | [Laothoe_populi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Laothoe_populi)| 
+| darwin | insects | [Lasioglossum_calceatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_calceatum)| 
+| darwin | insects | [Lasioglossum_lativentre](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_lativentre)| 
+| darwin | insects | [Lasioglossum_leucozonium](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_leucozonium)| 
+| darwin | insects | [Lasioglossum_malachurum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_malachurum)| 
+| darwin | insects | [Lasioglossum_morio](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_morio)| 
+| darwin | insects | [Lasioglossum_pauxillum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasioglossum_pauxillum)| 
+| darwin | insects | [Lasiommata_megera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasiommata_megera)| 
+| darwin | insects | [Lasius_niger](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lasius_niger)| 
+| darwin | insects | [Laspeyria_flexula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Laspeyria_flexula)| 
+| darwin | insects | [Ledra_aurita](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ledra_aurita)| 
+| darwin | insects | [Leistus_spinibarbis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leistus_spinibarbis)| 
+| darwin | insects | [Leptidea_sinapis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leptidea_sinapis)| 
+| darwin | insects | [Leptoglossus_occidentalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leptoglossus_occidentalis)| 
+| darwin | insects | [Leucophora_obtusa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leucophora_obtusa)| 
+| darwin | insects | [Leucophora_personata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leucophora_personata)| 
+| darwin | insects | [Leucozona_laternaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leucozona_laternaria)| 
+| darwin | insects | [Leuctra_nigra](https://tolqc.cog.sanger.ac.uk/darwin/insects/Leuctra_nigra)| 
+| darwin | insects | [Lilioceris_lilii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lilioceris_lilii)| 
+| darwin | insects | [Limenitis_camilla](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limenitis_camilla)| 
+| darwin | insects | [Limnephilus_lunatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limnephilus_lunatus)| 
+| darwin | insects | [Limnephilus_marmoratus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limnephilus_marmoratus)| 
+| darwin | insects | [Limnephilus_rhombicus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limnephilus_rhombicus)| 
+| darwin | insects | [Limnobaris_t_album](https://tolqc.cog.sanger.ac.uk/darwin/insects/Limnobaris_t_album)| 
+| darwin | insects | [Linnaemya_tessellans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Linnaemya_tessellans)| 
+| darwin | insects | [Lobophora_halterata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lobophora_halterata)| 
+| darwin | insects | [Lomaspilis_marginata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lomaspilis_marginata)| 
+| darwin | insects | [Lophosceles_cinereiventris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lophosceles_cinereiventris)| 
+| darwin | insects | [Lozotaeniodes_formosana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lozotaeniodes_formosana)| 
+| darwin | insects | [Lucilia_richardsi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lucilia_richardsi)| 
+| darwin | insects | [Luperina_testacea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Luperina_testacea)| 
+| darwin | insects | [Lycaena_phlaeas](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lycaena_phlaeas)| 
+| darwin | insects | [Lygephila_pastinum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lygephila_pastinum)| 
+| darwin | insects | [Lygus_pratensis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lygus_pratensis)| 
+| darwin | insects | [Lymantria_monacha](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lymantria_monacha)| 
+| darwin | insects | [Lysandra_bellargus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lysandra_bellargus)| 
+| darwin | insects | [Lysandra_coridon](https://tolqc.cog.sanger.ac.uk/darwin/insects/Lysandra_coridon)| 
+| darwin | insects | [Macaria_notata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Macaria_notata)| 
+| darwin | insects | [Machimus_atricapillus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Machimus_atricapillus)| 
+| darwin | insects | [Macrochilo_cribrumalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Macrochilo_cribrumalis)| 
+| darwin | insects | [Macropis_europaea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Macropis_europaea)| 
+| darwin | insects | [Malachius_bipustulatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Malachius_bipustulatus)| 
+| darwin | insects | [Mamestra_brassicae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mamestra_brassicae)| 
+| darwin | insects | [Maniola_jurtina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Maniola_jurtina)| 
+| darwin | insects | [Marasmarcha_lunaedactyla](https://tolqc.cog.sanger.ac.uk/darwin/insects/Marasmarcha_lunaedactyla)| 
+| darwin | insects | [Megachile_ligniseca](https://tolqc.cog.sanger.ac.uk/darwin/insects/Megachile_ligniseca)| 
+| darwin | insects | [Megachile_willughbiella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Megachile_willughbiella)| 
+| darwin | insects | [Meganola_albula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Meganola_albula)| 
+| darwin | insects | [Melanargia_galathea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melanargia_galathea)| 
+| darwin | insects | [Melangyna_umbellatarum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melangyna_umbellatarum)| 
+| darwin | insects | [Melanostoma_mellinum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melanostoma_mellinum)| 
+| darwin | insects | [Melanostoma_scalare](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melanostoma_scalare)| 
+| darwin | insects | [Melinda_gentilis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melinda_gentilis)| 
+| darwin | insects | [Melinda_viridicyanea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melinda_viridicyanea)| 
+| darwin | insects | [Melitaea_cinxia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melitaea_cinxia)| 
+| darwin | insects | [Mellicta_athalia](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mellicta_athalia)| 
+| darwin | insects | [Melolontha_melolontha](https://tolqc.cog.sanger.ac.uk/darwin/insects/Melolontha_melolontha)| 
+| darwin | insects | [Merzomyia_westermanni](https://tolqc.cog.sanger.ac.uk/darwin/insects/Merzomyia_westermanni)| 
+| darwin | insects | [Mesembrina_meridiana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mesembrina_meridiana)| 
+| darwin | insects | [Mesoligia_furuncula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mesoligia_furuncula)| 
+| darwin | insects | [Micropterix_aruncella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Micropterix_aruncella)| 
+| darwin | insects | [Miltochrista_miniata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Miltochrista_miniata)| 
+| darwin | insects | [Mimas_tiliae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mimas_tiliae)| 
+| darwin | insects | [Mimumesa_dahlbomi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mimumesa_dahlbomi)| 
+| darwin | insects | [Mocydia_crocea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mocydia_crocea)| 
+| darwin | insects | [Mompha_ochraceella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mompha_ochraceella)| 
+| darwin | insects | [Morellia_simplex](https://tolqc.cog.sanger.ac.uk/darwin/insects/Morellia_simplex)| 
+| darwin | insects | [Morophaga_choragella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Morophaga_choragella)| 
+| darwin | insects | [Musca_autumnalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Musca_autumnalis)| 
+| darwin | insects | [Myathropa_florea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Myathropa_florea)| 
+| darwin | insects | [Myelois_circumvoluta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Myelois_circumvoluta)| 
+| darwin | insects | [Myopa_tessellatipennis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Myopa_tessellatipennis)| 
+| darwin | insects | [Myrmica_ruginodis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Myrmica_ruginodis)| 
+| darwin | insects | [Mythimna_albipuncta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mythimna_albipuncta)| 
+| darwin | insects | [Mythimna_ferrago](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mythimna_ferrago)| 
+| darwin | insects | [Mythimna_impura](https://tolqc.cog.sanger.ac.uk/darwin/insects/Mythimna_impura)| 
+| darwin | insects | [Nabis_ferus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nabis_ferus)| 
+| darwin | insects | [Nabis_limbatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nabis_limbatus)| 
+| darwin | insects | [Nabis_rugosus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nabis_rugosus)| 
+| darwin | insects | [Nebria_brevicollis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nebria_brevicollis)| 
+| darwin | insects | [Nebria_salina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nebria_salina)| 
+| darwin | insects | [Nemoura_dubitans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nemoura_dubitans)| 
+| darwin | insects | [Nemurella_pictetii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nemurella_pictetii)| 
+| darwin | insects | [Neocochylis_molliculana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Neocochylis_molliculana)| 
+| darwin | insects | [Nephrotoma_flavescens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nephrotoma_flavescens)| 
+| darwin | insects | [Nephrotoma_flavipalpis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nephrotoma_flavipalpis)| 
+| darwin | insects | [Noctua_comes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Noctua_comes)| 
+| darwin | insects | [Noctua_fimbriata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Noctua_fimbriata)| 
+| darwin | insects | [Noctua_janthe](https://tolqc.cog.sanger.ac.uk/darwin/insects/Noctua_janthe)| 
+| darwin | insects | [Noctua_pronuba](https://tolqc.cog.sanger.ac.uk/darwin/insects/Noctua_pronuba)| 
+| darwin | insects | [Nola_cucullatella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nola_cucullatella)| 
+| darwin | insects | [Nomada_fabriciana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nomada_fabriciana)| 
+| darwin | insects | [Notiophilus_biguttatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notiophilus_biguttatus)| 
+| darwin | insects | [Notocelia_uddmanniana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notocelia_uddmanniana)| 
+| darwin | insects | [Notodonta_dromedarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notodonta_dromedarius)| 
+| darwin | insects | [Notodonta_ziczac](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notodonta_ziczac)| 
+| darwin | insects | [Notonecta_glauca](https://tolqc.cog.sanger.ac.uk/darwin/insects/Notonecta_glauca)| 
+| darwin | insects | [Nowickia_ferox](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nowickia_ferox)| 
+| darwin | insects | [Nymphalis_c_album](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nymphalis_c_album)| 
+| darwin | insects | [Nymphalis_polychloros](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nymphalis_polychloros)| 
+| darwin | insects | [Nymphalis_urticae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nymphalis_urticae)| 
+| darwin | insects | [Nymphula_nitidulata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nymphula_nitidulata)| 
+| darwin | insects | [Nysson_spinosus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Nysson_spinosus)| 
+| darwin | insects | [Ochlodes_sylvanus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ochlodes_sylvanus)| 
+| darwin | insects | [Ochropleura_plecta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ochropleura_plecta)| 
+| darwin | insects | [Ocypus_olens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ocypus_olens)| 
+| darwin | insects | [Odontocerum_albicorne](https://tolqc.cog.sanger.ac.uk/darwin/insects/Odontocerum_albicorne)| 
+| darwin | insects | [Oedemera_lurida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Oedemera_lurida)| 
+| darwin | insects | [Oedemera_nobilis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Oedemera_nobilis)| 
+| darwin | insects | [Omphaloscelis_lunosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Omphaloscelis_lunosa)| 
+| darwin | insects | [Operophtera_brumata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Operophtera_brumata)| 
+| darwin | insects | [Operophtera_fagata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Operophtera_fagata)| 
+| darwin | insects | [Ophion_slaviceki](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ophion_slaviceki)| 
+| darwin | insects | [Ophonus_ardosiacus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ophonus_ardosiacus)| 
+| darwin | insects | [Opisthograptis_luteolata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Opisthograptis_luteolata)| 
+| darwin | insects | [Oplodontha_viridula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Oplodontha_viridula)| 
+| darwin | insects | [Opsius_stactogalus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Opsius_stactogalus)| 
+| darwin | insects | [Orgyia_antiqua](https://tolqc.cog.sanger.ac.uk/darwin/insects/Orgyia_antiqua)| 
+| darwin | insects | [Orthosia_cerasi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Orthosia_cerasi)| 
+| darwin | insects | [Ostrinia_nubilalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ostrinia_nubilalis)| 
+| darwin | insects | [Otiorhynchus_sulcatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Otiorhynchus_sulcatus)| 
+| darwin | insects | [Oulema_melanopus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Oulema_melanopus)| 
+| darwin | insects | [Pammene_fasciana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pammene_fasciana)| 
+| darwin | insects | [Pammene_regiana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pammene_regiana)| 
+| darwin | insects | [Pandemis_cinnamomeana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pandemis_cinnamomeana)| 
+| darwin | insects | [Pandemis_corylana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pandemis_corylana)| 
+| darwin | insects | [Pantilius_tunicatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pantilius_tunicatus)| 
+| darwin | insects | [Papilio_machaon](https://tolqc.cog.sanger.ac.uk/darwin/insects/Papilio_machaon)| 
+| darwin | insects | [Paragus_haemorrhous](https://tolqc.cog.sanger.ac.uk/darwin/insects/Paragus_haemorrhous)| 
+| darwin | insects | [Parapoynx_stratiotata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Parapoynx_stratiotata)| 
+| darwin | insects | [Pararge_aegeria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pararge_aegeria)| 
+| darwin | insects | [Patania_ruralis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Patania_ruralis)| 
+| darwin | insects | [Peltodytes_caesus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Peltodytes_caesus)| 
+| darwin | insects | [Pemphredon_lugubris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pemphredon_lugubris)| 
+| darwin | insects | [Pentatoma_rufipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pentatoma_rufipes)| 
+| darwin | insects | [Peribatodes_rhomboidaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Peribatodes_rhomboidaria)| 
+| darwin | insects | [Perizoma_alchemillatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Perizoma_alchemillatum)| 
+| darwin | insects | [Perizoma_flavofasciatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Perizoma_flavofasciatum)| 
+| darwin | insects | [Phalera_bucephala](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phalera_bucephala)| 
+| darwin | insects | [Phaonia_pallida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phaonia_pallida)| 
+| darwin | insects | [Phaonia_rufiventris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phaonia_rufiventris)| 
+| darwin | insects | [Phaonia_tuguriorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phaonia_tuguriorum)| 
+| darwin | insects | [Phasia_hemiptera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phasia_hemiptera)| 
+| darwin | insects | [Phasia_obesa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phasia_obesa)| 
+| darwin | insects | [Pheosia_gnoma](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pheosia_gnoma)| 
+| darwin | insects | [Pheosia_tremula](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pheosia_tremula)| 
+| darwin | insects | [Pherbellia_cinerella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pherbellia_cinerella)| 
+| darwin | insects | [Pherbina_coryleti](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pherbina_coryleti)| 
+| darwin | insects | [Philereme_vetulata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Philereme_vetulata)| 
+| darwin | insects | [Philonthus_cognatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Philonthus_cognatus)| 
+| darwin | insects | [Phlogophora_meticulosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phlogophora_meticulosa)| 
+| darwin | insects | [Phosphuga_atrata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phosphuga_atrata)| 
+| darwin | insects | [Photedes_minima](https://tolqc.cog.sanger.ac.uk/darwin/insects/Photedes_minima)| 
+| darwin | insects | [Phragmatobia_fuliginosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phragmatobia_fuliginosa)| 
+| darwin | insects | [Phycita_roborella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phycita_roborella)| 
+| darwin | insects | [Physocephala_rufipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Physocephala_rufipes)| 
+| darwin | insects | [Phyto_melanocephala](https://tolqc.cog.sanger.ac.uk/darwin/insects/Phyto_melanocephala)| 
+| darwin | insects | [Pieris_brassicae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pieris_brassicae)| 
+| darwin | insects | [Pieris_napi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pieris_napi)| 
+| darwin | insects | [Pieris_rapae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pieris_rapae)| 
+| darwin | insects | [Planococcus_citri](https://tolqc.cog.sanger.ac.uk/darwin/insects/Planococcus_citri)| 
+| darwin | insects | [Platycheirus_albimanus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Platycheirus_albimanus)| 
+| darwin | insects | [Platycheirus_scutatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Platycheirus_scutatus)| 
+| darwin | insects | [Platycis_minutus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Platycis_minutus)| 
+| darwin | insects | [Platycnemis_pennipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Platycnemis_pennipes)| 
+| darwin | insects | [Plea_minutissima](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plea_minutissima)| 
+| darwin | insects | [Plebejus_argus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plebejus_argus)| 
+| darwin | insects | [Plemyria_rubiginata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plemyria_rubiginata)| 
+| darwin | insects | [Plodia_interpunctella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plodia_interpunctella)| 
+| darwin | insects | [Plutella_xylostella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Plutella_xylostella)| 
+| darwin | insects | [Podabrus_alpinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Podabrus_alpinus)| 
+| darwin | insects | [Poecilocampa_populi](https://tolqc.cog.sanger.ac.uk/darwin/insects/Poecilocampa_populi)| 
+| darwin | insects | [Pollenia_amentaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pollenia_amentaria)| 
+| darwin | insects | [Pollenia_angustigena](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pollenia_angustigena)| 
+| darwin | insects | [Polycentropus_irroratus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Polycentropus_irroratus)| 
+| darwin | insects | [Polydrusus_cervinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Polydrusus_cervinus)| 
+| darwin | insects | [Polyommatus_icarus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Polyommatus_icarus)| 
+| darwin | insects | [Polysphincta_tuberosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Polysphincta_tuberosa)| 
+| darwin | insects | [Propylea_quattuordecimpunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Propylea_quattuordecimpunctata)| 
+| darwin | insects | [Protocalliphora_azurea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Protocalliphora_azurea)| 
+| darwin | insects | [Protodeltote_pygarga](https://tolqc.cog.sanger.ac.uk/darwin/insects/Protodeltote_pygarga)| 
+| darwin | insects | [Pseudoips_prasinana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pseudoips_prasinana)| 
+| darwin | insects | [Psila_merdaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Psila_merdaria)| 
+| darwin | insects | [Psoricoptera_gibbosella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Psoricoptera_gibbosella)| 
+| darwin | insects | [Pterostichus_madidus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pterostichus_madidus)| 
+| darwin | insects | [Pterostichus_strenuus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pterostichus_strenuus)| 
+| darwin | insects | [Ptilodon_capucinus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ptilodon_capucinus)| 
+| darwin | insects | [Ptycholomoides_aeriferana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ptycholomoides_aeriferana)| 
+| darwin | insects | [Pyrochroa_serraticornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Pyrochroa_serraticornis)| 
+| darwin | insects | [Recurvaria_leucatella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Recurvaria_leucatella)| 
+| darwin | insects | [Rhabdomiris_striatellus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhabdomiris_striatellus)| 
+| darwin | insects | [Rhagio_annulatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhagio_annulatus)| 
+| darwin | insects | [Rhagio_tringarius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhagio_tringarius)| 
+| darwin | insects | [Rhagonycha_fulva](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhagonycha_fulva)| 
+| darwin | insects | [Rhingia_campestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhingia_campestris)| 
+| darwin | insects | [Rhinocyllus_conicus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhinocyllus_conicus)| 
+| darwin | insects | [Rhinophora_lepida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhinophora_lepida)| 
+| darwin | insects | [Rhithrogena_germanica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhithrogena_germanica)| 
+| darwin | insects | [Rhithrogena_semicolorata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhithrogena_semicolorata)| 
+| darwin | insects | [Rhogogaster_chlorosoma](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhogogaster_chlorosoma)| 
+| darwin | insects | [Rhopalus_parumpunctatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhopalus_parumpunctatus)| 
+| darwin | insects | [Rhopalus_subrufus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhopalus_subrufus)| 
+| darwin | insects | [Rhopobota_naevana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhopobota_naevana)| 
+| darwin | insects | [Rhyparochromus_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rhyparochromus_vulgaris)| 
+| darwin | insects | [Rutpela_maculata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Rutpela_maculata)| 
+| darwin | insects | [Sapromyzosoma_quadripunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sapromyzosoma_quadripunctata)| 
+| darwin | insects | [Sarcophaga_caerulescens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_caerulescens)| 
+| darwin | insects | [Sarcophaga_carnaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_carnaria)| 
+| darwin | insects | [Sarcophaga_crassimargo](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_crassimargo)| 
+| darwin | insects | [Sarcophaga_haemorrhoa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_haemorrhoa)| 
+| darwin | insects | [Sarcophaga_rosellei](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_rosellei)| 
+| darwin | insects | [Sarcophaga_subvicina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_subvicina)| 
+| darwin | insects | [Sarcophaga_variegata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sarcophaga_variegata)| 
+| darwin | insects | [Satyrium_w_album](https://tolqc.cog.sanger.ac.uk/darwin/insects/Satyrium_w_album)| 
+| darwin | insects | [Scaeva_pyrastri](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scaeva_pyrastri)| 
+| darwin | insects | [Scambus_nigricans](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scambus_nigricans)| 
+| darwin | insects | [Scathophaga_stercoraria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scathophaga_stercoraria)| 
+| darwin | insects | [Schrankia_costaestrigalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Schrankia_costaestrigalis)| 
+| darwin | insects | [Scoliopteryx_libatrix](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scoliopteryx_libatrix)| 
+| darwin | insects | [Scopula_imitaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scopula_imitaria)| 
+| darwin | insects | [Scotopteryx_chenopodiata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Scotopteryx_chenopodiata)| 
+| darwin | insects | [Seladonia_tumulorum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Seladonia_tumulorum)| 
+| darwin | insects | [Selenia_dentaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Selenia_dentaria)| 
+| darwin | insects | [Selenia_tetralunaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Selenia_tetralunaria)| 
+| darwin | insects | [Sericostoma_personatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sericostoma_personatum)| 
+| darwin | insects | [Sesia_apiformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sesia_apiformis)| 
+| darwin | insects | [Sesia_bembeciformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sesia_bembeciformis)| 
+| darwin | insects | [Shargacucullia_verbasci](https://tolqc.cog.sanger.ac.uk/darwin/insects/Shargacucullia_verbasci)| 
+| darwin | insects | [Sialis_lutaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sialis_lutaria)| 
+| darwin | insects | [Sicus_ferrugineus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sicus_ferrugineus)| 
+| darwin | insects | [Silo_pallipes](https://tolqc.cog.sanger.ac.uk/darwin/insects/Silo_pallipes)| 
+| darwin | insects | [Sinodendron_cylindricum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sinodendron_cylindricum)| 
+| darwin | insects | [Sphaerophoria_scripta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphaerophoria_scripta)| 
+| darwin | insects | [Sphaerophoria_taeniata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphaerophoria_taeniata)| 
+| darwin | insects | [Sphecodes_crassus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphecodes_crassus)| 
+| darwin | insects | [Sphecodes_ephippius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphecodes_ephippius)| 
+| darwin | insects | [Sphecodes_hyalinatus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphecodes_hyalinatus)| 
+| darwin | insects | [Sphecodes_monilicornis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphecodes_monilicornis)| 
+| darwin | insects | [Sphinx_pinastri](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sphinx_pinastri)| 
+| darwin | insects | [Spilarctia_lutea](https://tolqc.cog.sanger.ac.uk/darwin/insects/Spilarctia_lutea)| 
+| darwin | insects | [Spilosoma_lubricipeda](https://tolqc.cog.sanger.ac.uk/darwin/insects/Spilosoma_lubricipeda)| 
+| darwin | insects | [Stelis_phaeoptera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stelis_phaeoptera)| 
+| darwin | insects | [Stenocranus_minutus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stenocranus_minutus)| 
+| darwin | insects | [Stenodema_laevigata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stenodema_laevigata)| 
+| darwin | insects | [Stenoptilia_bipunctidactyla](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stenoptilia_bipunctidactyla)| 
+| darwin | insects | [Stomorhina_lunata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stomorhina_lunata)| 
+| darwin | insects | [Stratiomys_potamida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stratiomys_potamida)| 
+| darwin | insects | [Stratiomys_singularior](https://tolqc.cog.sanger.ac.uk/darwin/insects/Stratiomys_singularior)| 
+| darwin | insects | [Subcoccinella_vigintiquattuorpunctata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Subcoccinella_vigintiquattuorpunctata)| 
+| darwin | insects | [Sympetrum_striolatum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Sympetrum_striolatum)| 
+| darwin | insects | [Synanthedon_andrenaeformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Synanthedon_andrenaeformis)| 
+| darwin | insects | [Synanthedon_vespiformis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Synanthedon_vespiformis)| 
+| darwin | insects | [Syritta_pipiens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Syritta_pipiens)| 
+| darwin | insects | [Syrphus_ribesii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Syrphus_ribesii)| 
+| darwin | insects | [Tabanus_autumnalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tabanus_autumnalis)| 
+| darwin | insects | [Tabanus_bromius](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tabanus_bromius)| 
+| darwin | insects | [Tachina_fera](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tachina_fera)| 
+| darwin | insects | [Tachina_grossa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tachina_grossa)| 
+| darwin | insects | [Tachina_lurida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tachina_lurida)| 
+| darwin | insects | [Tenthredo_livida](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tenthredo_livida)| 
+| darwin | insects | [Tenthredo_mesomela](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tenthredo_mesomela)| 
+| darwin | insects | [Tenthredo_notha](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tenthredo_notha)| 
+| darwin | insects | [Tephritis_neesii](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tephritis_neesii)| 
+| darwin | insects | [Terellia_serratulae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Terellia_serratulae)| 
+| darwin | insects | [Thecla_betulae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thecla_betulae)| 
+| darwin | insects | [Thecocarcelia_acutangulata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thecocarcelia_acutangulata)| 
+| darwin | insects | [Thecophora_atra](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thecophora_atra)| 
+| darwin | insects | [Thera_britannica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thera_britannica)| 
+| darwin | insects | [Theria_primaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Theria_primaria)| 
+| darwin | insects | [Tholera_decimalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tholera_decimalis)| 
+| darwin | insects | [Thricops_semicinereus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thricops_semicinereus)| 
+| darwin | insects | [Thumatha_senex](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thumatha_senex)| 
+| darwin | insects | [Thyatira_batis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thyatira_batis)| 
+| darwin | insects | [Thymelicus_lineola](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thymelicus_lineola)| 
+| darwin | insects | [Thymelicus_sylvestris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Thymelicus_sylvestris)| 
+| darwin | insects | [Tinea_semifulvella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tinea_semifulvella)| 
+| darwin | insects | [Tinea_trinotella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tinea_trinotella)| 
+| darwin | insects | [Tiphia_femorata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tiphia_femorata)| 
+| darwin | insects | [Tipula_paludosa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tipula_paludosa)| 
+| darwin | insects | [Tipula_vernalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tipula_vernalis)| 
+| darwin | insects | [Tricholauxania_praeusta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Tricholauxania_praeusta)| 
+| darwin | insects | [Triodia_sylvina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Triodia_sylvina)| 
+| darwin | insects | [Trypoxylon_clavicerum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Trypoxylon_clavicerum)| 
+| darwin | insects | [Udea_prunalis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Udea_prunalis)| 
+| darwin | insects | [Vanessa_atalanta](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vanessa_atalanta)| 
+| darwin | insects | [Vanessa_cardui](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vanessa_cardui)| 
+| darwin | insects | [Vespa_crabro](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vespa_crabro)| 
+| darwin | insects | [Vespula_germanica](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vespula_germanica)| 
+| darwin | insects | [Vespula_vulgaris](https://tolqc.cog.sanger.ac.uk/darwin/insects/Vespula_vulgaris)| 
+| darwin | insects | [Volucella_inanis](https://tolqc.cog.sanger.ac.uk/darwin/insects/Volucella_inanis)| 
+| darwin | insects | [Volucella_inflata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Volucella_inflata)| 
+| darwin | insects | [Volucella_pellucens](https://tolqc.cog.sanger.ac.uk/darwin/insects/Volucella_pellucens)| 
+| darwin | insects | [Watsonalla_binaria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Watsonalla_binaria)| 
+| darwin | insects | [Watsonalla_cultraria](https://tolqc.cog.sanger.ac.uk/darwin/insects/Watsonalla_cultraria)| 
+| darwin | insects | [Xanthogramma_pedissequum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xanthogramma_pedissequum)| 
+| darwin | insects | [Xanthorhoe_fluctuata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xanthorhoe_fluctuata)| 
+| darwin | insects | [Xanthorhoe_quadrifasciata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xanthorhoe_quadrifasciata)| 
+| darwin | insects | [Xestia_c_nigrum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xestia_c_nigrum)| 
+| darwin | insects | [Xestia_sexstrigata](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xestia_sexstrigata)| 
+| darwin | insects | [Xestia_triangulum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xestia_triangulum)| 
+| darwin | insects | [Xestia_xanthographa](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xestia_xanthographa)| 
+| darwin | insects | [Xylocampa_areola](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xylocampa_areola)| 
+| darwin | insects | [Xylota_sylvarum](https://tolqc.cog.sanger.ac.uk/darwin/insects/Xylota_sylvarum)| 
+| darwin | insects | [Yponomeuta_plumbellus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Yponomeuta_plumbellus)| 
+| darwin | insects | [Yponomeuta_sedellus](https://tolqc.cog.sanger.ac.uk/darwin/insects/Yponomeuta_sedellus)| 
+| darwin | insects | [Ypsolopha_alpella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ypsolopha_alpella)| 
+| darwin | insects | [Ypsolopha_parenthesella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ypsolopha_parenthesella)| 
+| darwin | insects | [Ypsolopha_scabrella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ypsolopha_scabrella)| 
+| darwin | insects | [Ypsolopha_sequella](https://tolqc.cog.sanger.ac.uk/darwin/insects/Ypsolopha_sequella)| 
+| darwin | insects | [Zeiraphera_isertana](https://tolqc.cog.sanger.ac.uk/darwin/insects/Zeiraphera_isertana)| 
+| darwin | insects | [Zeuzera_pyrina](https://tolqc.cog.sanger.ac.uk/darwin/insects/Zeuzera_pyrina)| 
+| darwin | insects | [Zygaena_filipendulae](https://tolqc.cog.sanger.ac.uk/darwin/insects/Zygaena_filipendulae)| 
+| darwin | jellyfish | [Actinia_fragacea](https://tolqc.cog.sanger.ac.uk/darwin/jellyfish/Actinia_fragacea)| 
+| darwin | jellyfish | [Diadumene_lineata](https://tolqc.cog.sanger.ac.uk/darwin/jellyfish/Diadumene_lineata)| 
+| darwin | jellyfish | [Haliclystus_octoradiatus](https://tolqc.cog.sanger.ac.uk/darwin/jellyfish/Haliclystus_octoradiatus)| 
+| darwin | jellyfish | [Nematostella_vectensis](https://tolqc.cog.sanger.ac.uk/darwin/jellyfish/Nematostella_vectensis)| 
+| darwin | mammals | [Apodemus_flavicollis](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Apodemus_flavicollis)| 
+| darwin | mammals | [Apodemus_sylvaticus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Apodemus_sylvaticus)| 
+| darwin | mammals | [Canis_lupus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Canis_lupus)| 
+| darwin | mammals | [Cervus_elaphus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Cervus_elaphus)| 
+| darwin | mammals | [Meles_meles](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Meles_meles)| 
+| darwin | mammals | [Myodes_glareolus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Myodes_glareolus)| 
+| darwin | mammals | [Sorex_araneus](https://tolqc.cog.sanger.ac.uk/darwin/mammals/Sorex_araneus)| 
+| darwin | molluscs | [Acanthochitona_crinita](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Acanthochitona_crinita)| 
+| darwin | molluscs | [Ancylus_fluviatilis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Ancylus_fluviatilis)| 
+| darwin | molluscs | [Anisus_vortex](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Anisus_vortex)| 
+| darwin | molluscs | [Bithynia_leachii](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Bithynia_leachii)| 
+| darwin | molluscs | [Calliostoma_zizyphinum](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Calliostoma_zizyphinum)| 
+| darwin | molluscs | [Cepaea_hortensis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Cepaea_hortensis)| 
+| darwin | molluscs | [Cepaea_nemoralis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Cepaea_nemoralis)| 
+| darwin | molluscs | [Cerastoderma_edule](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Cerastoderma_edule)| 
+| darwin | molluscs | [Cornu_aspersum](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Cornu_aspersum)| 
+| darwin | molluscs | [Crimora_papillata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Crimora_papillata)| 
+| darwin | molluscs | [Doris_pseudoargus](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Doris_pseudoargus)| 
+| darwin | molluscs | [Gari_tellinella](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Gari_tellinella)| 
+| darwin | molluscs | [Gibbula_magus](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Gibbula_magus)| 
+| darwin | molluscs | [Helicella_itala](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Helicella_itala)| 
+| darwin | molluscs | [Littorina_obtusata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Littorina_obtusata)| 
+| darwin | molluscs | [Macomangulus_tenuis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Macomangulus_tenuis)| 
+| darwin | molluscs | [Magallana_gigas](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Magallana_gigas)| 
+| darwin | molluscs | [Microchlamylla_gracilis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Microchlamylla_gracilis)| 
+| darwin | molluscs | [Mimachlamys_varia](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Mimachlamys_varia)| 
+| darwin | molluscs | [Mysia_undata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Mysia_undata)| 
+| darwin | molluscs | [Nucella_lapillus](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Nucella_lapillus)| 
+| darwin | molluscs | [Patella_depressa](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Patella_depressa)| 
+| darwin | molluscs | [Patella_pellucida](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Patella_pellucida)| 
+| darwin | molluscs | [Patella_ulyssiponensis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Patella_ulyssiponensis)| 
+| darwin | molluscs | [Patella_vulgata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Patella_vulgata)| 
+| darwin | molluscs | [Phorcus_lineatus](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Phorcus_lineatus)| 
+| darwin | molluscs | [Physa_fontinalis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Physa_fontinalis)| 
+| darwin | molluscs | [Physella_acuta](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Physella_acuta)| 
+| darwin | molluscs | [Pisidium_nitidum](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Pisidium_nitidum)| 
+| darwin | molluscs | [Planorbis_planorbis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Planorbis_planorbis)| 
+| darwin | molluscs | [Spisula_solida](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Spisula_solida)| 
+| darwin | molluscs | [Steromphala_cineraria](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Steromphala_cineraria)| 
+| darwin | molluscs | [Testudinalia_testudinalis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Testudinalia_testudinalis)| 
+| darwin | molluscs | [Theodoxus_fluviatilis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Theodoxus_fluviatilis)| 
+| darwin | molluscs | [Tritia_reticulata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Tritia_reticulata)| 
+| darwin | molluscs | [Trivia_monacha](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Trivia_monacha)| 
+| darwin | molluscs | [Valvata_piscinalis](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Valvata_piscinalis)| 
+| darwin | molluscs | [Venerupis_corrugata](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Venerupis_corrugata)| 
+| darwin | molluscs | [Xeroplexa_intersecta](https://tolqc.cog.sanger.ac.uk/darwin/molluscs/Xeroplexa_intersecta)| 
+| darwin | monocots | [Alisma_plantago_aquatica](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Alisma_plantago_aquatica)| 
+| darwin | monocots | [Allium_ampeloprasum](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Allium_ampeloprasum)| 
+| darwin | monocots | [Allium_triquetrum](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Allium_triquetrum)| 
+| darwin | monocots | [Aponogeton_distachyos](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Aponogeton_distachyos)| 
+| darwin | monocots | [Arum_maculatum](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Arum_maculatum)| 
+| darwin | monocots | [Briza_media](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Briza_media)| 
+| darwin | monocots | [Bromus_sterilis](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Bromus_sterilis)| 
+| darwin | monocots | [Carex_depauperata](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Carex_depauperata)| 
+| darwin | monocots | [Carex_nigra](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Carex_nigra)| 
+| darwin | monocots | [Carex_pendula](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Carex_pendula)| 
+| darwin | monocots | [Carex_rostrata](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Carex_rostrata)| 
+| darwin | monocots | [Colchicum_autumnale](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Colchicum_autumnale)| 
+| darwin | monocots | [Hierochloe_odorata](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Hierochloe_odorata)| 
+| darwin | monocots | [Holcus_mollis](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Holcus_mollis)| 
+| darwin | monocots | [Iris_pseudacorus](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Iris_pseudacorus)| 
+| darwin | monocots | [Juncus_effusus](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Juncus_effusus)| 
+| darwin | monocots | [Luzula_sylvatica](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Luzula_sylvatica)| 
+| darwin | monocots | [Narcissus_pseudonarcissus](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Narcissus_pseudonarcissus)| 
+| darwin | monocots | [Oreojuncus_trifidus](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Oreojuncus_trifidus)| 
+| darwin | monocots | [Schoenoplectus_lacustris](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Schoenoplectus_lacustris)| 
+| darwin | monocots | [Typha_latifolia](https://tolqc.cog.sanger.ac.uk/darwin/monocots/Typha_latifolia)| 
+| darwin | non-vascular-plants | [Hylocomiadelphus_triquetrus](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Hylocomiadelphus_triquetrus)| 
+| darwin | non-vascular-plants | [Isothecium_myosuroides](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Isothecium_myosuroides)| 
+| darwin | non-vascular-plants | [Lunularia_cruciata](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Lunularia_cruciata)| 
+| darwin | non-vascular-plants | [Neckera_pumila](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Neckera_pumila)| 
+| darwin | non-vascular-plants | [Polytrichum_commune](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Polytrichum_commune)| 
+| darwin | non-vascular-plants | [Rhytidiadelphus_loreus](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Rhytidiadelphus_loreus)| 
+| darwin | non-vascular-plants | [Sphagnum_inundatum](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Sphagnum_inundatum)| 
+| darwin | non-vascular-plants | [Thamnobryum_alopecurum](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Thamnobryum_alopecurum)| 
+| darwin | non-vascular-plants | [Thuidium_delicatulum](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Thuidium_delicatulum)| 
+| darwin | non-vascular-plants | [Thuidium_tamariscinum](https://tolqc.cog.sanger.ac.uk/darwin/non-vascular-plants/Thuidium_tamariscinum)| 
+| darwin | other-animal-phyla | [Bugulina_stolonifera](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Bugulina_stolonifera)| 
+| darwin | other-animal-phyla | [Cryptosula_pallasiana](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Cryptosula_pallasiana)| 
+| darwin | other-animal-phyla | [Lineus_longissimus](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Lineus_longissimus)| 
+| darwin | other-animal-phyla | [Membranipora_membranacea](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Membranipora_membranacea)| 
+| darwin | other-animal-phyla | [Watersipora_subatra](https://tolqc.cog.sanger.ac.uk/darwin/other-animal-phyla/Watersipora_subatra)| 
+| darwin | protists | [Chrysotila_carterae](https://tolqc.cog.sanger.ac.uk/darwin/protists/Chrysotila_carterae)| 
+| darwin | protists | [Colpoda_steinii](https://tolqc.cog.sanger.ac.uk/darwin/protists/Colpoda_steinii)| 
+| darwin | protists | [Eimeria_maxima](https://tolqc.cog.sanger.ac.uk/darwin/protists/Eimeria_maxima)| 
+| darwin | protists | [Euglenaria_anabaena](https://tolqc.cog.sanger.ac.uk/darwin/protists/Euglenaria_anabaena)| 
+| darwin | protists | [Tetramitus_jugosus](https://tolqc.cog.sanger.ac.uk/darwin/protists/Tetramitus_jugosus)| 
+| darwin | rnd | [Adalia_bipunctata](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Adalia_bipunctata)| 
+| darwin | rnd | [Biomphalaria_glabrata](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Biomphalaria_glabrata)| 
+| darwin | rnd | [Caenorhabditis_monodelphis](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Caenorhabditis_monodelphis)| 
+| darwin | rnd | [Danio_rerio](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Danio_rerio)| 
+| darwin | rnd | [Dunaliella_primolecta](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Dunaliella_primolecta)| 
+| darwin | rnd | [Leucocybe_candicans](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Leucocybe_candicans)| 
+| darwin | rnd | [Metschnikowia_zobellii](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Metschnikowia_zobellii)| 
+| darwin | rnd | [Physella_acuta](https://tolqc.cog.sanger.ac.uk/darwin/rnd/Physella_acuta)| 
+| darwin | vascular-plants | [Asplenium_scolopendrium](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Asplenium_scolopendrium)| 
+| darwin | vascular-plants | [Equisetum_hyemale](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Equisetum_hyemale)| 
+| darwin | vascular-plants | [Equisetum_telmateia](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Equisetum_telmateia)| 
+| darwin | vascular-plants | [Huperzia_selago](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Huperzia_selago)| 
+| darwin | vascular-plants | [Polypodium_vulgare](https://tolqc.cog.sanger.ac.uk/darwin/vascular-plants/Polypodium_vulgare)| 
+| erga | arthropods | [Parastalita_stygia](https://tolqc.cog.sanger.ac.uk/erga/arthropods/Parastalita_stygia)| 
+| erga | fish | [Solea_solea](https://tolqc.cog.sanger.ac.uk/erga/fish/Solea_solea)| 
+| tol | arthropods | [Clistosaccus_paguri](https://tolqc.cog.sanger.ac.uk/tol/arthropods/Clistosaccus_paguri)| 
+| tol | insects | [Lysandra_bellargus](https://tolqc.cog.sanger.ac.uk/tol/insects/Lysandra_bellargus)| 
+| tol | insects | [Lysandra_coridon](https://tolqc.cog.sanger.ac.uk/tol/insects/Lysandra_coridon)| 
+| tol | insects | [Pieris_rapae](https://tolqc.cog.sanger.ac.uk/tol/insects/Pieris_rapae)| 
+| tol | insects | [Polyommatus_icarus](https://tolqc.cog.sanger.ac.uk/tol/insects/Polyommatus_icarus)| 
+| tol | insects | [Teleogryllus_oceanicus](https://tolqc.cog.sanger.ac.uk/tol/insects/Teleogryllus_oceanicus)| 
+| tol | molluscs | [Biomphalaria_glabrata](https://tolqc.cog.sanger.ac.uk/tol/molluscs/Biomphalaria_glabrata)| 
+| tol | molluscs | [Limnoperna_fortunei](https://tolqc.cog.sanger.ac.uk/tol/molluscs/Limnoperna_fortunei)| 
+| tol | protists | [Plasmodium_falciparum](https://tolqc.cog.sanger.ac.uk/tol/protists/Plasmodium_falciparum)| 
+| vgp | birds | [Accipiter_gentilis](https://tolqc.cog.sanger.ac.uk/vgp/birds/Accipiter_gentilis)| 
+| vgp | birds | [Calonectris_borealis](https://tolqc.cog.sanger.ac.uk/vgp/birds/Calonectris_borealis)| 
+| vgp | fish | [Acipenser_ruthenus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Acipenser_ruthenus)| 
+| vgp | fish | [Barbus_barbus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Barbus_barbus)| 
+| vgp | fish | [Borostomias_antarcticus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Borostomias_antarcticus)| 
+| vgp | fish | [Chanos_chanos](https://tolqc.cog.sanger.ac.uk/vgp/fish/Chanos_chanos)| 
+| vgp | fish | [Electrona_antarctica](https://tolqc.cog.sanger.ac.uk/vgp/fish/Electrona_antarctica)| 
+| vgp | fish | [Harpagifer_antarcticus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Harpagifer_antarcticus)| 
+| vgp | fish | [Lipophrys_pholis](https://tolqc.cog.sanger.ac.uk/vgp/fish/Lipophrys_pholis)| 
+| vgp | fish | [Notolepis_coatsi](https://tolqc.cog.sanger.ac.uk/vgp/fish/Notolepis_coatsi)| 
+| vgp | fish | [Pholis_gunnellus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Pholis_gunnellus)| 
+| vgp | fish | [Salmo_trutta](https://tolqc.cog.sanger.ac.uk/vgp/fish/Salmo_trutta)| 
+| vgp | fish | [Solea_solea](https://tolqc.cog.sanger.ac.uk/vgp/fish/Solea_solea)| 
+| vgp | fish | [Taurulus_bubalis](https://tolqc.cog.sanger.ac.uk/vgp/fish/Taurulus_bubalis)| 
+| vgp | fish | [Telmatherina_bonti](https://tolqc.cog.sanger.ac.uk/vgp/fish/Telmatherina_bonti)| 
+| vgp | fish | [Thunnus_albacares](https://tolqc.cog.sanger.ac.uk/vgp/fish/Thunnus_albacares)| 
+| vgp | fish | [Thunnus_maccoyii](https://tolqc.cog.sanger.ac.uk/vgp/fish/Thunnus_maccoyii)| 
+| vgp | fish | [Trachurus_trachurus](https://tolqc.cog.sanger.ac.uk/vgp/fish/Trachurus_trachurus)| 
+| vgp | mammals | [Apodemus_sylvaticus](https://tolqc.cog.sanger.ac.uk/vgp/mammals/Apodemus_sylvaticus)| 
+| vgp | mammals | [Canis_lupus](https://tolqc.cog.sanger.ac.uk/vgp/mammals/Canis_lupus)| 
+| vgp | mammals | [Cervus_elaphus](https://tolqc.cog.sanger.ac.uk/vgp/mammals/Cervus_elaphus)| 
+| vgp | mammals | [Meles_meles](https://tolqc.cog.sanger.ac.uk/vgp/mammals/Meles_meles)| 
