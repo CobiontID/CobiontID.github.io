@@ -20,7 +20,7 @@ The **CobiontID** process has two parts: First, **Marker scan** provides taxonom
 
 ### What kind of information does CobiontID provide?
 
-See [here] for an illustration of the outputs the tools presented here provide, and how to interpret them. If you have ever looked at the "Cobionts" section of a page on [Tree of Life QC](https://tolqc.cog.sanger.ac.uk/) and wondered how to read the tables and plots, your questions will hopefully be answered here (a list of pages with examples can be found [here](vae_links.html)).
+See [here] for an illustration of the outputs the tools presented here provide, and how to interpret them. If you have ever looked at the "Cobionts" section of a page on [Tree of Life QC](https://tolqc.cog.sanger.ac.uk/) and wondered how to read the tables and plots, your questions will hopefully be answered here (a list of pages with examples can be found [here](vae_tolqc.html)).
 
 [here]: examples.html
 
