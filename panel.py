@@ -394,7 +394,7 @@ def make_panel(scatter, fasta):
 
     button_seq = pn.widgets.Button(name="Get sequence", button_type="primary")
 
-    blast_pane = pn.pane.HTML("""Do megablast""", style={'background-color': '#fcfcfc', 'border': '1px solid black',
+    blast_pane = pn.pane.HTML("""Do megablast""", styles={'background-color': '#fcfcfc', 'border': '1px solid black',
                                                          'padding': '5px', 'overflow': 'scroll', 'width': '310px', 'height': '100px'})
 
     button_blast.on_click(button_click_blast)
@@ -405,7 +405,7 @@ def make_panel(scatter, fasta):
         name='Find read coordinates', button_type='primary')
     button_find.on_click(find_read)
 
-    seq_preview = pn.pane.HTML(""" """, style={'background-color': '#fcfcfc', 'border': '1px solid black',
+    seq_preview = pn.pane.HTML(""" """, styles={'background-color': '#fcfcfc', 'border': '1px solid black',
                                                'padding': '5px', 'overflow': 'scroll', 'width': '700px', 'height': '50px'})
 
     file_download = pn.widgets.FileDownload(callback=download_csv, filename='reads.txt',
