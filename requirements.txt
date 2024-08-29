@@ -1,9 +1,9 @@
 panel
 param
 jupyter
-transformers
+#transformers
 numpy==1.23.1
-torch
+#torch
 aiohttp
 datashader
 holoviews==1.17.1
