@@ -16,8 +16,9 @@ This repository provides an overview of the pipelines and tools developed to ide
 A demo of the interactive dashboard to explore read sets is available [here](https://huggingface.co/spaces/cc7740/read_VAE). You can also try running the demo on [Gitpod](https://gitpod.io/new/#https://github.com/CobiontID/CobiontID.github.io/). A colab notebook with a more limited feature set and instructions is available [here](https://colab.research.google.com/github/CobiontID/CobiontID.github.io/blob/gh-pages/Readviz_demo.ipynb).
 
 ## Associated publications
-## Citation
-*Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition* https://www.biorxiv.org/content/10.1101/2024.05.30.596622v1
+*Disentangling Cobionts and Contamination in Long-Read Genomic Data using Sequence Composition* https://academic.oup.com/g3journal/advance-article/doi/10.1093/g3journal/jkae187/7734044
+
+*Kudoa genomes from contaminated hosts reveal extensive gene order conservation and rapid sequence evolution* https://www.biorxiv.org/content/10.1101/2024.11.01.621499v1
 
 *Phylogenomic analysis of Wolbachia genomes from the Darwin Tree of Life biodiversity genomics project* https://journals.plos.org/plosbiology/article?id=10.1371/journal.pbio.3001972
 
